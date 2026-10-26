@@ -4,9 +4,9 @@ title: Politique de confidentialité
 
 # Politique de confidentialité de SnapSpot
 
-*Dernière mise à jour : 25 octobre 2026*
+*Dernière mise à jour : 26 octobre 2026*
 
-SnapSpot est une app iOS développée par Ponin Sor (« nous »). Cette page explique quelles données l'app utilise,
+SnapSpot est une app iOS développée par Ponin Sor (« nous »). Cette page explique quelles données l'app utilise,
 où elles restent, et quels services elle contacte.
 
 ## En bref
@@ -14,7 +14,7 @@ où elles restent, et quels services elle contacte.
 - **Nous ne collectons aucune donnée.** Il n'y a ni compte, ni publicité, ni suivi, ni statistiques d'usage,
   ni outil d'analyse tiers.
 - Vos photos, spots, parcours, repères et fiches restent **sur votre iPhone**.
-- Rien ne nous est envoyé : nous n'avons pas de serveur.
+- Rien ne nous est envoyé : nous n'avons pas de serveur.
 
 ## Données utilisées sur votre iPhone
 
@@ -59,17 +59,22 @@ Les bips de guidage et la voix du copilote sont produits sur l'iPhone. SnapSpot 
 ## Services contactés par l'app
 
 Pour certaines fonctions, l'app interroge des services publics. Comme pour toute page web, ces services voient
-votre adresse IP et la zone demandée ; ils ne reçoivent aucune autre information vous concernant.
+votre adresse IP et la zone demandée ; ils ne reçoivent aucune autre information vous concernant.
 
-- **IGN – Géoplateforme** (data.geopf.fr) : cartes, photographies aériennes, couches forestières, cadastre,
-  géologie (BRGM) et pentes. La fonction « Ici » (appui long sur la carte) envoie la position du point touché pour
+- **IGN – Géoplateforme** (data.geopf.fr) : cartes, photographies aériennes, couches forestières, cadastre,
+  géologie (BRGM) et pentes. La fonction « Ici » (appui long sur la carte) envoie la position du point touché pour
   savoir ce que montre la couche à cet endroit.
-- **OpenStreetMap** et **OpenTopoMap** : seulement si vous choisissez ces fonds de carte.
-- **Apple Plans** : fonds de carte Apple, et noms des lieux (forêt, commune) déduits de la position de vos photos
+- **OpenStreetMap** et **OpenTopoMap** : seulement si vous choisissez ces fonds de carte.
+- **Apple Plans** : fonds de carte Apple, et noms des lieux (forêt, commune) déduits de la position de vos photos
   et parcours. Ces demandes sont traitées par Apple selon sa propre politique de confidentialité.
-- **Wikipédia** : un article ne s'ouvre dans votre navigateur que si vous touchez son lien.
+- **Wikipédia** : un article ne s'ouvre dans votre navigateur que si vous touchez son lien.
 
 Les cartes déjà consultées et les zones téléchargées restent sur l'iPhone pour un usage hors réseau.
+
+## Ce site
+
+Ce site est hébergé par GitHub Pages. Comme tout hébergeur, GitHub peut enregistrer des journaux techniques (adresse IP,
+page demandée) lorsque vous le consultez. SnapSpot n'y ajoute aucun suivi ni aucun cookie.
 
 ## Partage
 
@@ -86,7 +91,7 @@ Un spot, un parcours ou une sauvegarde ne quitte votre iPhone que si vous le par
 
 ## Vos droits
 
-Nous ne détenons aucune donnée vous concernant : vos droits d'accès, de rectification et d'effacement
+Nous ne détenons aucune donnée vous concernant : vos droits d'accès, de rectification et d'effacement
 (Règlement général sur la protection des données) s'exercent directement sur votre iPhone, en modifiant ou
 supprimant vos données dans l'app. Vous pouvez retirer chaque autorisation dans Réglages › Apps › SnapSpot.
 Pour toute question, écrivez-nous (voir ci-dessous). Vous pouvez aussi saisir la CNIL (www.cnil.fr).
