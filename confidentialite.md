@@ -4,9 +4,9 @@ title: Politique de confidentialité
 
 # Politique de confidentialité de SnapSpot
 
-*Dernière mise à jour : 23 octobre 2026*
+*Dernière mise à jour : 25 octobre 2026*
 
-SnapSpot est une app iOS développée par Poninsor (« nous »). Cette page explique quelles données l'app utilise,
+SnapSpot est une app iOS développée par Ponin Sor (« nous »). Cette page explique quelles données l'app utilise,
 où elles restent, et quels services elle contacte.
 
 ## En bref
@@ -29,6 +29,8 @@ En arrière-plan, la position n'est utilisée que pendant l'enregistrement d'un 
 **Photos**
 SnapSpot lit la date et la position de vos photos de cueillette pour les placer sur la carte, et en garde des
 miniatures dans l'app. Les photos prises dans SnapSpot sont ajoutées à votre photothèque si vous l'acceptez.
+Si vous envoyez des photos à SnapSpot depuis la feuille de partage de l'iPhone, elles transitent par un dossier
+partagé entre l'extension de partage et l'app, sur l'appareil, puis sont importées dans l'app.
 
 **Caméra**
 Pour photographier une cueillette, identifier un champignon en direct et afficher le guidage en réalité augmentée.
@@ -47,8 +49,12 @@ SnapSpot **ne lit aucune donnée de Santé**. Les données écrites dans Santé 
 publicitaires ni communiquées à des tiers.
 
 **Notifications**
-Des notifications locales, créées sur l'iPhone, vous rappellent un parcours toujours en cours. Aucune notification
-ne passe par un serveur.
+Des notifications locales, créées sur l'iPhone, vous rappellent un parcours toujours en cours ou une possible
+sortie en voiture avec un parcours actif. Aucune notification ne passe par un serveur. L'écran verrouillé affiche
+l'avancement du parcours dans une Live Activity, gérée par l'iPhone.
+
+**Son et voix**
+Les bips de guidage et la voix du copilote sont produits sur l'iPhone. SnapSpot n'utilise pas le microphone.
 
 ## Services contactés par l'app
 
