@@ -81,6 +81,7 @@ direction, et une voix peut vous corriger le cap.
 *Le sonar : une onde part du spot et s'élargit au sol, à la taille réelle de la zone, pour juger de la distance.*
 
 <div class="shots">
+<figure><img src="images/15-guidage-carte.jpg" alt="Guidage sur la carte vers un point choisi"><figcaption>Un appui long sur la carte, « Me guider » : un chemin de points vers le point choisi.</figcaption></figure>
 <figure><img src="images/10-guidage-cible.jpg" alt="Guidage vers un spot"><figcaption>Distance, direction et mini-carte.</figcaption></figure>
 <figure><img src="images/11-live-activity.jpg" alt="Live Activity sur l'écran verrouillé"><figcaption>Votre balade sur l'écran verrouillé.</figcaption></figure>
 <figure><img src="images/08-detail-parcours.jpg" alt="Détail d'un parcours"><figcaption>Un parcours, avec ses photos.</figcaption></figure>
