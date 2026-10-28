@@ -9,3 +9,11 @@
 .shots figcaption { font-size: 0.85em; margin-top: 4px; line-height: 1.3; }
 .video { text-align: center; }
 .video video { max-width: 260px; width: 100%; border-radius: 14px; border: 1px solid #ddd; }
+
+.hero { font-size: 1.9em; font-weight: 700; line-height: 1.2; margin: 0.2em 0 0.6em; color: #c96a35; }
+.badges { list-style: none; padding: 0; margin: 14px 0 22px; display: flex; flex-wrap: wrap; gap: 8px; }
+.badges li { margin: 0; padding: 4px 12px; border: 1px solid #c96a35; border-radius: 999px; font-size: 0.85em; color: #8a4520; background: #fbf3ee; }
+.steps { display: flex; flex-wrap: wrap; gap: 16px; margin: 18px 0; }
+.steps figure { margin: 0; width: calc(50% - 8px); min-width: 220px; }
+.steps img { width: 100%; border-radius: 14px; border: 1px solid #ddd; }
+.steps figcaption { font-size: 0.9em; margin-top: 6px; line-height: 1.35; }

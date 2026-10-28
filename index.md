@@ -4,39 +4,30 @@ title: SnapSpot
 
 # SnapSpot
 
-**Retrouvez vos coins à champignons, identifiez ce que vous cueillez, et gardez tout pour vous.**
-L'app des cueilleurs, pensée pour la forêt, même sans réseau. Pour iPhone.
+<p class="hero">Vos coins. Vos cueillettes.<br>À vous seuls.</p>
 
-<div class="shots">
-<figure><img src="images/01-carte.jpg" alt="Carte des cueillettes sur la carte forestière IGN"><figcaption>Vos cueillettes sur la carte forestière IGN.</figcaption></figure>
-<figure><img src="images/02-identifier-photo.jpg" alt="Identification en direct d'un lactaire"><figcaption>Identification en direct.</figcaption></figure>
-<figure><img src="images/09-realite-augmentee.jpg" alt="Guidage en réalité augmentée"><figcaption>Guidage en réalité augmentée.</figcaption></figure>
+**Prospectez les forêts, identifiez vos trouvailles, retrouvez vos meilleurs spots.** Le compagnon de terrain du
+cueilleur de champignons, pour iPhone. Même sans réseau.
+
+<ul class="badges">
+<li>Fonctionne sans réseau</li>
+<li>Sans compte</li>
+<li>Sans publicité</li>
+<li>Vos données restent sur l'iPhone</li>
+</ul>
+
+## Prospecter. Identifier. Mémoriser. Retrouver.
+
+<div class="steps">
+<figure><img src="images/01-carte.jpg" alt="Carte forestière IGN avec vos cueillettes"><figcaption><b>1. Prospecter</b><br>Carte forestière, forêts publiques, forêts anciennes, géologie, pentes, relief, cadastre : les cartes IGN aident à repérer les milieux favorables, et se téléchargent avant de partir.</figcaption></figure>
+<figure><img src="images/02-identifier-photo.jpg" alt="Identification en direct d'un champignon"><figcaption><b>2. Identifier</b><br>Un modèle fait pour les champignons, sur l'iPhone, sans réseau. Plusieurs propositions, les ressemblances dangereuses signalées, jamais un verdict.</figcaption></figure>
+<figure><img src="images/04-photos.jpg" alt="Vos photos classées par espèce"><figcaption><b>3. Mémoriser</b><br>Chaque photo géolocalisée devient un spot. Classez par espèce, retrouvez par saison, par année ou par comestibilité, et posez des repères : voiture, entrée de forêt, passage.</figcaption></figure>
+<figure><img src="images/09-realite-augmentee.jpg" alt="Guidage en réalité augmentée vers un spot"><figcaption><b>4. Retrouver</b><br>Carte, boussole ou réalité augmentée jusqu'au spot, avec des sons et des vibrations quand le téléphone reste dans la poche. Vos balades sont enregistrées.</figcaption></figure>
 </div>
 
-## À quoi sert SnapSpot ?
-
 **SnapSpot n'est pas une carte de zones de cueillette.** Elle ne vous dit pas où aller : elle vous aide à
-**prospecter** et à **garder la mémoire de vos propres coins**.
-
-- **Prospecter.** La carte forestière, les forêts publiques, les forêts anciennes, la géologie, les pentes, le relief
-  ou le cadastre (cartes IGN, utilisables hors ligne) aident à repérer les milieux favorables à chaque espèce.
-- **Cartographier vos spots.** Chaque photo géolocalisée devient un spot que vous retrouvez facilement, par carte,
-  boussole ou réalité augmentée.
-- **Les classer.** Par espèce, puis les rechercher par saison, par année ou par comestibilité.
-
-Les champignons reviennent d'une année à l'autre, au même endroit et à la même période : les spots d'hier préparent
-la saison de demain.
-
-## Comment ça marche
-
-1. **Vous photographiez** une trouvaille avec l'appareil photo de l'iPhone ou celui de l'app. La position est
-   enregistrée avec la photo.
-2. **L'app propose une espèce** et vous montre sa fiche : comestibilité, ressemblances, milieu, saison.
-3. **Vos cueillettes se placent sur une carte**, en zones de chaleur, hexagones ou regroupements, que vous filtrez par
-   espèce, par année ou par saison.
-4. **Vous y retournez** : l'app vous guide à pied jusqu'au spot, par carte, boussole ou réalité augmentée, avec des
-   sons et des vibrations quand le téléphone reste dans la poche.
-5. **Vous enregistrez vos balades** : tracé, distance, dénivelé, temps de marche et à l'arrêt.
+prospecter, puis garde la mémoire de vos propres coins. Les champignons reviennent d'une année à l'autre, au même
+endroit et à la même période : les spots d'hier préparent la saison de demain.
 
 ## Identifier, avec un modèle fait pour les champignons
 
