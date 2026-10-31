@@ -17,3 +17,6 @@
 .steps figure { margin: 0; width: calc(50% - 8px); min-width: 220px; }
 .steps img { width: 100%; border-radius: 14px; border: 1px solid #ddd; }
 .steps figcaption { font-size: 0.9em; margin-top: 6px; line-height: 1.35; }
+
+/* Le dépôt ne contient que les pages du site : ni lien vers lui, ni pseudo GitHub. */
+header p.view, footer p:first-child { display: none; }
