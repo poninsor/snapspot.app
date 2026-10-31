@@ -81,7 +81,7 @@ direction, et une voix peut vous corriger le cap.
 *Le sonar : une onde part du spot et s'élargit au sol, à la taille réelle de la zone, pour juger de la distance.*
 
 <div class="shots">
-<figure><img src="images/15-guidage-carte.jpg" alt="Guidage sur la carte vers un point choisi"><figcaption>Un appui long sur la carte, « Me guider » : un chemin de points vers le point choisi.</figcaption></figure>
+<figure><img src="images/15-guidage-carte.jpg" alt="Guidage sur la carte vers un point choisi"><figcaption>Un appui long sur la carte, « Me guider » : un chemin de points vers le point choisi.</figcaption></figure>
 <figure><img src="images/10-guidage-cible.jpg" alt="Guidage vers un spot"><figcaption>Distance, direction et mini-carte.</figcaption></figure>
 <figure><img src="images/11-live-activity.jpg" alt="Live Activity sur l'écran verrouillé"><figcaption>Votre balade sur l'écran verrouillé.</figcaption></figure>
 <figure><img src="images/08-detail-parcours.jpg" alt="Détail d'un parcours"><figcaption>Un parcours, avec ses photos.</figcaption></figure>
@@ -95,12 +95,18 @@ direction, et une voix peut vous corriger le cap.
 - Vos photos, vos spots, vos parcours et vos analyses **restent sur votre iPhone**. Nous ne pouvons pas les voir,
   même si nous le voulions.
 - L'identification, la description et le guidage se font **sur l'appareil**.
-- Seul le téléchargement des cartes IGN contacte un service public, comme n'importe quelle page web. Une fois
-  téléchargées, elles fonctionnent sans réseau.
+- Seuls les services publics de cartes et de météo sont contactés (cartes IGN, noms de lieux, recherche d'un lieu,
+  pluie des 7 derniers jours), comme n'importe quelle page web, sans jamais envoyer vos photos ni vos spots. Les
+  cartes téléchargées à l'avance fonctionnent sans réseau.
 - Vos coins à champignons sont à vous : ils ne quittent l'iPhone que si vous les partagez vous-même.
 
 ## Aussi dans l'app
 
+- **Indices de terrain** : notez l'odeur, la chair, le milieu ou la sporée, par dictée ou par suggestions. Ils
+  pondèrent les propositions et un avis comparatif d'Apple Intelligence, que vous pouvez relancer.
+- **Rechercher sur la carte** : un lieu, une adresse, des coordonnées, ou une de vos cueillettes, un parcours, un repère.
+- **Pluie et lune** : la pluie des 7 derniers jours et l'humidité du sol sur la fiche « Ici », et la phase de la lune
+  du jour, à titre indicatif.
 - **Partage depuis Photos** : la feuille de partage de l'iPhone envoie des photos à SnapSpot, qui lit leur position.
 - **Export et transfert** : GPX, spots, parcours avec leurs photos, ou toute votre collection vers un autre iPhone par
   AirDrop.
