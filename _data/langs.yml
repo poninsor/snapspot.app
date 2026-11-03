@@ -1,0 +1,9 @@
+- {code: fr, name: Français, prefix: ""}
+- {code: en, name: English, prefix: "/en"}
+- {code: de, name: Deutsch, prefix: "/de"}
+- {code: es, name: Español, prefix: "/es"}
+- {code: it, name: Italiano, prefix: "/it"}
+- {code: pt-PT, name: Português, prefix: "/pt"}
+- {code: nl, name: Nederlands, prefix: "/nl"}
+- {code: pl, name: Polski, prefix: "/pl"}
+- {code: sv, name: Svenska, prefix: "/sv"}

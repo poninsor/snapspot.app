@@ -1,6 +1,9 @@
 ---
+lang: fr
+page_id: home
 title: SnapSpot
 ---
+{% include langs.html %}
 
 # SnapSpot
 

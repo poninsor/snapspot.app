@@ -1,6 +1,9 @@
 ---
+lang: fr
+page_id: support
 title: Assistance
 ---
+{% include langs.html %}
 
 # Assistance SnapSpot
 

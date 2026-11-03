@@ -1,6 +1,9 @@
 ---
+lang: fr
+page_id: privacy
 title: Politique de confidentialité
 ---
+{% include langs.html %}
 
 # Politique de confidentialité de SnapSpot
 

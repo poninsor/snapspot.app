@@ -20,3 +20,5 @@
 
 /* Le dépôt ne contient que les pages du site : ni lien vers lui, ni pseudo GitHub. */
 header p.view, footer p:first-child { display: none; }
+
+.langs { font-size: 0.85em; margin: 0 0 14px; color: #666; }

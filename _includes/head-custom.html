@@ -1,0 +1,9 @@
+{%- assign pid = page.page_id | default: "home" -%}
+{%- for l in site.data.langs -%}
+{%- if l.code == "fr" -%}
+  {%- case pid -%}{%- when "privacy" -%}{%- assign path = "/confidentialite" -%}{%- when "support" -%}{%- assign path = "/assistance" -%}{%- else -%}{%- assign path = "/" -%}{%- endcase -%}
+{%- else -%}
+  {%- case pid -%}{%- when "privacy" -%}{%- assign path = l.prefix | append: "/privacy" -%}{%- when "support" -%}{%- assign path = l.prefix | append: "/support" -%}{%- else -%}{%- assign path = l.prefix | append: "/" -%}{%- endcase -%}
+{%- endif -%}
+<link rel="alternate" hreflang="{{ l.code }}" href="{{ path | absolute_url }}">
+{% endfor -%}
