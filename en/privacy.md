@@ -65,6 +65,7 @@ requested area; they receive no other information about you.
 - **IGN – Géoplateforme** (data.geopf.fr): maps, aerial photographs, forest layers, cadastre, geology (BRGM) and
   slopes. The “Here” feature (long press on the map) sends the position of the touched point to find out what the
   layer shows there.
+- **IGN – route calculation** (data.geopf.fr): only if you choose “By trails” to head back, your current position and the destination are sent to the IGN to compute a walking route. The app keeps nothing.
 - **OpenStreetMap** and **OpenTopoMap**: only if you choose these map backgrounds.
 - **Apple Maps**: Apple map backgrounds, and place names (forest, municipality) derived from the location of your
   photos and tracks, as well as the places and addresses you type in the map search. These requests are handled by

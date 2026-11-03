@@ -67,6 +67,7 @@ indirizzo IP e la zona richiesta; non ricevono nessun'altra informazione su di t
 - **IGN – Géoplateforme** (data.geopf.fr): mappe, fotografie aeree, livelli forestali, catasto, geologia (BRGM) e
   pendenze. La funzione «Qui» (pressione prolungata sulla mappa) invia la posizione del punto toccato per sapere che
   cosa mostra il livello in quel punto.
+- **IGN – calcolo dell'itinerario** (data.geopf.fr): solo se scegli «Per i sentieri» per tornare, la tua posizione attuale e la destinazione vengono inviate all'IGN per calcolare un percorso a piedi. L'app non conserva nulla.
 - **OpenStreetMap** e **OpenTopoMap**: solo se scegli questi sfondi di mappa.
 - **Mappe di Apple**: sfondi di mappa Apple, e nomi di luoghi (foresta, comune) dedotti dalla posizione delle tue foto
   e dei tuoi percorsi, nonché i luoghi e gli indirizzi che digiti nella ricerca della mappa. Queste richieste sono

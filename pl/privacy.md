@@ -67,6 +67,7 @@ widzą Twój adres IP i żądany obszar; nie otrzymują żadnych innych informac
 - **IGN – Géoplateforme** (data.geopf.fr): mapy, zdjęcia lotnicze, warstwy leśne, kataster, geologia (BRGM) i
   nachylenia. Funkcja „Tutaj” (długie przytrzymanie na mapie) wysyła pozycję dotkniętego punktu, aby sprawdzić, co
   pokazuje tam warstwa.
+- **IGN – wyznaczanie trasy** (data.geopf.fr): tylko jeśli wybierzesz „Szlakami” przy powrocie, Twoja aktualna pozycja i cel są wysyłane do IGN w celu wyznaczenia trasy pieszej. Aplikacja niczego nie zachowuje.
 - **OpenStreetMap** i **OpenTopoMap**: tylko jeśli wybierzesz te tła map.
 - **Mapy Apple**: tła map Apple oraz nazwy miejsc (las, gmina) wyprowadzone z lokalizacji Twoich zdjęć i tras, a także
   miejsca i adresy wpisywane w wyszukiwarce mapy. Te żądania są przetwarzane przez Apple zgodnie z jego własną polityką
