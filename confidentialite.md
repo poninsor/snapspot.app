@@ -67,9 +67,10 @@ votre adresse IP et la zone demandée ; ils ne reçoivent aucune autre informa
 - **OpenStreetMap** et **OpenTopoMap** : seulement si vous choisissez ces fonds de carte.
 - **Apple Plans** : fonds de carte Apple, et noms des lieux (forêt, commune) déduits de la position de vos photos
   et parcours, ainsi que les lieux et adresses que vous tapez dans la recherche de la carte. Ces demandes sont traitées par Apple selon sa propre politique de confidentialité.
-- **Open-Meteo** (open-meteo.com) : pluie des 7 derniers jours et humidité du sol, affichées sur la fiche « Ici » de
-  la carte. La position du point touché, arrondie à environ 1 km, est envoyée, seulement quand un réseau est
-  disponible.
+- **Open-Meteo** (open-meteo.com) : météo des 14 derniers jours (pluie, températures, humidité et température du
+  sol), affichée sur la fiche « Ici » de la carte et dans le détail d'une cueillette. La position du point touché ou
+  de la cueillette, arrondie à environ 1 km, et la date de la cueillette sont envoyées, seulement quand un réseau est
+  disponible ; la dernière météo consultée est gardée sur l'appareil.
 - **Wikipédia** : un article ne s'ouvre dans votre navigateur que si vous touchez son lien.
 
 Les cartes déjà consultées et les zones téléchargées restent sur l'iPhone pour un usage hors réseau.
