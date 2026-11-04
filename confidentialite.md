@@ -67,7 +67,8 @@ votre adresse IP et la zone demandée ; ils ne reçoivent aucune autre informa
 - **IGN – Géoplateforme** (data.geopf.fr) : cartes, photographies aériennes, couches forestières, cadastre,
   géologie (BRGM) et pentes. La fonction « Ici » (appui long sur la carte) envoie la position du point touché pour
   savoir ce que montre la couche à cet endroit.
-- **IGN – calcul d'itinéraire** (data.geopf.fr) : seulement si vous choisissez « Par les sentiers » pour rentrer, votre position du moment et la destination sont envoyées à l'IGN pour calculer un chemin piéton. Rien n'est conservé par l'app.
+- **Randonnées (catalogue embarqué)** : la recherche de randonnées se fait sur l'appareil, à partir d'un catalogue intégré à l'app (OpenStreetMap, IGN) : rien n'est envoyé. Seule une randonnée dont l'altitude manque dans le catalogue (hors métropole) fait demander son altitude à l'IGN, à partir de points de son tracé.
+- **IGN – calcul d'itinéraire** (data.geopf.fr) : seulement si vous choisissez « Par les sentiers » pour rentrer, ou activez « Privilégier les chemins/sentiers » (itinéraire par points ou guidage en cours), les positions concernées (votre position actuelle, la destination ou les points de l'itinéraire) sont envoyées à l'IGN pour calculer un chemin piéton. Rien n'est conservé par l'app.
 - **OpenStreetMap** et **OpenTopoMap** : seulement si vous choisissez ces fonds de carte.
 - **Apple Plans** : fonds de carte Apple, et noms des lieux (forêt, commune) déduits de la position de vos photos
   et parcours, ainsi que les lieux et adresses que vous tapez dans la recherche de la carte. Ces demandes sont traitées par Apple selon sa propre politique de confidentialité.

@@ -67,7 +67,8 @@ IP-adress och det efterfrågade området; de får ingen annan information om dig
 - **IGN – Géoplateforme** (data.geopf.fr): kartor, flygfoton, skogslager, fastighetskarta, geologi (BRGM) och
   lutning. Funktionen ”Här” (långt tryck på kartan) skickar positionen för den punkt du trycker på för att ta reda
   på vad lagret visar där.
-- **IGN – ruttberäkning** (data.geopf.fr): endast om du väljer ”Längs stigarna” för att ta dig tillbaka skickas din aktuella position och destinationen till IGN för att beräkna en gångrutt. Appen sparar ingenting.
+- **Vandringar (inbyggd katalog)**: vandringssökningen sker på enheten med en katalog som är inbyggd i appen (OpenStreetMap, IGN): inget skickas. Bara när höjden för en vandring saknas i katalogen (utanför fastlandsfrankrike) begärs höjden från IGN utifrån punkter på rutten.
+- **IGN – ruttberäkning** (data.geopf.fr): endast om du väljer ”Längs stigarna” för att ta dig tillbaka, eller slår på ”Föredra stigar och leder” (rutt med punkter eller pågående vägledning), skickas de berörda positionerna (din aktuella position, destinationen eller ruttens punkter) till IGN för att beräkna en gångrutt. Appen sparar ingenting.
 - **OpenStreetMap** och **OpenTopoMap**: bara om du väljer dessa kartbakgrunder.
 - **Apple Kartor**: Apples kartbakgrunder och ortnamn (skog, kommun) som härleds från positionen för dina bilder och
   rutter, samt de platser och adresser du skriver i kartans sökfält. Dessa förfrågningar behandlas av Apple enligt

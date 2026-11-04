@@ -67,7 +67,8 @@ het opgevraagde gebied; ze ontvangen geen andere informatie over jou.
 - **IGN – Géoplateforme** (data.geopf.fr): kaarten, luchtfoto's, boslagen, kadaster, geologie (BRGM) en hellingen. De
   functie “Hier” (lange druk op de kaart) verstuurt de positie van het aangeraakte punt om te weten wat de laag daar
   toont.
-- **IGN – routeberekening** (data.geopf.fr): alleen als u voor de terugweg ‘Via de paden’ kiest, worden uw huidige positie en de bestemming naar het IGN gestuurd om een wandelroute te berekenen. De app bewaart niets.
+- **Wandelingen (ingebouwde catalogus)**: het zoeken naar wandelingen gebeurt op het toestel met een in de app ingebouwde catalogus (OpenStreetMap, IGN): er wordt niets verzonden. Alleen als de hoogte van een wandeling in de catalogus ontbreekt (buiten Frankrijk zelf), wordt de hoogte bij het IGN opgevraagd op basis van punten van de route.
+- **IGN – routeberekening** (data.geopf.fr): alleen als u voor de terugweg ‘Via de paden’ kiest, of ‘Paden en wegen verkiezen’ inschakelt (route met punten of lopende geleiding), worden de betrokken posities (uw huidige positie, de bestemming of de punten van de route) naar het IGN gestuurd om een wandelroute te berekenen. De app bewaart niets.
 - **OpenStreetMap** en **OpenTopoMap**: alleen als je deze kaartachtergronden kiest.
 - **Apple Kaarten**: Apple-kaartachtergronden, en plaatsnamen (bos, gemeente) afgeleid van de locatie van je foto's en
   routes, evenals de plaatsen en adressen die je in het zoekveld van de kaart typt. Deze verzoeken worden door Apple

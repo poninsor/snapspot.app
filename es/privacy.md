@@ -66,7 +66,8 @@ dirección IP y la zona solicitada; no reciben ninguna otra información sobre t
 - **IGN – Géoplateforme** (data.geopf.fr): mapas, fotografías aéreas, capas forestales, catastro, geología (BRGM) y
   pendientes. La función «Aquí» (pulsación larga en el mapa) envía la posición del punto tocado para saber qué muestra
   la capa en ese lugar.
-- **IGN – cálculo de itinerario** (data.geopf.fr): solo si elige «Por los senderos» para volver, su posición actual y el destino se envían al IGN para calcular un camino a pie. La app no conserva nada.
+- **Excursiones (catálogo integrado)**: la búsqueda de excursiones se hace en el dispositivo, con un catálogo integrado en la app (OpenStreetMap, IGN): no se envía nada. Solo si a una excursión le falta la altitud en el catálogo (fuera de la Francia metropolitana) se pide su altitud al IGN, a partir de puntos de su trazado.
+- **IGN – cálculo de itinerario** (data.geopf.fr): solo si elige «Por los senderos» para volver, o activa «Priorizar caminos y senderos» (itinerario por puntos o guía en curso), las posiciones implicadas (su posición actual, el destino o los puntos del itinerario) se envían al IGN para calcular un camino a pie. La app no conserva nada.
 - **OpenStreetMap** y **OpenTopoMap**: solo si eliges estos fondos de mapa.
 - **Apple Mapas**: fondos de mapa de Apple, y nombres de lugares (bosque, municipio) deducidos de la ubicación de tus
   fotos y rutas, así como los lugares y direcciones que escribes en la búsqueda del mapa. Estas solicitudes las trata

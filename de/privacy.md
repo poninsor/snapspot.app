@@ -68,7 +68,8 @@ IP-Adresse und das angefragte Gebiet; sie erhalten keine weiteren Informationen 
 - **IGN – Géoplateforme** (data.geopf.fr): Karten, Luftbilder, Waldebenen, Kataster, Geologie (BRGM) und
   Hangneigung. Die Funktion „Hier“ (langer Druck auf die Karte) sendet die Position des berührten Punkts, um zu
   erfahren, was die Ebene dort zeigt.
-- **IGN – Routenberechnung** (data.geopf.fr): nur wenn Sie für den Rückweg „Über Wege und Pfade“ wählen, werden Ihre aktuelle Position und das Ziel an das IGN gesendet, um einen Fußweg zu berechnen. Die App speichert nichts.
+- **Wanderungen (integrierter Katalog)**: Die Wandersuche läuft auf dem Gerät mit einem in die App integrierten Katalog (OpenStreetMap, IGN): Es wird nichts gesendet. Nur bei einer Wanderung, deren Höhe im Katalog fehlt (außerhalb des französischen Festlands), wird die Höhe beim IGN anhand von Punkten der Route abgefragt.
+- **IGN – Routenberechnung** (data.geopf.fr): nur wenn Sie für den Rückweg „Über Wege und Pfade“ wählen oder „Wege und Pfade bevorzugen“ aktivieren (Punkte-Route oder laufende Führung), werden die betreffenden Positionen (Ihre aktuelle Position, das Ziel oder die Punkte der Route) an das IGN gesendet, um einen Fußweg zu berechnen. Die App speichert nichts.
 - **OpenStreetMap** und **OpenTopoMap**: nur, wenn Sie diese Kartenhintergründe wählen.
 - **Apple Karten**: Apple-Kartenhintergründe sowie Ortsnamen (Wald, Gemeinde), die aus dem Standort Ihrer Fotos und
   Touren abgeleitet werden, und die Orte und Adressen, die Sie in die Kartensuche eingeben. Diese Anfragen werden von
