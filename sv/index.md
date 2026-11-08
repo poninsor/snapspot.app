@@ -90,13 +90,20 @@ korrigera din kurs.
 
 *Skärmbilder tagna med demonstrationsdata.*
 
+## Gå och skapa dina egna rutter
+
+- **GPS-spårning** av dina promenader: sträcka, höjdskillnad, hastighet, pauser och markeringar, även med låst skärm.
+- **Egna rutter**: koppla ihop dina fynd eller sätt ut punkter på kartan, så leder SnapSpot dig från punkt till punkt.
+- **Tillbaka till start** i rak linje, längs ditt eget spår eller längs stigarna. Bara ”Längs stigarna” kontaktar IGN:s ruttjänst, med din position och målet, aldrig dina bilder eller ställen.
+- **Vandringsrutter**: en inbyggd katalog med nästan 38 000 rutter i Frankrike (OpenStreetMap, IGN), tillgänglig offline, med vägledande sträcka, höjdskillnad, tid och svårighetsgrad.
+
 ## Absolut integritet
 
 - **Ingen SnapSpot-server, inget konto, ingen reklam, ingen spårning, ingen användningsstatistik.**
 - Dina bilder, ställen, rutter och analyser **stannar på din iPhone**. Vi kan inte se dem, även om vi ville.
 - Bestämning, beskrivning och vägledning sker **på enheten**.
 - Bara offentliga kart- och väderstjänster kontaktas (IGN:s kartor, ortnamn, sökning efter en plats, regn de senaste
-  7 dagarna), som med vilken webbsida som helst, utan att dina bilder eller ställen någonsin skickas. Kartor som
+  14 dagarna), som med vilken webbsida som helst, utan att dina bilder eller ställen någonsin skickas. Kartor som
   laddats ner i förväg fungerar utan nät.
 - Dina svampställen är dina: de lämnar bara iPhone om du själv delar dem.
 
@@ -105,8 +112,9 @@ korrigera din kurs.
 - **Fältledtrådar**: anteckna lukt, kött, miljö eller sporavtryck, genom diktering eller förslag. De väger in i
   förslagen och i ett jämförande utlåtande från Apple Intelligence, som du kan köra om.
 - **Sök på kartan**: en plats, en adress, koordinater, eller ett av dina fynd, en rutt, en markering.
-- **Regn och måne**: regnet de senaste 7 dagarna och markfuktigheten på kortet ”Här”, samt dagens månfas, enbart som
+- **Regn och måne**: regnet de senaste 14 dagarna och markfuktigheten på kortet ”Här”, samt dagens månfas, enbart som
   information.
+- **Växtförhållanden**: ett vägledande index byggt på regn, markfuktighet och marktemperatur (kräver nät), aldrig ett löfte om skörd.
 - **Dela från Bilder**: iPhones delningsark skickar bilder till SnapSpot, som läser deras position.
 - **Export och överföring**: GPX, ställen, rutter med sina bilder eller hela din samling till en annan iPhone via
   AirDrop.

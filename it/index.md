@@ -93,6 +93,13 @@ distanza.*
 
 *Schermate realizzate con dati dimostrativi.*
 
+## Camminare e creare i tuoi itinerari
+
+- **Tracciamento GPS** delle tue camminate: distanza, dislivello, velocità, pause e segnaposto, anche a schermo bloccato.
+- **I tuoi itinerari**: collega i tuoi ritrovamenti o posiziona punti sulla mappa, e SnapSpot ti guida di punto in punto.
+- **Ritorno al punto di partenza** in linea retta, lungo il tuo percorso o sui sentieri. Solo «Per i sentieri» contatta il servizio di itinerari dell'IGN, con la tua posizione e la destinazione, mai le tue foto né i tuoi spot.
+- **Escursioni**: un catalogo integrato di quasi 38.000 itinerari in Francia (OpenStreetMap, IGN), consultabile offline, con distanza, dislivello, durata e difficoltà indicativi.
+
 ## Riservatezza assoluta
 
 - **Nessun server SnapSpot, nessun account, nessuna pubblicità, nessun tracciamento, nessuna statistica d'uso.**
@@ -100,7 +107,7 @@ distanza.*
   se volessimo.
 - Identificazione, descrizione e guida avvengono **sul dispositivo**.
 - Vengono contattati solo servizi pubblici di mappe e meteo (carte IGN, nomi di luoghi, ricerca di un luogo, pioggia
-  degli ultimi 7 giorni), come per qualsiasi pagina web, senza mai inviare le tue foto né i tuoi spot. Le mappe
+  degli ultimi 14 giorni), come per qualsiasi pagina web, senza mai inviare le tue foto né i tuoi spot. Le mappe
   scaricate in anticipo funzionano senza rete.
 - I tuoi posti di funghi sono tuoi: lasciano l'iPhone solo se li condividi tu stesso.
 
@@ -109,8 +116,9 @@ distanza.*
 - **Indizi di campo**: annota l'odore, la carne, l'ambiente o la sporata, a voce o con dei suggerimenti. Pesano sulle
   proposte e su un parere comparativo di Apple Intelligence, che puoi rilanciare.
 - **Cercare sulla mappa**: un luogo, un indirizzo, delle coordinate, o un tuo ritrovamento, un percorso, un segnaposto.
-- **Pioggia e luna**: la pioggia degli ultimi 7 giorni e l'umidità del suolo nella scheda «Qui», e la fase lunare del
+- **Pioggia e luna**: la pioggia degli ultimi 14 giorni e l'umidità del suolo nella scheda «Qui», e la fase lunare del
   giorno, a titolo indicativo.
+- **Condizioni di crescita**: un indice indicativo ricavato da pioggia, umidità e temperatura del suolo (rete necessaria), mai una promessa di raccolto.
 - **Condivisione da Foto**: il foglio di condivisione dell'iPhone invia foto a SnapSpot, che ne legge la posizione.
 - **Esportazione e trasferimento**: GPX, spot, percorsi con le loro foto, o tutta la collezione verso un altro iPhone
   con AirDrop.

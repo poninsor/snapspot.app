@@ -92,6 +92,13 @@ corrigir-lhe o rumo.
 
 *Capturas de ecrã realizadas com dados de demonstração.*
 
+## Caminhar e criar os seus percursos
+
+- **Registo GPS** das suas caminhadas: distância, desnível, velocidade, pausas e marcadores, mesmo com o ecrã bloqueado.
+- **Os seus próprios percursos**: encadeie os seus achados ou coloque pontos no mapa, e o SnapSpot guia-o de ponto em ponto.
+- **Regresso ao início** em linha reta, pelo seu percurso ou pelos trilhos. Apenas «Pelos trilhos» contacta o serviço de itinerários do IGN, com a sua posição e o destino, nunca as suas fotografias nem os seus spots.
+- **Caminhadas**: um catálogo integrado de quase 38 000 percursos em França (OpenStreetMap, IGN), disponível offline, com distância, desnível, duração e dificuldade indicativos.
+
 ## Privacidade absoluta
 
 - **Nenhum servidor SnapSpot, nenhuma conta, nenhuma publicidade, nenhum rastreio, nenhuma estatística de utilização.**
@@ -99,7 +106,7 @@ corrigir-lhe o rumo.
   quiséssemos.
 - A identificação, a descrição e a orientação fazem-se **no dispositivo**.
 - Apenas são contactados serviços públicos de mapas e de meteorologia (cartas do IGN, nomes de locais, pesquisa de um
-  local, chuva dos últimos 7 dias), como em qualquer página web, sem nunca enviar as suas fotografias nem os seus
+  local, chuva dos últimos 14 dias), como em qualquer página web, sem nunca enviar as suas fotografias nem os seus
   spots. Os mapas descarregados com antecedência funcionam sem rede.
 - Os seus cantinhos de cogumelos são seus: só saem do iPhone se os partilhar você mesmo.
 
@@ -108,8 +115,9 @@ corrigir-lhe o rumo.
 - **Pistas de terreno**: anote o cheiro, a carne, o meio ou a esporada, por ditado ou por sugestões. Ponderam as
   propostas e um parecer comparativo da Apple Intelligence, que pode relançar.
 - **Pesquisar no mapa**: um local, uma morada, coordenadas, ou um dos seus achados, um percurso, um marcador.
-- **Chuva e lua**: a chuva dos últimos 7 dias e a humidade do solo na ficha «Aqui», e a fase da lua do dia, a título
+- **Chuva e lua**: a chuva dos últimos 14 dias e a humidade do solo na ficha «Aqui», e a fase da lua do dia, a título
   indicativo.
+- **Condições de crescimento**: um índice indicativo baseado na chuva, na humidade e na temperatura do solo (requer rede), nunca uma promessa de colheita.
 - **Partilha a partir de Fotografias**: a folha de partilha do iPhone envia fotografias para o SnapSpot, que lê a
   sua localização.
 - **Exportação e transferência**: GPX, spots, percursos com as suas fotografias, ou toda a coleção para outro iPhone

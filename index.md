@@ -92,6 +92,13 @@ direction, et une voix peut vous corriger le cap.
 
 *Captures réalisées avec des données de démonstration.*
 
+## Marcher et créer vos itinéraires
+
+- **Suivi GPS** de vos balades : distance, dénivelé, vitesse, pauses et repères, même écran verrouillé.
+- **Vos propres itinéraires** : enchaînez vos cueillettes ou posez des points sur la carte, SnapSpot vous guide de point en point.
+- **Retour au départ** en ligne droite, par votre trajet ou par les sentiers. Seul « Par les sentiers » contacte le service d'itinéraires de l'IGN, avec votre position et la destination, jamais vos photos ni vos spots.
+- **Randonnées** : un catalogue embarqué de près de 38 000 itinéraires en France (OpenStreetMap, IGN), consultable hors ligne, avec distance, dénivelé, durée et difficulté indicatives.
+
 ## Confidentialité absolue
 
 - **Aucun serveur SnapSpot, aucun compte, aucune publicité, aucun suivi, aucune statistique d'usage.**
@@ -99,7 +106,7 @@ direction, et une voix peut vous corriger le cap.
   même si nous le voulions.
 - L'identification, la description et le guidage se font **sur l'appareil**.
 - Seuls les services publics de cartes et de météo sont contactés (cartes IGN, noms de lieux, recherche d'un lieu,
-  pluie des 7 derniers jours), comme n'importe quelle page web, sans jamais envoyer vos photos ni vos spots. Les
+  pluie des 14 derniers jours), comme n'importe quelle page web, sans jamais envoyer vos photos ni vos spots. Les
   cartes téléchargées à l'avance fonctionnent sans réseau.
 - Vos coins à champignons sont à vous : ils ne quittent l'iPhone que si vous les partagez vous-même.
 
@@ -108,8 +115,9 @@ direction, et une voix peut vous corriger le cap.
 - **Indices de terrain** : notez l'odeur, la chair, le milieu ou la sporée, par dictée ou par suggestions. Ils
   pondèrent les propositions et un avis comparatif d'Apple Intelligence, que vous pouvez relancer.
 - **Rechercher sur la carte** : un lieu, une adresse, des coordonnées, ou une de vos cueillettes, un parcours, un repère.
-- **Pluie et lune** : la pluie des 7 derniers jours et l'humidité du sol sur la fiche « Ici », et la phase de la lune
+- **Pluie et lune** : la pluie des 14 derniers jours et l'humidité du sol sur la fiche « Ici », et la phase de la lune
   du jour, à titre indicatif.
+- **Conditions de pousse** : un indice indicatif tiré de la pluie, de l'humidité et de la température du sol (réseau requis), jamais une promesse de récolte.
 - **Partage depuis Photos** : la feuille de partage de l'iPhone envoie des photos à SnapSpot, qui lit leur position.
 - **Export et transfert** : GPX, spots, parcours avec leurs photos, ou toute votre collection vers un autre iPhone par
   AirDrop.

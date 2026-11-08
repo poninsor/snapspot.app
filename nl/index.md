@@ -95,6 +95,13 @@ om de afstand in te schatten.*
 
 *Schermafbeeldingen gemaakt met demonstratiegegevens.*
 
+## Wandelen en je eigen routes maken
+
+- **GPS-registratie** van je wandelingen: afstand, hoogteverschil, snelheid, pauzes en markeringen, ook met vergrendeld scherm.
+- **Je eigen routes**: koppel je vondsten of zet punten op de kaart, en SnapSpot leidt je van punt naar punt.
+- **Terug naar de start** in rechte lijn, langs je eigen spoor of over paden. Alleen „Via de paden” raadpleegt de routedienst van het IGN, met je positie en de bestemming, nooit je foto's of spots.
+- **Wandelroutes**: een ingebouwde catalogus met bijna 38.000 routes in Frankrijk (OpenStreetMap, IGN), offline te raadplegen, met indicatieve afstand, hoogteverschil, duur en moeilijkheid.
+
 ## Absolute privacy
 
 - **Geen SnapSpot-server, geen account, geen reclame, geen tracking, geen gebruiksstatistieken.**
@@ -102,7 +109,7 @@ om de afstand in te schatten.*
   willen.
 - Determinatie, beschrijving en navigatie gebeuren **op het apparaat**.
 - Alleen openbare kaart- en weerdiensten worden benaderd (IGN-kaarten, plaatsnamen, het zoeken naar een plaats, regen
-  van de afgelopen 7 dagen), zoals bij elke webpagina, zonder ooit je foto's of spots te versturen. Vooraf
+  van de afgelopen 14 dagen), zoals bij elke webpagina, zonder ooit je foto's of spots te versturen. Vooraf
   gedownloade kaarten werken zonder netwerk.
 - Je paddenstoelenplekjes zijn van jou: ze verlaten de iPhone alleen als je ze zelf deelt.
 
@@ -111,8 +118,9 @@ om de afstand in te schatten.*
 - **Veldaanwijzingen**: noteer geur, vlees, biotoop of sporenafdruk, met dicteren of uit suggesties. Ze wegen mee in
   de voorstellen en in een vergelijkend oordeel van Apple Intelligence, dat je opnieuw kunt starten.
 - **Zoeken op de kaart**: een plaats, een adres, coördinaten, of een van je vondsten, een route, een markering.
-- **Regen en maan**: de regen van de afgelopen 7 dagen en de bodemvochtigheid op de kaart “Hier”, en de maanfase van
+- **Regen en maan**: de regen van de afgelopen 14 dagen en de bodemvochtigheid op de kaart “Hier”, en de maanfase van
   vandaag, uitsluitend ter informatie.
+- **Groeiomstandigheden**: een indicatieve index op basis van regen, bodemvocht en bodemtemperatuur (netwerk nodig), nooit een belofte van oogst.
 - **Delen vanuit Foto's**: het deelvenster van de iPhone stuurt foto's naar SnapSpot, dat hun locatie leest.
 - **Exporteren en overdragen**: GPX, spots, routes met hun foto's, of je hele verzameling naar een andere iPhone via
   AirDrop.

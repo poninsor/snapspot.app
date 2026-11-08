@@ -93,6 +93,13 @@ die Entfernung einzuschätzen.*
 
 *Bildschirmfotos mit Demonstrationsdaten.*
 
+## Laufen und eigene Routen erstellen
+
+- **GPS-Aufzeichnung** Ihrer Touren: Strecke, Höhenmeter, Geschwindigkeit, Pausen und Markierungen, auch bei gesperrtem Bildschirm.
+- **Eigene Routen**: Verbinden Sie Ihre Funde oder setzen Sie Punkte auf der Karte, SnapSpot führt Sie von Punkt zu Punkt.
+- **Rückweg zum Start** in gerader Linie, über Ihre eigene Spur oder über Wege. Nur „Über Wege und Pfade“ kontaktiert den Routendienst des IGN, mit Ihrer Position und dem Ziel, nie mit Ihren Fotos oder Spots.
+- **Wanderrouten**: ein eingebauter Katalog mit fast 38.000 Routen in Frankreich (OpenStreetMap, IGN), offline nutzbar, mit unverbindlichen Angaben zu Länge, Höhenunterschied, Dauer und Schwierigkeit.
+
 ## Absoluter Datenschutz
 
 - **Kein SnapSpot-Server, kein Konto, keine Werbung, kein Tracking, keine Nutzungsstatistik.**
@@ -100,7 +107,7 @@ die Entfernung einzuschätzen.*
   wollten.
 - Bestimmung, Beschreibung und Navigation erfolgen **auf dem Gerät**.
 - Nur öffentliche Karten- und Wetterdienste werden kontaktiert (IGN-Karten, Ortsnamen, Ortssuche, Regen der letzten
-  7 Tage), wie bei jeder Webseite, und nie mit Ihren Fotos oder Spots. Vorab heruntergeladene Karten funktionieren
+  14 Tage), wie bei jeder Webseite, und nie mit Ihren Fotos oder Spots. Vorab heruntergeladene Karten funktionieren
   ohne Netz.
 - Ihre Pilzplätze gehören Ihnen: Sie verlassen das iPhone nur, wenn Sie sie selbst teilen.
 
@@ -110,8 +117,9 @@ die Entfernung einzuschätzen.*
   Sie gewichten die Vorschläge und eine vergleichende Einschätzung von Apple Intelligence, die Sie erneut starten
   können.
 - **Suche auf der Karte**: ein Ort, eine Adresse, Koordinaten oder einer Ihrer Funde, eine Tour, eine Markierung.
-- **Regen und Mond**: Regen der letzten 7 Tage und Bodenfeuchte auf dem Blatt „Hier“ sowie die heutige Mondphase,
+- **Regen und Mond**: Regen der letzten 14 Tage und Bodenfeuchte auf dem Blatt „Hier“ sowie die heutige Mondphase,
   nur zur Information.
+- **Wachstumsbedingungen**: ein unverbindlicher Index aus Regen, Bodenfeuchte und Bodentemperatur (Netz erforderlich), nie ein Ernteversprechen.
 - **Teilen aus Fotos**: Das Teilen-Blatt des iPhone sendet Fotos an SnapSpot, das deren Standort liest.
 - **Export und Übertragung**: GPX, Spots, Touren mit ihren Fotos oder Ihre gesamte Sammlung per AirDrop auf ein
   anderes iPhone.

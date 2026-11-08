@@ -92,12 +92,19 @@ and a voice can correct your course.
 
 *Screenshots taken with demonstration data.*
 
+## Walk and create your own routes
+
+- **GPS tracking** of your walks: distance, elevation, speed, pauses and markers, even with the screen locked.
+- **Your own routes**: chain your finds or drop points on the map, and SnapSpot guides you from point to point.
+- **Return to your start** in a straight line, along your own track or along trails. Only “By trails” contacts IGN's routing service, with your position and destination, never your photos or spots.
+- **Hiking routes**: a built-in catalogue of nearly 38,000 routes in France (OpenStreetMap, IGN), available offline, with indicative distance, elevation gain, duration and difficulty.
+
 ## Absolute privacy
 
 - **No SnapSpot server, no account, no ads, no tracking, no usage statistics.**
 - Your photos, spots, tracks and analyses **stay on your iPhone**. We cannot see them, even if we wanted to.
 - Identification, description and guidance happen **on the device**.
-- Only public map and weather services are contacted (IGN maps, place names, place search, rain over the last 7
+- Only public map and weather services are contacted (IGN maps, place names, place search, rain over the last 14
   days), like any web page, and never with your photos or spots. Maps downloaded in advance work without a network.
 - Your mushroom spots are yours: they leave the iPhone only if you share them yourself.
 
@@ -106,8 +113,9 @@ and a voice can correct your course.
 - **Field clues**: note the smell, the flesh, the habitat or the spore print, by dictation or from suggestions. They
   weight the suggestions and an Apple Intelligence comparative opinion, which you can rerun.
 - **Search on the map**: a place, an address, coordinates, or one of your finds, a track, a marker.
-- **Rain and moon**: rain over the last 7 days and soil moisture on the “Here” sheet, and today's moon phase, for
+- **Rain and moon**: rain over the last 14 days and soil moisture on the “Here” sheet, and today's moon phase, for
   information only.
+- **Growing conditions**: an indicative index drawn from rain, soil moisture and soil temperature (network required), never a promise of a harvest.
 - **Sharing from Photos**: the iPhone share sheet sends photos to SnapSpot, which reads their location.
 - **Export and transfer**: GPX, spots, tracks with their photos, or your whole collection to another iPhone by
   AirDrop.

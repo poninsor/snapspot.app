@@ -92,13 +92,20 @@ una voz puede corregirte el rumbo.
 
 *Capturas realizadas con datos de demostración.*
 
+## Caminar y crear tus rutas
+
+- **Seguimiento GPS** de tus paseos: distancia, desnivel, velocidad, pausas y marcas, incluso con la pantalla bloqueada.
+- **Tus propias rutas**: encadena tus hallazgos o coloca puntos en el mapa, y SnapSpot te guía de punto en punto.
+- **Vuelta al inicio** en línea recta, por tu propio recorrido o por los senderos. Solo «Por los senderos» consulta el servicio de rutas del IGN, con tu posición y el destino, nunca tus fotos ni tus spots.
+- **Rutas de senderismo**: un catálogo integrado de casi 38 000 rutas en Francia (OpenStreetMap, IGN), disponible sin conexión, con distancia, desnivel, duración y dificultad orientativos.
+
 ## Privacidad absoluta
 
 - **Ningún servidor de SnapSpot, ninguna cuenta, ninguna publicidad, ningún rastreo, ninguna estadística de uso.**
 - Tus fotos, spots, rutas y análisis **se quedan en tu iPhone**. No podemos verlos, aunque quisiéramos.
 - La identificación, la descripción y la guía se hacen **en el dispositivo**.
 - Solo se contactan servicios públicos de mapas y de meteorología (mapas del IGN, nombres de lugares, búsqueda de un
-  lugar, lluvia de los últimos 7 días), como con cualquier página web, y nunca se envían tus fotos ni tus spots. Los
+  lugar, lluvia de los últimos 14 días), como con cualquier página web, y nunca se envían tus fotos ni tus spots. Los
   mapas descargados de antemano funcionan sin red.
 - Tus rincones de setas son tuyos: solo salen del iPhone si los compartes tú mismo.
 
@@ -107,8 +114,9 @@ una voz puede corregirte el rumbo.
 - **Pistas de campo**: anota el olor, la carne, el hábitat o la esporada, por dictado o con sugerencias. Ponderan las
   propuestas y una opinión comparativa de Apple Intelligence, que puedes volver a lanzar.
 - **Buscar en el mapa**: un lugar, una dirección, unas coordenadas, o uno de tus hallazgos, una ruta, una marca.
-- **Lluvia y luna**: la lluvia de los últimos 7 días y la humedad del suelo en la ficha «Aquí», y la fase de la luna
+- **Lluvia y luna**: la lluvia de los últimos 14 días y la humedad del suelo en la ficha «Aquí», y la fase de la luna
   del día, a título orientativo.
+- **Condiciones de crecimiento**: un índice orientativo basado en la lluvia, la humedad y la temperatura del suelo (requiere conexión), nunca una promesa de cosecha.
 - **Compartir desde Fotos**: la hoja de compartir del iPhone envía fotos a SnapSpot, que lee su ubicación.
 - **Exportar y transferir**: GPX, spots, rutas con sus fotos, o toda tu colección a otro iPhone por AirDrop.
 - **App Salud**: tus paseos pueden guardarse allí como excursiones (solo escritura).

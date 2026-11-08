@@ -91,6 +91,13 @@ kierunku, a głos może skorygować Twój kurs.
 
 *Zrzuty ekranu wykonane na danych demonstracyjnych.*
 
+## Idź i twórz własne trasy
+
+- **Zapis GPS** Twoich spacerów: dystans, przewyższenie, prędkość, postoje i znaczniki, także przy zablokowanym ekranie.
+- **Własne trasy**: łącz swoje znaleziska lub stawiaj punkty na mapie, a SnapSpot poprowadzi Cię od punktu do punktu.
+- **Powrót do startu** w linii prostej, własnym śladem lub szlakami. Tylko „Szlakami” kontaktuje usługę tras IGN, z Twoją pozycją i celem, nigdy z Twoimi zdjęciami ani miejscami.
+- **Trasy wędrówkowe**: wbudowany katalog prawie 38 000 tras we Francji (OpenStreetMap, IGN), dostępny offline, z orientacyjnym dystansem, przewyższeniem, czasem i trudnością.
+
 ## Absolutna prywatność
 
 - **Żadnego serwera SnapSpot, żadnego konta, żadnych reklam, żadnego śledzenia, żadnych statystyk użycia.**
@@ -98,7 +105,7 @@ kierunku, a głos może skorygować Twój kurs.
   chcieli.
 - Rozpoznawanie, opis i nawigacja odbywają się **na urządzeniu**.
 - Kontaktowane są tylko publiczne usługi map i pogody (mapy IGN, nazwy miejsc, wyszukiwanie miejsca, deszcz z
-  ostatnich 7 dni), jak w przypadku każdej strony internetowej, bez wysyłania Twoich zdjęć ani miejsc. Mapy pobrane
+  ostatnich 14 dni), jak w przypadku każdej strony internetowej, bez wysyłania Twoich zdjęć ani miejsc. Mapy pobrane
   z wyprzedzeniem działają bez sieci.
 - Twoje grzybowe miejsca należą do Ciebie: opuszczają iPhone'a tylko wtedy, gdy sam je udostępnisz.
 
@@ -107,8 +114,9 @@ kierunku, a głos może skorygować Twój kurs.
 - **Wskazówki terenowe**: zanotuj zapach, miąższ, siedlisko lub wysyp zarodników, głosowo lub z podpowiedzi.
   Wpływają na propozycje i na porównawczą opinię Apple Intelligence, którą możesz uruchomić ponownie.
 - **Szukanie na mapie**: miejsce, adres, współrzędne albo jedno z Twoich znalezisk, trasa, znacznik.
-- **Deszcz i księżyc**: deszcz z ostatnich 7 dni i wilgotność gleby na karcie „Tutaj” oraz dzisiejsza faza księżyca,
+- **Deszcz i księżyc**: deszcz z ostatnich 14 dni i wilgotność gleby na karcie „Tutaj” oraz dzisiejsza faza księżyca,
   wyłącznie informacyjnie.
+- **Warunki wzrostu**: orientacyjny wskaźnik oparty na deszczu, wilgotności i temperaturze gleby (wymaga sieci), nigdy obietnica zbiorów.
 - **Udostępnianie ze Zdjęć**: arkusz udostępniania iPhone'a wysyła zdjęcia do SnapSpot, który odczytuje ich
   lokalizację.
 - **Eksport i przenoszenie**: GPX, miejsca, trasy ze zdjęciami lub cała kolekcja na inny iPhone przez AirDrop.
