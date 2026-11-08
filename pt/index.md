@@ -1,11 +1,11 @@
 ---
 lang: pt-PT
 page_id: home
-title: SnapSpot
+title: "SnapSpot: Cogumelos e Trilhos"
 ---
 {% include langs.html %}
 
-# SnapSpot
+# SnapSpot: Cogumelos e Trilhos
 
 <p class="hero">Os seus cantinhos. As suas colheitas.<br>Só seus.</p>
 

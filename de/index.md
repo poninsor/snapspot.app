@@ -1,11 +1,11 @@
 ---
 lang: de
 page_id: home
-title: SnapSpot
+title: "SnapSpot: Pilze & Wandern"
 ---
 {% include langs.html %}
 
-# SnapSpot
+# SnapSpot: Pilze & Wandern
 
 <p class="hero">Ihre Plätze. Ihre Funde.<br>Nur für Sie.</p>
 

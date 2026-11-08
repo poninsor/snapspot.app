@@ -1,11 +1,11 @@
 ---
 lang: en
 page_id: home
-title: SnapSpot
+title: "SnapSpot: Mushrooms & Hikes"
 ---
 {% include langs.html %}
 
-# SnapSpot
+# SnapSpot: Mushrooms & Hikes
 
 <p class="hero">Your spots. Your finds.<br>Yours alone.</p>
 

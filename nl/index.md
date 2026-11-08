@@ -1,11 +1,11 @@
 ---
 lang: nl
 page_id: home
-title: SnapSpot
+title: "SnapSpot: Paddenstoelen"
 ---
 {% include langs.html %}
 
-# SnapSpot
+# SnapSpot: Paddenstoelen
 
 <p class="hero">Jouw plekjes. Jouw vondsten.<br>Alleen van jou.</p>
 

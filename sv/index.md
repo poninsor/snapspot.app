@@ -1,11 +1,11 @@
 ---
 lang: sv
 page_id: home
-title: SnapSpot
+title: "SnapSpot: Svamp & Vandring"
 ---
 {% include langs.html %}
 
-# SnapSpot
+# SnapSpot: Svamp & Vandring
 
 <p class="hero">Dina ställen. Dina fynd.<br>Bara dina.</p>
 
