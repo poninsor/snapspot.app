@@ -22,9 +22,9 @@ iPhone'a. Nawet bez sieci.
 ## Rozpoznać teren. Zidentyfikować. Zapamiętać. Wrócić.
 
 <div class="steps">
-<figure><img src="../images/01-carte.jpg" alt="Mapa leśna IGN z Twoimi znaleziskami"><figcaption><b>1. Rozpoznać teren</b><br>Mapa leśna, lasy publiczne, lasy dawne, geologia, nachylenia, rzeźba terenu, kataster: mapy IGN pomagają wytypować sprzyjające siedliska i można je pobrać przed wyjściem.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Mapa leśna IGN z Twoimi znaleziskami"><figcaption><b>1. Rozpoznać teren</b><br>Mapa leśna, lasy publiczne, lasy dawne, geologia, nachylenia, rzeźba terenu, kataster: mapy IGN pomagają wytypować sprzyjające siedliska i można je pobrać przed wyjściem.</figcaption></figure>
 <figure><img src="../images/02-identifier-photo.jpg" alt="Rozpoznawanie grzyba na żywo"><figcaption><b>2. Zidentyfikować</b><br>Model stworzony dla grzybów, na iPhonie, bez sieci. Kilka propozycji, niebezpieczne sobowtóry zaznaczone, nigdy werdykt.</figcaption></figure>
-<figure><img src="../images/04-photos.jpg" alt="Twoje zdjęcia uporządkowane według gatunku"><figcaption><b>3. Zapamiętać</b><br>Każde zdjęcie z lokalizacją staje się miejscem. Porządkuj według gatunku, wyszukuj według sezonu, roku lub jadalności i stawiaj znaczniki: samochód, wejście do lasu, przejście.</figcaption></figure>
+<figure><img src="../images/cueillettes-grille.jpg" alt="Twoje zdjęcia uporządkowane według gatunku"><figcaption><b>3. Zapamiętać</b><br>Każde zdjęcie z lokalizacją staje się miejscem. Porządkuj według gatunku, wyszukuj według sezonu, roku lub jadalności i stawiaj znaczniki: samochód, wejście do lasu, przejście.</figcaption></figure>
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Nawigacja w rzeczywistości rozszerzonej do miejsca"><figcaption><b>4. Wrócić</b><br>Mapa, kompas lub rzeczywistość rozszerzona aż do miejsca, z dźwiękami i wibracjami, gdy telefon zostaje w kieszeni. Twoje spacery są nagrywane.</figcaption></figure>
 </div>
 
@@ -55,12 +55,19 @@ a następnie tworzy miejsce.*
 
 <div class="shots">
 <figure><img src="../images/12-identification-avion.jpg" alt="Rozpoznawanie w trybie samolotowym"><figcaption>W trybie samolotowym wszystko działa.</figcaption></figure>
-<figure><img src="../images/03-fiche-espece.jpg" alt="Karta gatunku"><figcaption>Karta każdego gatunku, dostępna bez sieci.</figcaption></figure>
+<figure><img src="../images/espece-fiche.jpg" alt="Karta gatunku"><figcaption>Karta każdego gatunku, dostępna bez sieci.</figcaption></figure>
 <figure><img src="../images/13-fiche-saison.jpg" alt="Krzywa sezonu gatunku"><figcaption>Sezon każdego gatunku.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/identifier-choix.jpg" alt="Identyfikuj: na żywo, ze zdjęcia lub z Twoich zdjęć" loading="lazy"><figcaption>Identyfikuj: na żywo, ze zdjęcia lub z Twoich zdjęć.</figcaption></figure>
+<figure><img src="../images/photo-detail.jpg" alt="Każde zdjęcie: gatunek, opinia Apple Intelligence, miejsce i data" loading="lazy"><figcaption>Każde zdjęcie: gatunek, opinia Apple Intelligence, miejsce i data.</figcaption></figure>
+<figure><img src="../images/especes-catalogue.jpg" alt="Katalog gatunków: wyszukiwanie, sezon, jadalność" loading="lazy"><figcaption>Katalog gatunków: wyszukiwanie, sezon, jadalność.</figcaption></figure>
 </div>
 
 > **Ważne**: rozpoznanie ma charakter orientacyjny i może być błędne. Nigdy nie jedz grzyba na podstawie aplikacji:
 > daj go do sprawdzenia farmaceucie lub towarzystwu mykologicznemu.
+
 
 ## Rozpoznać teren i odnaleźć swoje miejsca
 
@@ -68,11 +75,32 @@ Mapy IGN pobiera się z wyprzedzeniem: zdjęcia lotnicze, plan, rzeźba terenu, 
 dawne, kataster, nachylenia, hydrografia, warstwice, geologia. Długie przytrzymanie na mapie pokazuje, co przedstawia
 warstwa w tym miejscu.
 
+- **Mapa gleb (INRAE)** obok warstw leśnych: typ gleby wraz z legendą odczytasz długim naciśnięciem.
+- **Każda warstwa ma własną przezroczystość**, a globalny suwak pozwala zobaczyć zdjęcie satelitarne przez nie.
+
 <div class="shots">
-<figure><img src="../images/14-cartes-hors-ligne.jpg" alt="Mapy offline"><figcaption>Pobierz obszar przed wyjściem.</figcaption></figure>
-<figure><img src="../images/04-photos.jpg" alt="Karta Zdjęcia"><figcaption>Twoje zdjęcia, z gatunkiem i jadalnością.</figcaption></figure>
-<figure><img src="../images/06-filtre-comestibilite.jpg" alt="Filtr jadalności"><figcaption>Filtruj według jadalności.</figcaption></figure>
+<figure><img src="../images/carte-couches.jpg" alt="Warstwy i ich przezroczystość na mapie" loading="lazy"><figcaption>Warstwy i ich przezroczystość na mapie.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Długie naciśnięcie: co pokazują tu warstwy i jakie są warunki wzrostu" loading="lazy"><figcaption>Długie naciśnięcie: co pokazują tu warstwy i jakie są warunki wzrostu.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Strefa: zdjęcia zrobione w tym samym miejscu" loading="lazy"><figcaption>Strefa: zdjęcia zrobione w tym samym miejscu.</figcaption></figure>
 </div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Warunki wzrostu przed znaleziskiem: deszcz, gleba, księżyc" loading="lazy"><figcaption>Warunki wzrostu przed znaleziskiem: deszcz, gleba, księżyc.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Warstwy i mapy offline w ustawieniach" loading="lazy"><figcaption>Warstwy i mapy offline w ustawieniach.</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="Faza księżyca, wyłącznie informacyjnie" loading="lazy"><figcaption>Faza księżyca, wyłącznie informacyjnie.</figcaption></figure>
+</div>
+
+## Zapamiętywać znaleziska
+
+Każde zdjęcie z lokalizacją staje się miejscem. Przeglądaj je w siatce lub na liście, filtruj według okresu, gatunku, roku lub jadalności, grupuj zdjęcia tego samego grzyba, stawiaj znaczniki (samochód, źródło wody, szałas, wyjątkowe drzewo, punkt widokowy) i dodawaj zdjęcia z biblioteki, z albumu lub z innego iPhone'a. Każde zdjęcie zachowuje swoje miejsce, datę, pogodę z poprzednich dni i orientacyjny wskaźnik warunków wzrostu.
+
+<div class="shots">
+<figure><img src="../images/cueillettes-liste.jpg" alt="Lista, z gatunkiem i jadalnością" loading="lazy"><figcaption>Lista, z gatunkiem i jadalnością.</figcaption></figure>
+<figure><img src="../images/cueillettes-plus.jpg" alt="Dodawanie zdjęć, import, porządkowanie" loading="lazy"><figcaption>Dodawanie zdjęć, import, porządkowanie.</figcaption></figure>
+<figure><img src="../images/carte-filtres.jpg" alt="Filtrowanie według okresu, gatunku, jadalności" loading="lazy"><figcaption>Filtrowanie według okresu, gatunku, jadalności.</figcaption></figure>
+</div>
+
+## Wrócić do miejsca
 
 Nawigacja prowadzi pieszo do miejsca: odległość, kierunek, czas marszu, a w rzeczywistości rozszerzonej sonar na
 ziemi pokazujący obszar. Przy zablokowanym ekranie sygnały dźwiękowe i wibracje mówią, czy idziesz w dobrym
@@ -82,21 +110,72 @@ kierunku, a głos może skorygować Twój kurs.
 
 *Sonar: fala wychodzi z miejsca i rozszerza się po ziemi, w rzeczywistym rozmiarze obszaru, aby ocenić odległość.*
 
+- **Trzy widoki**: mapa, kompas radarowy lub rzeczywistość rozszerzona, z szufladą, którą wysuwasz po szczegóły lub minimalizujesz, by mieć mapę na oku.
+- **Kilka punktów po kolei**: połącz miejsca w trasę albo stawiaj punkty na mapie, a SnapSpot poprowadzi Cię od jednego do drugiego.
+
 <div class="shots">
-<figure><img src="../images/15-guidage-carte.jpg" alt="Nawigacja na mapie do wybranego punktu"><figcaption>Długie przytrzymanie na mapie, „Prowadź mnie”: ścieżka z kropek do wybranego punktu.</figcaption></figure>
-<figure><img src="../images/10-guidage-cible.jpg" alt="Nawigacja do miejsca"><figcaption>Odległość, kierunek i minimapa.</figcaption></figure>
+<figure><img src="../images/guidage-minimise.jpg" alt="Prowadzenie zminimalizowane na mapie" loading="lazy"><figcaption>Prowadzenie zminimalizowane na mapie.</figcaption></figure>
+<figure><img src="../images/guidage-reglages.jpg" alt="Ustawienia prowadzenia: dźwięki, wibracje, głos" loading="lazy"><figcaption>Ustawienia prowadzenia: dźwięki, wibracje, głos.</figcaption></figure>
 <figure><img src="../images/11-live-activity.jpg" alt="Live Activity na ekranie blokady"><figcaption>Twój spacer na ekranie blokady.</figcaption></figure>
-<figure><img src="../images/08-detail-parcours.jpg" alt="Szczegóły trasy"><figcaption>Trasa, ze swoimi zdjęciami.</figcaption></figure>
 </div>
 
 *Zrzuty ekranu wykonane na danych demonstracyjnych.*
+
 
 ## Idź i twórz własne trasy
 
 - **Zapis GPS** Twoich spacerów: dystans, przewyższenie, prędkość, postoje i znaczniki, także przy zablokowanym ekranie.
 - **Własne trasy**: łącz swoje znaleziska lub stawiaj punkty na mapie, a SnapSpot poprowadzi Cię od punktu do punktu.
 - **Powrót do startu** w linii prostej, własnym śladem lub szlakami. Tylko „Szlakami” kontaktuje usługę tras IGN, z Twoją pozycją i celem, nigdy z Twoimi zdjęciami ani miejscami.
-- **Trasy wędrówkowe**: wbudowany katalog prawie 38 000 tras we Francji (OpenStreetMap, IGN), dostępny offline, z orientacyjnym dystansem, przewyższeniem, czasem i trudnością.
+- **Szuflada nagrywania**: czas, dystans, prędkość i znaczniki na pierwszy rzut oka, pauza, zatrzymanie i „Powrót na start” pod kciukiem.
+- **Wykrywanie samochodu**: jeśli zapomnisz zatrzymać nagrywanie w samochodzie, SnapSpot zaproponuje obcięcie końca śladu.
+- **Przypomnienie o zachodzie słońca**: alert, gdy czas wracać, by noc Cię nie zaskoczyła.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Twoje wycieczki, według okresu" loading="lazy"><figcaption>Twoje wycieczki, według okresu.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Wycieczka ze zdjęciami i wykresem" loading="lazy"><figcaption>Wycieczka ze zdjęciami i wykresem.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="Nagrywanie: czas, dystans, powrót na start" loading="lazy"><figcaption>Nagrywanie: czas, dystans, powrót na start.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Koniec wycieczki: zapisz, wznów lub usuń" loading="lazy"><figcaption>Koniec wycieczki: zapisz, wznów lub usuń.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Moje trasy: rysowanie, potem udostępnianie" loading="lazy"><figcaption>Moje trasy: rysowanie, potem udostępnianie.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Działania: zmiana nazwy, przycinanie, łączenie, konwersja" loading="lazy"><figcaption>Działania: zmiana nazwy, przycinanie, łączenie, konwersja.</figcaption></figure>
+</div>
+
+## Wędrówki
+
+Katalog prawie 38 000 tras we Francji (OpenStreetMap, IGN) jest wbudowany w aplikację i można go przeglądać offline: dystans, przewyższenie, profil wysokościowy, czas i trudność, obliczane przez aplikację i podawane wyłącznie orientacyjnie.
+
+- **Wyszukiwanie według miejsca i filtry** tras w danym obszarze, na mapie i na liście.
+- **Start**: SnapSpot nagrywa Twój spacer i prowadzi Cię wzdłuż trasy, z komunikatami głosowymi na zakrętach i alertem, gdy zboczysz ze szlaku. Nagrywanie można wyłączyć.
+- **Moje trasy**: narysuj własną ręcznie lub punkt po punkcie, dopasowaną do szlaków sieci IGN (wymaga sieci), a potem udostępnij ją innemu iPhone'owi lub wyeksportuj do GPX.
+
+<div class="shots">
+<figure><img src="../images/randonnees-catalogue.jpg" alt="Katalog, na mapie i na liście" loading="lazy"><figcaption>Katalog, na mapie i na liście.</figcaption></figure>
+<figure><img src="../images/randonnee-fiche.jpg" alt="Trasa: liczby, profil wysokościowy, mapy do pobrania" loading="lazy"><figcaption>Trasa: liczby, profil wysokościowy, mapy do pobrania.</figcaption></figure>
+<figure><img src="../images/randonnee-demarrage.jpg" alt="Start: nagrywanie i prowadzenie razem" loading="lazy"><figcaption>Start: nagrywanie i prowadzenie razem.</figcaption></figure>
+</div>
+
+## Prosty interfejs, który dostosowuje się do Ciebie
+
+Interfejs SnapSpot przeprojektowano z myślą o tym, jak używa się telefonu w lesie: jedna ręka, mało czasu, czasem słaby zasięg.
+
+- **Pięć kart**: Mapa, Znaleziska, Identyfikuj (duży przycisk pośrodku), Wycieczki i Gatunki.
+- **Prosty lub Ekspercki**: w trybie Prostym szczegóły są zwinięte za małym przyciskiem, w Eksperckim rozwinięte. Wszystkie funkcje i dane pozostają dostępne w obu, a ostrzeżenia dotyczące bezpieczeństwa nigdy nie są zwijane. Możesz zmienić tryb w każdej chwili.
+- **Jasny lub ciemny, pionowo lub poziomo**: interfejs podąża za iPhone'em, a orientację ekranu można wymusić w ustawieniach.
+- **Wbudowana pomoc**: wycieczka po aplikacji, centrum pomocy według tematów z ilustracjami oraz wskazówki, które pojawiają się tylko raz.
+
+<div class="shots">
+<figure><img src="../images/choix-affichage.jpg" alt="Widok: Prosty lub Ekspercki" loading="lazy"><figcaption>Widok: Prosty lub Ekspercki.</figcaption></figure>
+<figure><img src="../images/centre-aide.jpg" alt="Centrum pomocy, według tematów" loading="lazy"><figcaption>Centrum pomocy, według tematów.</figcaption></figure>
+<figure><img src="../images/carte-sombre.jpg" alt="Tryb ciemny" loading="lazy"><figcaption>Tryb ciemny.</figcaption></figure>
+</div>
+
+<div class="wide">
+<figure><img src="../images/paysage-carte.jpg" alt="Poziomo karty zmieniają się w pasek boczny" loading="lazy"><figcaption>Poziomo karty zmieniają się w pasek boczny.</figcaption></figure>
+<figure><img src="../images/paysage-cueillettes.jpg" alt="Karta Znaleziska w poziomie" loading="lazy"><figcaption>Karta Znaleziska w poziomie.</figcaption></figure>
+</div>
 
 ## Absolutna prywatność
 

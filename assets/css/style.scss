@@ -22,3 +22,8 @@
 header p.view, footer p:first-child { display: none; }
 
 .langs { font-size: 0.85em; margin: 0 0 14px; color: #666; }
+
+.wide { display: flex; flex-wrap: wrap; gap: 14px; margin: 18px 0; }
+.wide figure { margin: 0; width: calc(50% - 7px); min-width: 240px; }
+.wide img { width: 100%; border-radius: 14px; border: 1px solid #ddd; }
+.wide figcaption { font-size: 0.85em; margin-top: 4px; line-height: 1.3; }

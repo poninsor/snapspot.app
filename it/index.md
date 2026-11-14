@@ -22,9 +22,9 @@ cercatore di funghi, per iPhone. Anche senza rete.
 ## Esplorare. Identificare. Memorizzare. Ritrovare.
 
 <div class="steps">
-<figure><img src="../images/01-carte.jpg" alt="Carta forestale IGN con i tuoi ritrovamenti"><figcaption><b>1. Esplorare</b><br>Carta forestale, foreste pubbliche, foreste antiche, geologia, pendenze, rilievo, catasto: le carte IGN aiutano a individuare gli ambienti favorevoli e si scaricano prima di partire.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Carta forestale IGN con i tuoi ritrovamenti"><figcaption><b>1. Esplorare</b><br>Carta forestale, foreste pubbliche, foreste antiche, geologia, pendenze, rilievo, catasto: le carte IGN aiutano a individuare gli ambienti favorevoli e si scaricano prima di partire.</figcaption></figure>
 <figure><img src="../images/02-identifier-photo.jpg" alt="Identificazione dal vivo di un fungo"><figcaption><b>2. Identificare</b><br>Un modello fatto per i funghi, sull'iPhone, senza rete. Più proposte, le somiglianze pericolose segnalate, mai un verdetto.</figcaption></figure>
-<figure><img src="../images/04-photos.jpg" alt="Le tue foto ordinate per specie"><figcaption><b>3. Memorizzare</b><br>Ogni foto geolocalizzata diventa uno spot. Ordina per specie, ritrova per stagione, per anno o per commestibilità, e metti dei segnaposto: auto, ingresso del bosco, passaggio.</figcaption></figure>
+<figure><img src="../images/cueillettes-grille.jpg" alt="Le tue foto ordinate per specie"><figcaption><b>3. Memorizzare</b><br>Ogni foto geolocalizzata diventa uno spot. Ordina per specie, ritrova per stagione, per anno o per commestibilità, e metti dei segnaposto: auto, ingresso del bosco, passaggio.</figcaption></figure>
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Guida in realtà aumentata verso uno spot"><figcaption><b>4. Ritrovare</b><br>Mappa, bussola o realtà aumentata fino allo spot, con suoni e vibrazioni quando il telefono resta in tasca. Le tue passeggiate vengono registrate.</figcaption></figure>
 </div>
 
@@ -56,12 +56,19 @@ poi crea lo spot.*
 
 <div class="shots">
 <figure><img src="../images/12-identification-avion.jpg" alt="Identificazione in modalità aereo"><figcaption>In modalità aereo, tutto funziona.</figcaption></figure>
-<figure><img src="../images/03-fiche-espece.jpg" alt="Scheda di una specie"><figcaption>Una scheda per specie, consultabile senza rete.</figcaption></figure>
+<figure><img src="../images/espece-fiche.jpg" alt="Scheda di una specie"><figcaption>Una scheda per specie, consultabile senza rete.</figcaption></figure>
 <figure><img src="../images/13-fiche-saison.jpg" alt="Curva di stagione di una specie"><figcaption>La stagione di ogni specie.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/identifier-choix.jpg" alt="Identifica: in diretta, da una foto o dalle tue foto" loading="lazy"><figcaption>Identifica: in diretta, da una foto o dalle tue foto.</figcaption></figure>
+<figure><img src="../images/photo-detail.jpg" alt="Ogni foto: specie, parere di Apple Intelligence, luogo e data" loading="lazy"><figcaption>Ogni foto: specie, parere di Apple Intelligence, luogo e data.</figcaption></figure>
+<figure><img src="../images/especes-catalogue.jpg" alt="Il catalogo delle specie: ricerca, stagione, commestibilità" loading="lazy"><figcaption>Il catalogo delle specie: ricerca, stagione, commestibilità.</figcaption></figure>
 </div>
 
 > **Importante**: l'identificazione è indicativa e può sbagliare. Non mangiare mai un fungo basandoti sull'app:
 > fallo controllare da un farmacista o da un'associazione micologica.
+
 
 ## Esplorare e ritrovare i tuoi spot
 
@@ -69,11 +76,32 @@ Le carte IGN si scaricano in anticipo: fotografie aeree, piano, rilievo, carta f
 antiche, catasto, pendenze, idrografia, curve di livello, geologia. Una pressione prolungata sulla mappa dice che
 cosa mostra il livello in quel punto.
 
+- **Carta dei suoli (INRAE)** accanto ai livelli forestali: il tipo di suolo, con la sua legenda, si legge con una pressione prolungata.
+- **Ogni livello ha la propria trasparenza**, e un cursore globale lascia vedere la foto satellitare attraverso di essi.
+
 <div class="shots">
-<figure><img src="../images/14-cartes-hors-ligne.jpg" alt="Mappe offline"><figcaption>Scarica la zona prima di partire.</figcaption></figure>
-<figure><img src="../images/04-photos.jpg" alt="Scheda Foto"><figcaption>Le tue foto, con la specie e la commestibilità.</figcaption></figure>
-<figure><img src="../images/06-filtre-comestibilite.jpg" alt="Filtro di commestibilità"><figcaption>Filtra per commestibilità.</figcaption></figure>
+<figure><img src="../images/carte-couches.jpg" alt="I livelli e la loro trasparenza, sulla mappa" loading="lazy"><figcaption>I livelli e la loro trasparenza, sulla mappa.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Una pressione prolungata: cosa mostrano i livelli qui e le condizioni di crescita" loading="lazy"><figcaption>Una pressione prolungata: cosa mostrano i livelli qui e le condizioni di crescita.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Una zona: le foto scattate nello stesso posto" loading="lazy"><figcaption>Una zona: le foto scattate nello stesso posto.</figcaption></figure>
 </div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Le condizioni di crescita prima del ritrovamento: pioggia, suolo, luna" loading="lazy"><figcaption>Le condizioni di crescita prima del ritrovamento: pioggia, suolo, luna.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Livelli e mappe offline, nelle impostazioni" loading="lazy"><figcaption>Livelli e mappe offline, nelle impostazioni.</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="La fase lunare, a titolo indicativo" loading="lazy"><figcaption>La fase lunare, a titolo indicativo.</figcaption></figure>
+</div>
+
+## Memorizzare i tuoi ritrovamenti
+
+Ogni foto con posizione diventa uno spot. Scorrili in griglia o in elenco, filtra per periodo, specie, anno o commestibilità, raggruppa le foto dello stesso fungo, posiziona segnaposto (auto, punto d'acqua, capanna, albero notevole, punto panoramico) e aggiungi foto dalla tua libreria, da un album o da un altro iPhone. Ogni foto conserva il suo luogo, la sua data, il meteo dei giorni precedenti e un indice indicativo delle condizioni di crescita.
+
+<div class="shots">
+<figure><img src="../images/cueillettes-liste.jpg" alt="L'elenco, con specie e commestibilità" loading="lazy"><figcaption>L'elenco, con specie e commestibilità.</figcaption></figure>
+<figure><img src="../images/cueillettes-plus.jpg" alt="Aggiungere foto, importare, riordinare" loading="lazy"><figcaption>Aggiungere foto, importare, riordinare.</figcaption></figure>
+<figure><img src="../images/carte-filtres.jpg" alt="Filtrare per periodo, specie, commestibilità" loading="lazy"><figcaption>Filtrare per periodo, specie, commestibilità.</figcaption></figure>
+</div>
+
+## Ritrovare uno spot
 
 La guida ti porta a piedi fino a uno spot: distanza, direzione, tempo di cammino e, in realtà aumentata, un sonar a
 terra che mostra la zona. A schermo bloccato, bip e vibrazioni ti dicono se vai nella direzione giusta, e una voce può
@@ -84,21 +112,72 @@ correggerti la rotta.
 *Il sonar: un'onda parte dallo spot e si allarga a terra, alla dimensione reale della zona, per giudicare la
 distanza.*
 
+- **Tre viste**: mappa, bussola radar o realtà aumentata, con un cassetto che si tira su per i dettagli o si riduce per tenere d'occhio la mappa.
+- **Più punti di seguito**: collega gli spot in un itinerario, oppure posiziona punti sulla mappa e lascia che SnapSpot ti guidi dall'uno all'altro.
+
 <div class="shots">
-<figure><img src="../images/15-guidage-carte.jpg" alt="Guida sulla mappa verso un punto scelto"><figcaption>Una pressione prolungata sulla mappa, «Guidami»: un sentiero di punti verso il punto scelto.</figcaption></figure>
-<figure><img src="../images/10-guidage-cible.jpg" alt="Guida verso uno spot"><figcaption>Distanza, direzione e minimappa.</figcaption></figure>
+<figure><img src="../images/guidage-minimise.jpg" alt="La guida, ridotta sulla mappa" loading="lazy"><figcaption>La guida, ridotta sulla mappa.</figcaption></figure>
+<figure><img src="../images/guidage-reglages.jpg" alt="Impostazioni della guida: suoni, vibrazioni, voce" loading="lazy"><figcaption>Impostazioni della guida: suoni, vibrazioni, voce.</figcaption></figure>
 <figure><img src="../images/11-live-activity.jpg" alt="Live Activity sulla schermata di blocco"><figcaption>La tua passeggiata sulla schermata di blocco.</figcaption></figure>
-<figure><img src="../images/08-detail-parcours.jpg" alt="Dettaglio di un percorso"><figcaption>Un percorso, con le sue foto.</figcaption></figure>
 </div>
 
 *Schermate realizzate con dati dimostrativi.*
+
 
 ## Camminare e creare i tuoi itinerari
 
 - **Tracciamento GPS** delle tue camminate: distanza, dislivello, velocità, pause e segnaposto, anche a schermo bloccato.
 - **I tuoi itinerari**: collega i tuoi ritrovamenti o posiziona punti sulla mappa, e SnapSpot ti guida di punto in punto.
 - **Ritorno al punto di partenza** in linea retta, lungo il tuo percorso o sui sentieri. Solo «Per i sentieri» contatta il servizio di itinerari dell'IGN, con la tua posizione e la destinazione, mai le tue foto né i tuoi spot.
-- **Escursioni**: un catalogo integrato di quasi 38.000 itinerari in Francia (OpenStreetMap, IGN), consultabile offline, con distanza, dislivello, durata e difficoltà indicativi.
+- **Cassetto di registrazione**: durata, distanza, velocità e segnaposto a colpo d'occhio, pausa, stop e «Ritorno alla partenza» sotto il pollice.
+- **Rilevamento dell'auto**: se dimentichi di fermare la registrazione in auto, SnapSpot propone di tagliare la fine del percorso.
+- **Promemoria del tramonto**: un avviso quando è ora di rientrare, per non farti sorprendere dalla notte.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Le tue uscite, per periodo" loading="lazy"><figcaption>Le tue uscite, per periodo.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Un'uscita, con le sue foto e il suo grafico" loading="lazy"><figcaption>Un'uscita, con le sue foto e il suo grafico.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="La registrazione: durata, distanza, ritorno alla partenza" loading="lazy"><figcaption>La registrazione: durata, distanza, ritorno alla partenza.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Fine di un'uscita: salvare, riprendere o eliminare" loading="lazy"><figcaption>Fine di un'uscita: salvare, riprendere o eliminare.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="I miei itinerari: disegnare, poi condividere" loading="lazy"><figcaption>I miei itinerari: disegnare, poi condividere.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Azioni: rinominare, ritagliare, unire, convertire" loading="lazy"><figcaption>Azioni: rinominare, ritagliare, unire, convertire.</figcaption></figure>
+</div>
+
+## Escursioni
+
+Un catalogo di quasi 38.000 itinerari in Francia (OpenStreetMap, IGN) è integrato nell'app e si consulta offline: distanza, dislivello, profilo altimetrico, durata e difficoltà, calcolati dall'app e forniti a titolo indicativo.
+
+- **Ricerca per luogo e filtri** sugli itinerari di una zona, su una mappa e in elenco.
+- **Avvia**: SnapSpot registra la tua camminata e ti guida lungo l'itinerario, con indicazioni vocali alle svolte e un avviso se lasci il sentiero. La registrazione può essere disattivata.
+- **I miei itinerari**: disegna il tuo a mano o punto per punto, agganciato ai sentieri della rete IGN (rete necessaria), poi condividilo con un altro iPhone o esportalo in GPX.
+
+<div class="shots">
+<figure><img src="../images/randonnees-catalogue.jpg" alt="Il catalogo, su una mappa e in elenco" loading="lazy"><figcaption>Il catalogo, su una mappa e in elenco.</figcaption></figure>
+<figure><img src="../images/randonnee-fiche.jpg" alt="Un itinerario: cifre, profilo altimetrico, mappe da scaricare" loading="lazy"><figcaption>Un itinerario: cifre, profilo altimetrico, mappe da scaricare.</figcaption></figure>
+<figure><img src="../images/randonnee-demarrage.jpg" alt="Avvia: registrazione e guida insieme" loading="lazy"><figcaption>Avvia: registrazione e guida insieme.</figcaption></figure>
+</div>
+
+## Un'interfaccia semplice che si adatta a te
+
+L'interfaccia di SnapSpot è stata ripensata per il modo in cui si usa il telefono nel bosco: una mano, poco tempo, a volte poca rete.
+
+- **Cinque schede**: Mappa, Raccolte, Identifica (il grande pulsante al centro), Uscite e Specie.
+- **Semplice o Esperto**: in Semplice i dettagli sono ripiegati dietro un piccolo pulsante; in Esperto sono aperti. Tutte le funzioni e tutti i dati restano disponibili in entrambi, e gli avvisi di sicurezza non vengono mai ripiegati. Puoi cambiare in qualsiasi momento.
+- **Chiaro o scuro, verticale o orizzontale**: l'interfaccia segue l'iPhone, e l'orientamento dello schermo può essere imposto nelle impostazioni.
+- **Aiuto integrato**: una visita guidata, un centro assistenza per temi con illustrazioni e suggerimenti che compaiono una sola volta.
+
+<div class="shots">
+<figure><img src="../images/choix-affichage.jpg" alt="Visualizzazione: Semplice o Esperto" loading="lazy"><figcaption>Visualizzazione: Semplice o Esperto.</figcaption></figure>
+<figure><img src="../images/centre-aide.jpg" alt="Un centro assistenza, per temi" loading="lazy"><figcaption>Un centro assistenza, per temi.</figcaption></figure>
+<figure><img src="../images/carte-sombre.jpg" alt="La modalità scura" loading="lazy"><figcaption>La modalità scura.</figcaption></figure>
+</div>
+
+<div class="wide">
+<figure><img src="../images/paysage-carte.jpg" alt="In orizzontale, le schede diventano una barra laterale" loading="lazy"><figcaption>In orizzontale, le schede diventano una barra laterale.</figcaption></figure>
+<figure><img src="../images/paysage-cueillettes.jpg" alt="La scheda Raccolte in orizzontale" loading="lazy"><figcaption>La scheda Raccolte in orizzontale.</figcaption></figure>
+</div>
 
 ## Riservatezza assoluta
 

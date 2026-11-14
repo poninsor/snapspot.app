@@ -22,9 +22,9 @@ Pilzsammler, für das iPhone. Auch ohne Netz.
 ## Erkunden. Bestimmen. Merken. Wiederfinden.
 
 <div class="steps">
-<figure><img src="../images/01-carte.jpg" alt="IGN-Waldkarte mit Ihren Funden"><figcaption><b>1. Erkunden</b><br>Waldkarte, öffentliche Wälder, alte Wälder, Geologie, Hangneigung, Relief, Kataster: Die IGN-Karten helfen, günstige Lebensräume zu erkennen, und lassen sich vor dem Aufbruch herunterladen.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="IGN-Waldkarte mit Ihren Funden"><figcaption><b>1. Erkunden</b><br>Waldkarte, öffentliche Wälder, alte Wälder, Geologie, Hangneigung, Relief, Kataster: Die IGN-Karten helfen, günstige Lebensräume zu erkennen, und lassen sich vor dem Aufbruch herunterladen.</figcaption></figure>
 <figure><img src="../images/02-identifier-photo.jpg" alt="Live-Bestimmung eines Pilzes"><figcaption><b>2. Bestimmen</b><br>Ein Modell für Pilze, auf dem iPhone, ohne Netz. Mehrere Vorschläge, gefährliche Verwechslungen werden markiert, nie ein Urteil.</figcaption></figure>
-<figure><img src="../images/04-photos.jpg" alt="Ihre Fotos nach Art sortiert"><figcaption><b>3. Merken</b><br>Jedes Foto mit Standort wird zu einem Spot. Nach Art sortieren, nach Saison, Jahr oder Genießbarkeit wiederfinden und Markierungen setzen: Auto, Waldeingang, Durchgang.</figcaption></figure>
+<figure><img src="../images/cueillettes-grille.jpg" alt="Ihre Fotos nach Art sortiert"><figcaption><b>3. Merken</b><br>Jedes Foto mit Standort wird zu einem Spot. Nach Art sortieren, nach Saison, Jahr oder Genießbarkeit wiederfinden und Markierungen setzen: Auto, Waldeingang, Durchgang.</figcaption></figure>
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Navigation in Augmented Reality zu einem Spot"><figcaption><b>4. Wiederfinden</b><br>Karte, Kompass oder Augmented Reality bis zum Spot, mit Tönen und Vibrationen, wenn das Telefon in der Tasche bleibt. Ihre Wanderungen werden aufgezeichnet.</figcaption></figure>
 </div>
 
@@ -56,12 +56,19 @@ dann den Spot an.*
 
 <div class="shots">
 <figure><img src="../images/12-identification-avion.jpg" alt="Bestimmung im Flugmodus"><figcaption>Im Flugmodus funktioniert alles.</figcaption></figure>
-<figure><img src="../images/03-fiche-espece.jpg" alt="Artsteckbrief"><figcaption>Ein Steckbrief pro Art, offline abrufbar.</figcaption></figure>
+<figure><img src="../images/espece-fiche.jpg" alt="Artsteckbrief"><figcaption>Ein Steckbrief pro Art, offline abrufbar.</figcaption></figure>
 <figure><img src="../images/13-fiche-saison.jpg" alt="Saisonkurve einer Art"><figcaption>Die Saison jeder Art.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/identifier-choix.jpg" alt="Bestimmen: live, aus einem Foto oder aus Ihren Fotos" loading="lazy"><figcaption>Bestimmen: live, aus einem Foto oder aus Ihren Fotos.</figcaption></figure>
+<figure><img src="../images/photo-detail.jpg" alt="Jedes Foto: Art, Einschätzung von Apple Intelligence, Ort und Datum" loading="lazy"><figcaption>Jedes Foto: Art, Einschätzung von Apple Intelligence, Ort und Datum.</figcaption></figure>
+<figure><img src="../images/especes-catalogue.jpg" alt="Der Artenkatalog: Suche, Saison, Essbarkeit" loading="lazy"><figcaption>Der Artenkatalog: Suche, Saison, Essbarkeit.</figcaption></figure>
 </div>
 
 > **Wichtig**: Die Bestimmung ist unverbindlich und kann falsch sein. Verzehren Sie niemals einen Pilz allein auf
 > Grundlage der App: Lassen Sie ihn von einem Apotheker oder einem Pilzverein prüfen.
+
 
 ## Erkunden und Ihre Spots wiederfinden
 
@@ -69,11 +76,32 @@ Die IGN-Karten werden im Voraus heruntergeladen: Luftbilder, Plan, Relief, Waldk
 Wälder, Kataster, Hangneigung, Gewässer, Höhenlinien, Geologie. Ein langer Druck auf die Karte zeigt, was die Ebene an
 dieser Stelle darstellt.
 
+- **Bodenkarte (INRAE)** neben den Waldebenen: Der Bodentyp lässt sich samt Legende mit einem langen Druck ablesen.
+- **Jede Ebene hat ihre eigene Transparenz**, und ein globaler Regler lässt das Satellitenbild durchscheinen.
+
 <div class="shots">
-<figure><img src="../images/14-cartes-hors-ligne.jpg" alt="Offline-Karten"><figcaption>Laden Sie das Gebiet vor dem Aufbruch herunter.</figcaption></figure>
-<figure><img src="../images/04-photos.jpg" alt="Reiter Fotos"><figcaption>Ihre Fotos, mit Art und Genießbarkeit.</figcaption></figure>
-<figure><img src="../images/06-filtre-comestibilite.jpg" alt="Filter nach Genießbarkeit"><figcaption>Nach Genießbarkeit filtern.</figcaption></figure>
+<figure><img src="../images/carte-couches.jpg" alt="Ebenen und ihre Transparenz auf der Karte" loading="lazy"><figcaption>Ebenen und ihre Transparenz auf der Karte.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Ein langer Druck: was die Ebenen hier zeigen, und die Wuchsbedingungen" loading="lazy"><figcaption>Ein langer Druck: was die Ebenen hier zeigen, und die Wuchsbedingungen.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Eine Zone: die am selben Ort aufgenommenen Fotos" loading="lazy"><figcaption>Eine Zone: die am selben Ort aufgenommenen Fotos.</figcaption></figure>
 </div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Die Wuchsbedingungen vor dem Fund: Regen, Boden, Mond" loading="lazy"><figcaption>Die Wuchsbedingungen vor dem Fund: Regen, Boden, Mond.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Ebenen und Offline-Karten in den Einstellungen" loading="lazy"><figcaption>Ebenen und Offline-Karten in den Einstellungen.</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="Die Mondphase, nur zur Information" loading="lazy"><figcaption>Die Mondphase, nur zur Information.</figcaption></figure>
+</div>
+
+## Ihre Funde festhalten
+
+Jedes Foto mit Standort wird zu einem Spot. Blättern Sie im Raster oder in der Liste, filtern Sie nach Zeitraum, Art, Jahr oder Essbarkeit, fassen Sie die Fotos desselben Pilzes zusammen, setzen Sie Markierungen (Auto, Wasserstelle, Hütte, markanter Baum, Aussichtspunkt) und fügen Sie Fotos aus Ihrer Mediathek, einem Album oder von einem anderen iPhone hinzu. Jedes Foto behält seinen Ort, sein Datum, das Wetter der Vortage und einen unverbindlichen Index der Wuchsbedingungen.
+
+<div class="shots">
+<figure><img src="../images/cueillettes-liste.jpg" alt="Die Liste, mit Art und Essbarkeit" loading="lazy"><figcaption>Die Liste, mit Art und Essbarkeit.</figcaption></figure>
+<figure><img src="../images/cueillettes-plus.jpg" alt="Fotos hinzufügen, importieren, aufräumen" loading="lazy"><figcaption>Fotos hinzufügen, importieren, aufräumen.</figcaption></figure>
+<figure><img src="../images/carte-filtres.jpg" alt="Nach Zeitraum, Art, Essbarkeit filtern" loading="lazy"><figcaption>Nach Zeitraum, Art, Essbarkeit filtern.</figcaption></figure>
+</div>
+
+## Einen Spot wiederfinden
 
 Die Navigation führt Sie zu Fuß zu einem Spot: Entfernung, Richtung, Gehzeit und in Augmented Reality ein Sonar am
 Boden, das den Bereich zeigt. Bei gesperrtem Bildschirm sagen Ihnen Pieptöne und Vibrationen, ob Sie in die richtige
@@ -84,21 +112,72 @@ Richtung gehen, und eine Stimme kann Ihren Kurs korrigieren.
 *Das Sonar: Eine Welle geht vom Spot aus und breitet sich am Boden aus, in der tatsächlichen Größe des Bereichs, um
 die Entfernung einzuschätzen.*
 
+- **Drei Ansichten**: Karte, Radarkompass oder erweiterte Realität, mit einer Schublade, die man für Details hochzieht oder minimiert, um die Karte im Blick zu behalten.
+- **Mehrere Punkte hintereinander**: Verbinden Sie Spots zu einer Route oder setzen Sie Punkte auf der Karte, und SnapSpot führt Sie von einem zum nächsten.
+
 <div class="shots">
-<figure><img src="../images/15-guidage-carte.jpg" alt="Navigation auf der Karte zu einem gewählten Punkt"><figcaption>Langer Druck auf die Karte, „Navigieren“: ein Pfad aus Punkten zum gewählten Punkt.</figcaption></figure>
-<figure><img src="../images/10-guidage-cible.jpg" alt="Navigation zu einem Spot"><figcaption>Entfernung, Richtung und Minikarte.</figcaption></figure>
+<figure><img src="../images/guidage-minimise.jpg" alt="Die Navigation, minimiert auf der Karte" loading="lazy"><figcaption>Die Navigation, minimiert auf der Karte.</figcaption></figure>
+<figure><img src="../images/guidage-reglages.jpg" alt="Navigationseinstellungen: Töne, Vibrationen, Stimme" loading="lazy"><figcaption>Navigationseinstellungen: Töne, Vibrationen, Stimme.</figcaption></figure>
 <figure><img src="../images/11-live-activity.jpg" alt="Live Activity auf dem Sperrbildschirm"><figcaption>Ihre Wanderung auf dem Sperrbildschirm.</figcaption></figure>
-<figure><img src="../images/08-detail-parcours.jpg" alt="Details einer Tour"><figcaption>Eine Tour mit ihren Fotos.</figcaption></figure>
 </div>
 
 *Bildschirmfotos mit Demonstrationsdaten.*
+
 
 ## Laufen und eigene Routen erstellen
 
 - **GPS-Aufzeichnung** Ihrer Touren: Strecke, Höhenmeter, Geschwindigkeit, Pausen und Markierungen, auch bei gesperrtem Bildschirm.
 - **Eigene Routen**: Verbinden Sie Ihre Funde oder setzen Sie Punkte auf der Karte, SnapSpot führt Sie von Punkt zu Punkt.
 - **Rückweg zum Start** in gerader Linie, über Ihre eigene Spur oder über Wege. Nur „Über Wege und Pfade“ kontaktiert den Routendienst des IGN, mit Ihrer Position und dem Ziel, nie mit Ihren Fotos oder Spots.
-- **Wanderrouten**: ein eingebauter Katalog mit fast 38.000 Routen in Frankreich (OpenStreetMap, IGN), offline nutzbar, mit unverbindlichen Angaben zu Länge, Höhenunterschied, Dauer und Schwierigkeit.
+- **Aufzeichnungs-Schublade**: Zeit, Strecke, Tempo und Markierungen auf einen Blick, Pause, Stopp und „Zurück zum Start“ unter dem Daumen.
+- **Autoerkennung**: Wenn Sie vergessen, die Aufzeichnung im Auto zu beenden, bietet SnapSpot an, das Ende der Tour abzuschneiden.
+- **Sonnenuntergangs-Erinnerung**: eine Meldung, wenn es Zeit ist, umzukehren, damit die Nacht Sie nicht überrascht.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Ihre Touren, nach Zeitraum" loading="lazy"><figcaption>Ihre Touren, nach Zeitraum.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Eine Tour mit ihren Fotos und ihrem Diagramm" loading="lazy"><figcaption>Eine Tour mit ihren Fotos und ihrem Diagramm.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="Aufzeichnung: Zeit, Strecke, zurück zum Start" loading="lazy"><figcaption>Aufzeichnung: Zeit, Strecke, zurück zum Start.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Ende einer Tour: speichern, fortsetzen oder löschen" loading="lazy"><figcaption>Ende einer Tour: speichern, fortsetzen oder löschen.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Meine Routen: zeichnen, dann teilen" loading="lazy"><figcaption>Meine Routen: zeichnen, dann teilen.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Aktionen: umbenennen, zuschneiden, zusammenführen, umwandeln" loading="lazy"><figcaption>Aktionen: umbenennen, zuschneiden, zusammenführen, umwandeln.</figcaption></figure>
+</div>
+
+## Wanderungen
+
+Ein Katalog mit fast 38.000 Routen in Frankreich (OpenStreetMap, IGN) ist in die App eingebaut und lässt sich offline durchsuchen: Länge, Höhenunterschied, Höhenprofil, Dauer und Schwierigkeit, von der App berechnet und nur zur Information angegeben.
+
+- **Suche nach Ort und Filter** für die Routen eines Gebiets, auf einer Karte und in einer Liste.
+- **Starten**: SnapSpot zeichnet Ihre Tour auf und führt Sie entlang der Route, mit Sprachhinweisen an den Abzweigungen und einer Meldung, wenn Sie den Weg verlassen. Die Aufzeichnung lässt sich ausschalten.
+- **Meine Routen**: Zeichnen Sie Ihre eigene von Hand oder Punkt für Punkt, an die Wege des IGN-Netzes angepasst (Netz erforderlich), und teilen Sie sie dann mit einem anderen iPhone oder exportieren Sie sie als GPX.
+
+<div class="shots">
+<figure><img src="../images/randonnees-catalogue.jpg" alt="Der Katalog, auf einer Karte und in einer Liste" loading="lazy"><figcaption>Der Katalog, auf einer Karte und in einer Liste.</figcaption></figure>
+<figure><img src="../images/randonnee-fiche.jpg" alt="Eine Route: Kennzahlen, Höhenprofil, herunterladbare Karten" loading="lazy"><figcaption>Eine Route: Kennzahlen, Höhenprofil, herunterladbare Karten.</figcaption></figure>
+<figure><img src="../images/randonnee-demarrage.jpg" alt="Starten: Aufzeichnung und Navigation zusammen" loading="lazy"><figcaption>Starten: Aufzeichnung und Navigation zusammen.</figcaption></figure>
+</div>
+
+## Eine einfache Oberfläche, die sich Ihnen anpasst
+
+Die Oberfläche von SnapSpot wurde danach neu gestaltet, wie man ein Telefon im Wald benutzt: eine Hand, wenig Zeit, manchmal wenig Netz.
+
+- **Fünf Tabs**: Karte, Funde, Bestimmen (die große Taste in der Mitte), Touren und Arten.
+- **Einfach oder Experte**: Im Modus Einfach sind Details hinter einer kleinen Taste eingeklappt, im Modus Experte aufgeklappt. Alle Funktionen und Daten bleiben in beiden verfügbar, und Sicherheitshinweise werden nie eingeklappt. Sie können jederzeit wechseln.
+- **Hell oder dunkel, hoch oder quer**: Die Oberfläche folgt dem iPhone, und die Bildschirmausrichtung lässt sich in den Einstellungen festlegen.
+- **Integrierte Hilfe**: eine geführte Tour, ein Hilfezentrum nach Themen mit Illustrationen und Tipps, die nur einmal erscheinen.
+
+<div class="shots">
+<figure><img src="../images/choix-affichage.jpg" alt="Darstellung: Einfach oder Experte" loading="lazy"><figcaption>Darstellung: Einfach oder Experte.</figcaption></figure>
+<figure><img src="../images/centre-aide.jpg" alt="Ein Hilfezentrum nach Themen" loading="lazy"><figcaption>Ein Hilfezentrum nach Themen.</figcaption></figure>
+<figure><img src="../images/carte-sombre.jpg" alt="Der dunkle Modus" loading="lazy"><figcaption>Der dunkle Modus.</figcaption></figure>
+</div>
+
+<div class="wide">
+<figure><img src="../images/paysage-carte.jpg" alt="Im Querformat werden die Tabs zu einer Leiste" loading="lazy"><figcaption>Im Querformat werden die Tabs zu einer Leiste.</figcaption></figure>
+<figure><img src="../images/paysage-cueillettes.jpg" alt="Der Tab Funde im Querformat" loading="lazy"><figcaption>Der Tab Funde im Querformat.</figcaption></figure>
+</div>
 
 ## Absoluter Datenschutz
 
