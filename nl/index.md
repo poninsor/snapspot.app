@@ -22,7 +22,7 @@ voor iPhone. Ook zonder netwerk.
 ## Verkennen. Determineren. Onthouden. Terugvinden.
 
 <div class="steps">
-<figure><img src="../images/carte-ici.jpg" alt="IGN-boskaart met je vondsten"><figcaption><b>1. Verkennen</b><br>Boskaart, openbare bossen, oude bossen, geologie, hellingen, reliëf, kadaster: de IGN-kaarten helpen gunstige biotopen te vinden en zijn te downloaden voordat je vertrekt.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Boskaart IGN"><figcaption><b>1. Verkennen</b><br>Boskaart, openbare bossen, bodemkaart, hellingen, reliëf, kadaster: de IGN-kaarten helpen gunstige habitats te vinden. Een lange druk toont wat elke laag hier laat zien; download ze voor je vertrekt.</figcaption></figure>
 <figure><img src="../images/02-identifier-photo.jpg" alt="Live determinatie van een paddenstoel"><figcaption><b>2. Determineren</b><br>Een model gemaakt voor paddenstoelen, op de iPhone, zonder netwerk. Meerdere voorstellen, gevaarlijke verwisselingen aangegeven, nooit een oordeel.</figcaption></figure>
 <figure><img src="../images/cueillettes-grille.jpg" alt="Je foto's gesorteerd per soort"><figcaption><b>3. Onthouden</b><br>Elke foto met locatie wordt een spot. Sorteer per soort, vind terug per seizoen, jaar of eetbaarheid en zet markeringen: auto, bosingang, doorgang.</figcaption></figure>
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Navigatie in augmented reality naar een spot"><figcaption><b>4. Terugvinden</b><br>Kaart, kompas of augmented reality tot aan de spot, met geluiden en trillingen als de telefoon in je zak blijft. Je wandelingen worden opgenomen.</figcaption></figure>
@@ -63,9 +63,9 @@ maakt dan de spot aan.*
 </div>
 
 <div class="shots">
-<figure><img src="../images/identifier-choix.jpg" alt="Determineer: live, vanaf een foto of vanaf je foto's" loading="lazy"><figcaption>Determineer: live, vanaf een foto of vanaf je foto's.</figcaption></figure>
-<figure><img src="../images/photo-detail.jpg" alt="Elke foto: soort, oordeel van Apple Intelligence, plaats en datum" loading="lazy"><figcaption>Elke foto: soort, oordeel van Apple Intelligence, plaats en datum.</figcaption></figure>
-<figure><img src="../images/especes-catalogue.jpg" alt="De soortencatalogus: zoeken, seizoen, eetbaarheid" loading="lazy"><figcaption>De soortencatalogus: zoeken, seizoen, eetbaarheid.</figcaption></figure>
+<figure><img src="../images/identifier-choix.jpg" alt="Determineer: live, een foto nemen, vanaf je foto's of een spot zonder foto" loading="lazy"><figcaption>Determineer: live, een foto nemen, vanaf je foto's of een spot zonder foto.</figcaption></figure>
+<figure><img src="../images/photo-detail.jpg" alt="Een vondst: foto, soort en eetbaarheid, plaats en datum, groeiomstandigheden, oordeel van Apple Intelligence en «Leid me»" loading="lazy"><figcaption>Een vondst: foto, soort en eetbaarheid, plaats en datum, groeiomstandigheden, oordeel van Apple Intelligence en «Leid me».</figcaption></figure>
+<figure><img src="../images/especes-catalogue.jpg" alt="De catalogus: 224 fiches, zoeken, filters, seizoen en eetbaarheid van elke soort" loading="lazy"><figcaption>De catalogus: 224 fiches, zoeken, filters, seizoen en eetbaarheid van elke soort.</figcaption></figure>
 </div>
 
 > **Belangrijk**: de determinatie is indicatief en kan fout zijn. Eet nooit een paddenstoel op basis van de app: laat
@@ -82,15 +82,15 @@ toont.
 - **Elke laag heeft zijn eigen transparantie**, en met een algemene schuif kijk je door de lagen heen naar de satellietfoto.
 
 <div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="De lagen en hun transparantie, op de kaart" loading="lazy"><figcaption>De lagen en hun transparantie, op de kaart.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Een lange druk: wat de lagen hier tonen, en de groeiomstandigheden" loading="lazy"><figcaption>Een lange druk: wat de lagen hier tonen, en de groeiomstandigheden.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="Een zone: de foto's die op dezelfde plek zijn genomen" loading="lazy"><figcaption>Een zone: de foto's die op dezelfde plek zijn genomen.</figcaption></figure>
+<figure><img src="../images/carte-couches.jpg" alt="Het blad Lagen: algemene dekking, achtergrondkaart en de IGN-lagen per rubriek, elk met eigen transparantie" loading="lazy"><figcaption>Het blad Lagen: algemene dekking, achtergrondkaart en de IGN-lagen per rubriek, elk met eigen transparantie.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Een lange druk: wat de lagen hier tonen (bos, status, bodem, helling), regen van 7 dagen, «Groei: weinig gunstig» en «Ga erheen»" loading="lazy"><figcaption>Een lange druk: wat de lagen hier tonen (bos, status, bodem, helling), regen van 7 dagen, «Groei: weinig gunstig» en «Ga erheen».</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Een zone: de 3 foto's van dezelfde plek, met «Foto's bekijken» en «Leid me»" loading="lazy"><figcaption>Een zone: de 3 foto's van dezelfde plek, met «Foto's bekijken» en «Leid me».</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="De groeiomstandigheden vóór de vondst: regen, bodem, maan" loading="lazy"><figcaption>De groeiomstandigheden vóór de vondst: regen, bodem, maan.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Lagen en offline kaarten, in de instellingen" loading="lazy"><figcaption>Lagen en offline kaarten, in de instellingen.</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="De maanfase, uitsluitend ter informatie" loading="lazy"><figcaption>De maanfase, uitsluitend ter informatie.</figcaption></figure>
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Groeiomstandigheden van een vondst: index 31 op 100, de 4 criteria (water, moment van de regen, bodemvocht en -temperatuur), dan de bonussen en maluspunten van de plek" loading="lazy"><figcaption>Groeiomstandigheden van een vondst: index 31 op 100, de 4 criteria (water, moment van de regen, bodemvocht en -temperatuur), dan de bonussen en maluspunten van de plek.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Instellingen › Kaart en offline: achtergrondkaart, dekking van de lagen en lagen per rubriek (bos en vegetatie, bodem en water, reliëf en hellingen)" loading="lazy"><figcaption>Instellingen › Kaart en offline: achtergrondkaart, dekking van de lagen en lagen per rubriek (bos en vegetatie, bodem en water, reliëf en hellingen).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie" loading="lazy"><figcaption>De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie.</figcaption></figure>
 </div>
 
 ## Je vondsten onthouden
@@ -98,9 +98,9 @@ toont.
 Elke foto met locatie wordt een spot. Blader erdoorheen als raster of lijst, filter op periode, soort, jaar of eetbaarheid, groepeer de foto's van dezelfde paddenstoel, zet markeringen (auto, waterpunt, hut, opvallende boom, uitkijkpunt) en voeg foto's toe uit je bibliotheek, een album of een andere iPhone. Elke foto bewaart zijn plaats, zijn datum, het weer van de voorgaande dagen en een indicatieve index van de groeiomstandigheden.
 
 <div class="shots">
-<figure><img src="../images/cueillettes-liste.jpg" alt="De lijst, met soort en eetbaarheid" loading="lazy"><figcaption>De lijst, met soort en eetbaarheid.</figcaption></figure>
-<figure><img src="../images/cueillettes-plus.jpg" alt="Foto's toevoegen, importeren, opruimen" loading="lazy"><figcaption>Foto's toevoegen, importeren, opruimen.</figcaption></figure>
-<figure><img src="../images/carte-filtres.jpg" alt="Filteren op periode, soort, eetbaarheid" loading="lazy"><figcaption>Filteren op periode, soort, eetbaarheid.</figcaption></figure>
+<figure><img src="../images/cueillettes-liste.jpg" alt="De lijst: foto, datum, plaats, soort en eetbaarheid van elke vondst" loading="lazy"><figcaption>De lijst: foto, datum, plaats, soort en eetbaarheid van elke vondst.</figcaption></figure>
+<figure><img src="../images/cueillettes-plus.jpg" alt="Meer acties: foto's toevoegen (camera, bibliotheek, album, andere iPhone) en opruimen (dubbels, foto's zonder paddenstoel)" loading="lazy"><figcaption>Meer acties: foto's toevoegen (camera, bibliotheek, album, andere iPhone) en opruimen (dubbels, foto's zonder paddenstoel).</figcaption></figure>
+<figure><img src="../images/carte-filtres.jpg" alt="Kaartfilters: periode, eetbaarheid, soort en «Kaart centreren» op je vondsten" loading="lazy"><figcaption>Kaartfilters: periode, eetbaarheid, soort en «Kaart centreren» op je vondsten.</figcaption></figure>
 </div>
 
 ## Een spot terugvinden
@@ -118,9 +118,15 @@ om de afstand in te schatten.*
 - **Meerdere punten achter elkaar**: koppel spots tot een route, of zet punten op de kaart en laat SnapSpot je van het ene naar het volgende leiden.
 
 <div class="shots">
-<figure><img src="../images/guidage-minimise.jpg" alt="De navigatie, geminimaliseerd op de kaart" loading="lazy"><figcaption>De navigatie, geminimaliseerd op de kaart.</figcaption></figure>
-<figure><img src="../images/guidage-reglages.jpg" alt="Navigatie-instellingen: geluiden, trillingen, stem" loading="lazy"><figcaption>Navigatie-instellingen: geluiden, trillingen, stem.</figcaption></figure>
+<figure><img src="../images/guidage-minimise.jpg" alt="Navigatie in kompasmodus: radar van de vondsten om je heen, richting en looptijd in de lade" loading="lazy"><figcaption>Navigatie in kompasmodus: radar van de vondsten om je heen, richting en looptijd in de lade.</figcaption></figure>
+<figure><img src="../images/guidage-reglages.jpg" alt="Snelle navigatie-instellingen: geluiden, trillingen, gesproken copiloot en schermstand" loading="lazy"><figcaption>Snelle navigatie-instellingen: geluiden, trillingen, gesproken copiloot en schermstand.</figcaption></figure>
 <figure><img src="../images/11-live-activity.jpg" alt="Live Activity op het vergrendelscherm"><figcaption>Je wandeling op het vergrendelscherm.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/guidage-tiroir-detaille.jpg" alt="De uitgeklapte lade in kaartmodus: volgende bocht, nauwkeurigheid, resterende afstand en volgende punten" loading="lazy"><figcaption>De uitgeklapte lade in kaartmodus: volgende bocht, nauwkeurigheid, resterende afstand en volgende punten.</figcaption></figure>
+<figure><img src="../images/guidage-colonne-depliee.jpg" alt="De uitgeklapte knoppenkolom: trillingen, geluiden, markering, determineer, opname" loading="lazy"><figcaption>De uitgeklapte knoppenkolom: trillingen, geluiden, markering, determineer, opname.</figcaption></figure>
+<figure><img src="../images/guidage-carte-minimise.jpg" alt="De geminimaliseerde navigatie: alleen een balk bovenaan terwijl je de routekaart bekijkt" loading="lazy"><figcaption>De geminimaliseerde navigatie: alleen een balk bovenaan terwijl je de routekaart bekijkt.</figcaption></figure>
 </div>
 
 *Schermafbeeldingen gemaakt met demonstratiegegevens.*
@@ -136,15 +142,15 @@ om de afstand in te schatten.*
 - **Zonsondergangsherinnering**: een melding wanneer het tijd is om terug te keren, zodat de nacht je niet verrast.
 
 <div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Je tochten, per periode" loading="lazy"><figcaption>Je tochten, per periode.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="Een tocht met zijn foto's en zijn grafiek" loading="lazy"><figcaption>Een tocht met zijn foto's en zijn grafiek.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="De opname: duur, afstand, terug naar de start" loading="lazy"><figcaption>De opname: duur, afstand, terug naar de start.</figcaption></figure>
+<figure><img src="../images/balades-parcours.jpg" alt="Tochten: je tracks per datum, met het overzicht van de periode en het aantal foto's van elk" loading="lazy"><figcaption>Tochten: je tracks per datum, met het overzicht van de periode en het aantal foto's van elk.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Een tocht: track gekleurd op snelheid, miniaturen van de genomen foto's, cijfers en profiel" loading="lazy"><figcaption>Een tocht: track gekleurd op snelheid, miniaturen van de genomen foto's, cijfers en profiel.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="De lopende opname: duur, afstand, snelheid, hoogteverschil en «Terug naar de start»" loading="lazy"><figcaption>De lopende opname: duur, afstand, snelheid, hoogteverschil en «Terug naar de start».</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Einde van een tocht: bewaren, hervatten of verwijderen" loading="lazy"><figcaption>Einde van een tocht: bewaren, hervatten of verwijderen.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mijn routes: tekenen, dan delen" loading="lazy"><figcaption>Mijn routes: tekenen, dan delen.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Acties: hernoemen, bijsnijden, samenvoegen, omzetten" loading="lazy"><figcaption>Acties: hernoemen, bijsnijden, samenvoegen, omzetten.</figcaption></figure>
+<figure><img src="../images/fin-de-parcours.jpg" alt="Einde van een tocht: bewaren, opname hervatten of verwijderen" loading="lazy"><figcaption>Einde van een tocht: bewaren, opname hervatten of verwijderen.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mijn routes: een route maken, met je vinger tekenen of een .snapspot-bestand importeren" loading="lazy"><figcaption>Mijn routes: een route maken, met je vinger tekenen of een .snapspot-bestand importeren.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Acties van een tocht: hernoemen, aantekening, bijsnijden, GPX samenvoegen; terug naar de start, op punten volgen, omzetten in route" loading="lazy"><figcaption>Acties van een tocht: hernoemen, aantekening, bijsnijden, GPX samenvoegen; terug naar de start, op punten volgen, omzetten in route.</figcaption></figure>
 </div>
 
 ## Wandelingen
@@ -156,9 +162,9 @@ Een catalogus met bijna 38.000 routes in Frankrijk (OpenStreetMap, IGN) is in de
 - **Mijn routes**: teken je eigen route met de hand of punt voor punt, aangesloten op de paden van het IGN-netwerk (netwerk nodig), en deel hem met een andere iPhone of exporteer hem als GPX.
 
 <div class="shots">
-<figure><img src="../images/randonnees-catalogue.jpg" alt="De catalogus, op een kaart en in een lijst" loading="lazy"><figcaption>De catalogus, op een kaart en in een lijst.</figcaption></figure>
-<figure><img src="../images/randonnee-fiche.jpg" alt="Een route: cijfers, hoogteprofiel, te downloaden kaarten" loading="lazy"><figcaption>Een route: cijfers, hoogteprofiel, te downloaden kaarten.</figcaption></figure>
-<figure><img src="../images/randonnee-demarrage.jpg" alt="Starten: opname en navigatie samen" loading="lazy"><figcaption>Starten: opname en navigatie samen.</figcaption></figure>
+<figure><img src="../images/randonnees-catalogue.jpg" alt="De wandelcatalogus: kaart en lijst met afstand, hoogteverschil, moeilijkheid en bron van elke route" loading="lazy"><figcaption>De wandelcatalogus: kaart en lijst met afstand, hoogteverschil, moeilijkheid en bron van elke route.</figcaption></figure>
+<figure><img src="../images/randonnee-fiche.jpg" alt="Routekaart: «Starten», kiezen of je opneemt, te downloaden kaarten, cijfers en hoogteprofiel" loading="lazy"><figcaption>Routekaart: «Starten», kiezen of je opneemt, te downloaden kaarten, cijfers en hoogteprofiel.</figcaption></figure>
+<figure><img src="../images/randonnee-demarrage.jpg" alt="Begeleide wandeling: aanwijzing «Linksaf» en stippellijn naar het volgende punt" loading="lazy"><figcaption>Begeleide wandeling: aanwijzing «Linksaf» en stippellijn naar het volgende punt.</figcaption></figure>
 </div>
 
 ## Een eenvoudige interface die zich aanpast aan jou
@@ -171,14 +177,14 @@ De interface van SnapSpot is opnieuw ontworpen rond hoe je een telefoon in het b
 - **Ingebouwde hulp**: een rondleiding, een helpcentrum per thema met illustraties en tips die maar één keer verschijnen.
 
 <div class="shots">
-<figure><img src="../images/choix-affichage.jpg" alt="Weergave: Eenvoudig of Expert" loading="lazy"><figcaption>Weergave: Eenvoudig of Expert.</figcaption></figure>
-<figure><img src="../images/centre-aide.jpg" alt="Een helpcentrum, per thema" loading="lazy"><figcaption>Een helpcentrum, per thema.</figcaption></figure>
-<figure><img src="../images/carte-sombre.jpg" alt="De donkere modus" loading="lazy"><figcaption>De donkere modus.</figcaption></figure>
+<figure><img src="../images/choix-affichage.jpg" alt="Eenvoudig of Expert: dezelfde functies en gegevens, details in- of uitgeklapt" loading="lazy"><figcaption>Eenvoudig of Expert: dezelfde functies en gegevens, details in- of uitgeklapt.</figcaption></figure>
+<figure><img src="../images/centre-aide.jpg" alt="Het helpcentrum: rondleiding en thema's (kaart, determinatie, vondsten, tochten, navigatie …)" loading="lazy"><figcaption>Het helpcentrum: rondleiding en thema's (kaart, determinatie, vondsten, tochten, navigatie …).</figcaption></figure>
+<figure><img src="../images/carte-sombre.jpg" alt="De donkere modus op de kaart: dezelfde interface, aangepaste kleuren" loading="lazy"><figcaption>De donkere modus op de kaart: dezelfde interface, aangepaste kleuren.</figcaption></figure>
 </div>
 
 <div class="wide">
-<figure><img src="../images/paysage-carte.jpg" alt="Liggend worden de tabbladen een zijbalk" loading="lazy"><figcaption>Liggend worden de tabbladen een zijbalk.</figcaption></figure>
-<figure><img src="../images/paysage-cueillettes.jpg" alt="Het tabblad Vondsten liggend" loading="lazy"><figcaption>Het tabblad Vondsten liggend.</figcaption></figure>
+<figure><img src="../images/paysage-carte.jpg" alt="De kaart liggend: tabbladen als zijbalk links, knoppen rechts" loading="lazy"><figcaption>De kaart liggend: tabbladen als zijbalk links, knoppen rechts.</figcaption></figure>
+<figure><img src="../images/paysage-cueillettes.jpg" alt="Het tabblad Vondsten liggend, met filterchips" loading="lazy"><figcaption>Het tabblad Vondsten liggend, met filterchips.</figcaption></figure>
 </div>
 
 ## Absolute privacy

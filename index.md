@@ -22,7 +22,7 @@ cueilleur de champignons, pour iPhone. Même sans réseau.
 ## Prospecter. Identifier. Mémoriser. Retrouver.
 
 <div class="steps">
-<figure><img src="images/carte-ici.jpg" alt="Carte forestière IGN avec vos cueillettes"><figcaption><b>1. Prospecter</b><br>Carte forestière, forêts publiques, forêts anciennes, géologie, pentes, relief, cadastre : les cartes IGN aident à repérer les milieux favorables, et se téléchargent avant de partir.</figcaption></figure>
+<figure><img src="images/carte-ici.jpg" alt="Carte forestière IGN"><figcaption><b>1. Prospecter</b><br>Carte forestière, forêts publiques, carte des sols, pentes, relief, cadastre : les cartes IGN aident à repérer les milieux favorables. Un appui long dit ce que chaque couche montre ici ; téléchargez-les avant de partir.</figcaption></figure>
 <figure><img src="images/02-identifier-photo.jpg" alt="Identification en direct d'un champignon"><figcaption><b>2. Identifier</b><br>Un modèle fait pour les champignons, sur l'iPhone, sans réseau. Plusieurs propositions, les ressemblances dangereuses signalées, jamais un verdict.</figcaption></figure>
 <figure><img src="images/cueillettes-grille.jpg" alt="Vos photos classées par espèce"><figcaption><b>3. Mémoriser</b><br>Chaque photo géolocalisée devient un spot. Classez par espèce, retrouvez par saison, par année ou par comestibilité, et posez des repères : voiture, entrée de forêt, passage.</figcaption></figure>
 <figure><img src="images/09-realite-augmentee.jpg" alt="Guidage en réalité augmentée vers un spot"><figcaption><b>4. Retrouver</b><br>Carte, boussole ou réalité augmentée jusqu'au spot, avec des sons et des vibrations quand le téléphone reste dans la poche. Vos balades sont enregistrées.</figcaption></figure>
@@ -61,9 +61,9 @@ crée le spot.*
 </div>
 
 <div class="shots">
-<figure><img src="images/identifier-choix.jpg" alt="Identifier : en direct, depuis une photo, ou depuis vos photos" loading="lazy"><figcaption>Identifier : en direct, depuis une photo, ou depuis vos photos.</figcaption></figure>
-<figure><img src="images/photo-detail.jpg" alt="Chaque photo : espèce, avis d'Apple Intelligence, lieu et date" loading="lazy"><figcaption>Chaque photo : espèce, avis d'Apple Intelligence, lieu et date.</figcaption></figure>
-<figure><img src="images/especes-catalogue.jpg" alt="Le catalogue des espèces : recherche, saison, comestibilité" loading="lazy"><figcaption>Le catalogue des espèces : recherche, saison, comestibilité.</figcaption></figure>
+<figure><img src="images/identifier-choix.jpg" alt="Identifier : en direct, prendre une photo, depuis vos photos, ou un spot sans photo" loading="lazy"><figcaption>Identifier : en direct, prendre une photo, depuis vos photos, ou un spot sans photo.</figcaption></figure>
+<figure><img src="images/photo-detail.jpg" alt="Une cueillette : photo, espèce et comestibilité, lieu et date, conditions de pousse, avis d'Apple Intelligence et « Me guider »" loading="lazy"><figcaption>Une cueillette : photo, espèce et comestibilité, lieu et date, conditions de pousse, avis d'Apple Intelligence et « Me guider ».</figcaption></figure>
+<figure><img src="images/especes-catalogue.jpg" alt="Le catalogue : 224 fiches, recherche, filtres, saison et comestibilité de chaque espèce" loading="lazy"><figcaption>Le catalogue : 224 fiches, recherche, filtres, saison et comestibilité de chaque espèce.</figcaption></figure>
 </div>
 
 > **Important** : l'identification est indicative et peut se tromper. Ne consommez jamais un champignon sur la foi de
@@ -80,15 +80,15 @@ montre la couche à cet endroit.
 - **Chaque couche a sa propre transparence**, et un curseur global permet de voir la photo satellite à travers.
 
 <div class="shots">
-<figure><img src="images/carte-couches.jpg" alt="Les couches et leur transparence, sur la carte" loading="lazy"><figcaption>Les couches et leur transparence, sur la carte.</figcaption></figure>
-<figure><img src="images/carte-ici.jpg" alt="Un appui long : ce que montrent les couches ici, et les conditions de pousse" loading="lazy"><figcaption>Un appui long : ce que montrent les couches ici, et les conditions de pousse.</figcaption></figure>
-<figure><img src="images/carte-zone.jpg" alt="Une zone : les photos prises au même endroit" loading="lazy"><figcaption>Une zone : les photos prises au même endroit.</figcaption></figure>
+<figure><img src="images/carte-couches.jpg" alt="La feuille Couches : opacité globale, fond de carte, puis les couches IGN par rubrique, chacune avec sa transparence" loading="lazy"><figcaption>La feuille Couches : opacité globale, fond de carte, puis les couches IGN par rubrique, chacune avec sa transparence.</figcaption></figure>
+<figure><img src="images/carte-ici.jpg" alt="Un appui long : ce que montrent les couches ici (forêt, statut, sol, pente), la pluie sur 7 jours, « Pousse : peu favorable » et « Y aller »" loading="lazy"><figcaption>Un appui long : ce que montrent les couches ici (forêt, statut, sol, pente), la pluie sur 7 jours, « Pousse : peu favorable » et « Y aller ».</figcaption></figure>
+<figure><img src="images/carte-zone.jpg" alt="Une zone : les 3 photos prises au même endroit, avec « Voir les photos » et « Me guider »" loading="lazy"><figcaption>Une zone : les 3 photos prises au même endroit, avec « Voir les photos » et « Me guider ».</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="images/photo-conditions-pousse.jpg" alt="Les conditions de pousse avant la cueillette : pluie, sol, lune" loading="lazy"><figcaption>Les conditions de pousse avant la cueillette : pluie, sol, lune.</figcaption></figure>
-<figure><img src="images/reglages-carte.jpg" alt="Couches et cartes hors ligne, dans les réglages" loading="lazy"><figcaption>Couches et cartes hors ligne, dans les réglages.</figcaption></figure>
-<figure><img src="images/carte-lune.jpg" alt="La phase de la lune, à titre indicatif" loading="lazy"><figcaption>La phase de la lune, à titre indicatif.</figcaption></figure>
+<figure><img src="images/photo-conditions-pousse.jpg" alt="Conditions de pousse d'une cueillette : indice 31 sur 100, les 4 critères (eau, moment de la pluie, humidité et température du sol), puis les bonus et malus du lieu" loading="lazy"><figcaption>Conditions de pousse d'une cueillette : indice 31 sur 100, les 4 critères (eau, moment de la pluie, humidité et température du sol), puis les bonus et malus du lieu.</figcaption></figure>
+<figure><img src="images/reglages-carte.jpg" alt="Réglages › Carte et hors ligne : fond de carte, opacité des couches, puis les couches par rubrique (forêt et végétation, sol et eau, relief et pentes)" loading="lazy"><figcaption>Réglages › Carte et hors ligne : fond de carte, opacité des couches, puis les couches par rubrique (forêt et végétation, sol et eau, relief et pentes).</figcaption></figure>
+<figure><img src="images/carte-lune.jpg" alt="La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif" loading="lazy"><figcaption>La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif.</figcaption></figure>
 </div>
 
 ## Mémoriser vos cueillettes
@@ -96,9 +96,9 @@ montre la couche à cet endroit.
 Chaque photo géolocalisée devient un spot. Parcourez-les en grille ou en liste, filtrez par période, espèce, année ou comestibilité, regroupez les photos d'un même champignon, posez des repères (voiture, point d'eau, cabane, arbre remarquable, panorama) et ajoutez des photos depuis votre photothèque, un album ou un autre iPhone. Chaque photo garde son lieu, sa date, la météo des jours précédents et un indice indicatif de conditions de pousse.
 
 <div class="shots">
-<figure><img src="images/cueillettes-liste.jpg" alt="La liste, avec l'espèce et la comestibilité" loading="lazy"><figcaption>La liste, avec l'espèce et la comestibilité.</figcaption></figure>
-<figure><img src="images/cueillettes-plus.jpg" alt="Ajouter des photos, importer, nettoyer" loading="lazy"><figcaption>Ajouter des photos, importer, nettoyer.</figcaption></figure>
-<figure><img src="images/carte-filtres.jpg" alt="Filtrer par période, espèce, comestibilité" loading="lazy"><figcaption>Filtrer par période, espèce, comestibilité.</figcaption></figure>
+<figure><img src="images/cueillettes-liste.jpg" alt="La liste : photo, date, lieu, espèce et comestibilité de chaque cueillette" loading="lazy"><figcaption>La liste : photo, date, lieu, espèce et comestibilité de chaque cueillette.</figcaption></figure>
+<figure><img src="images/cueillettes-plus.jpg" alt="Plus d'actions : ajouter des photos (appareil, photothèque, album, autre iPhone) et nettoyer (doublons, photos sans champignon)" loading="lazy"><figcaption>Plus d'actions : ajouter des photos (appareil, photothèque, album, autre iPhone) et nettoyer (doublons, photos sans champignon).</figcaption></figure>
+<figure><img src="images/carte-filtres.jpg" alt="Filtres de la carte : période, comestibilité, espèce, et « Cadrer la carte » sur vos cueillettes" loading="lazy"><figcaption>Filtres de la carte : période, comestibilité, espèce, et « Cadrer la carte » sur vos cueillettes.</figcaption></figure>
 </div>
 
 ## Retrouver un spot
@@ -115,9 +115,15 @@ direction, et une voix peut vous corriger le cap.
 - **Plusieurs points à la suite** : enchaînez des spots en un itinéraire, ou posez des points sur la carte et laissez SnapSpot vous guider de l'un à l'autre.
 
 <div class="shots">
-<figure><img src="images/guidage-minimise.jpg" alt="Le guidage, minimisé sur la carte" loading="lazy"><figcaption>Le guidage, minimisé sur la carte.</figcaption></figure>
-<figure><img src="images/guidage-reglages.jpg" alt="Réglages du guidage : sons, vibrations, voix" loading="lazy"><figcaption>Réglages du guidage : sons, vibrations, voix.</figcaption></figure>
+<figure><img src="images/guidage-minimise.jpg" alt="Le guidage en mode Boussole : radar des cueillettes autour de vous, direction et durée à pied dans le tiroir" loading="lazy"><figcaption>Le guidage en mode Boussole : radar des cueillettes autour de vous, direction et durée à pied dans le tiroir.</figcaption></figure>
+<figure><img src="images/guidage-reglages.jpg" alt="Réglages rapides du guidage : sons, vibrations, copilote vocal et orientation de l'écran" loading="lazy"><figcaption>Réglages rapides du guidage : sons, vibrations, copilote vocal et orientation de l'écran.</figcaption></figure>
 <figure><img src="images/11-live-activity.jpg" alt="Live Activity sur l'écran verrouillé"><figcaption>Votre balade sur l'écran verrouillé.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="images/guidage-tiroir-detaille.jpg" alt="Le tiroir déplié en mode Carte : prochain virage, précision, distance restante et prochains points" loading="lazy"><figcaption>Le tiroir déplié en mode Carte : prochain virage, précision, distance restante et prochains points.</figcaption></figure>
+<figure><img src="images/guidage-colonne-depliee.jpg" alt="La colonne de boutons dépliée : vibrations, sons, repère, identifier, enregistrement" loading="lazy"><figcaption>La colonne de boutons dépliée : vibrations, sons, repère, identifier, enregistrement.</figcaption></figure>
+<figure><img src="images/guidage-carte-minimise.jpg" alt="Le guidage minimisé : un simple bandeau en haut, pendant que vous consultez la fiche de la randonnée" loading="lazy"><figcaption>Le guidage minimisé : un simple bandeau en haut, pendant que vous consultez la fiche de la randonnée.</figcaption></figure>
 </div>
 
 *Captures réalisées avec des données de démonstration.*
@@ -133,15 +139,15 @@ direction, et une voix peut vous corriger le cap.
 - **Rappel du coucher du soleil** : une alerte quand il est temps de rentrer, pour ne pas être surpris par la nuit.
 
 <div class="shots">
-<figure><img src="images/balades-parcours.jpg" alt="Vos balades, par période" loading="lazy"><figcaption>Vos balades, par période.</figcaption></figure>
-<figure><img src="images/balade-detail.jpg" alt="Une balade, avec ses photos et son graphique" loading="lazy"><figcaption>Une balade, avec ses photos et son graphique.</figcaption></figure>
-<figure><img src="images/enregistrement-detaille.jpg" alt="L'enregistrement : durée, distance, retour au départ" loading="lazy"><figcaption>L'enregistrement : durée, distance, retour au départ.</figcaption></figure>
+<figure><img src="images/balades-parcours.jpg" alt="Balades : vos parcours par date, avec le bilan de la période et le nombre de photos de chacun" loading="lazy"><figcaption>Balades : vos parcours par date, avec le bilan de la période et le nombre de photos de chacun.</figcaption></figure>
+<figure><img src="images/balade-detail.jpg" alt="Une balade : tracé coloré selon la vitesse, miniatures des photos prises, chiffres et profil" loading="lazy"><figcaption>Une balade : tracé coloré selon la vitesse, miniatures des photos prises, chiffres et profil.</figcaption></figure>
+<figure><img src="images/enregistrement-detaille.jpg" alt="L'enregistrement en cours : durée, distance, vitesse, dénivelé, et « Retour au départ »" loading="lazy"><figcaption>L'enregistrement en cours : durée, distance, vitesse, dénivelé, et « Retour au départ ».</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="images/fin-de-parcours.jpg" alt="Fin d'une balade : enregistrer, reprendre ou supprimer" loading="lazy"><figcaption>Fin d'une balade : enregistrer, reprendre ou supprimer.</figcaption></figure>
-<figure><img src="images/balades-mes-itineraires.jpg" alt="Mes itinéraires : dessiner, puis partager" loading="lazy"><figcaption>Mes itinéraires : dessiner, puis partager.</figcaption></figure>
-<figure><img src="images/balade-actions.jpg" alt="Actions : renommer, recadrer, fusionner, convertir" loading="lazy"><figcaption>Actions : renommer, recadrer, fusionner, convertir.</figcaption></figure>
+<figure><img src="images/fin-de-parcours.jpg" alt="Fin d'une balade : enregistrer, reprendre l'enregistrement ou supprimer" loading="lazy"><figcaption>Fin d'une balade : enregistrer, reprendre l'enregistrement ou supprimer.</figcaption></figure>
+<figure><img src="images/balades-mes-itineraires.jpg" alt="Mes itinéraires : créer un itinéraire, le dessiner au doigt ou importer un fichier .snapspot" loading="lazy"><figcaption>Mes itinéraires : créer un itinéraire, le dessiner au doigt ou importer un fichier .snapspot.</figcaption></figure>
+<figure><img src="images/balade-actions.jpg" alt="Actions d'une balade : renommer, annoter, recadrer, fusionner un GPX ; retourner au départ, suivre en points, convertir en itinéraire" loading="lazy"><figcaption>Actions d'une balade : renommer, annoter, recadrer, fusionner un GPX ; retourner au départ, suivre en points, convertir en itinéraire.</figcaption></figure>
 </div>
 
 ## Randonnées
@@ -153,9 +159,9 @@ Un catalogue de près de 38 000 itinéraires en France (OpenStreetMap, IGN) est 
 - **Mes itinéraires** : dessinez le vôtre à la main ou point par point, accroché aux sentiers du réseau IGN (réseau requis), puis partagez-le à un autre iPhone ou exportez-le en GPX.
 
 <div class="shots">
-<figure><img src="images/randonnees-catalogue.jpg" alt="Le catalogue, sur une carte et en liste" loading="lazy"><figcaption>Le catalogue, sur une carte et en liste.</figcaption></figure>
-<figure><img src="images/randonnee-fiche.jpg" alt="Un itinéraire : chiffres, profil d'altitude, cartes à télécharger" loading="lazy"><figcaption>Un itinéraire : chiffres, profil d'altitude, cartes à télécharger.</figcaption></figure>
-<figure><img src="images/randonnee-demarrage.jpg" alt="Démarrer : enregistrement et guidage ensemble" loading="lazy"><figcaption>Démarrer : enregistrement et guidage ensemble.</figcaption></figure>
+<figure><img src="images/randonnees-catalogue.jpg" alt="Le catalogue de randonnées : carte et liste avec distance, dénivelé, difficulté et source de chaque itinéraire" loading="lazy"><figcaption>Le catalogue de randonnées : carte et liste avec distance, dénivelé, difficulté et source de chaque itinéraire.</figcaption></figure>
+<figure><img src="images/randonnee-fiche.jpg" alt="Fiche d'une randonnée : « Démarrer », choix d'enregistrer ou non, cartes à télécharger, chiffres et profil d'altitude" loading="lazy"><figcaption>Fiche d'une randonnée : « Démarrer », choix d'enregistrer ou non, cartes à télécharger, chiffres et profil d'altitude.</figcaption></figure>
+<figure><img src="images/randonnee-demarrage.jpg" alt="Randonnée guidée : consigne « Tourner à gauche » et chemin en pointillés jusqu'au prochain point" loading="lazy"><figcaption>Randonnée guidée : consigne « Tourner à gauche » et chemin en pointillés jusqu'au prochain point.</figcaption></figure>
 </div>
 
 ## Une interface simple, qui s'adapte à vous
@@ -168,14 +174,14 @@ L'interface de SnapSpot a été repensée pour la façon dont on se sert d'un t�
 - **Aide intégrée** : une visite guidée, un centre d'aide par thème avec des illustrations, et des astuces qui n'apparaissent qu'une fois.
 
 <div class="shots">
-<figure><img src="images/choix-affichage.jpg" alt="Affichage : Simple ou Expert" loading="lazy"><figcaption>Affichage : Simple ou Expert.</figcaption></figure>
-<figure><img src="images/centre-aide.jpg" alt="Un centre d'aide, par thème" loading="lazy"><figcaption>Un centre d'aide, par thème.</figcaption></figure>
-<figure><img src="images/carte-sombre.jpg" alt="Le mode sombre" loading="lazy"><figcaption>Le mode sombre.</figcaption></figure>
+<figure><img src="images/choix-affichage.jpg" alt="Simple ou Expert : mêmes fonctions et mêmes données, détails repliés ou dépliés" loading="lazy"><figcaption>Simple ou Expert : mêmes fonctions et mêmes données, détails repliés ou dépliés.</figcaption></figure>
+<figure><img src="images/centre-aide.jpg" alt="Le centre d'aide : visite guidée et thèmes (carte, identification, cueillettes, balades, guidage…)" loading="lazy"><figcaption>Le centre d'aide : visite guidée et thèmes (carte, identification, cueillettes, balades, guidage…).</figcaption></figure>
+<figure><img src="images/carte-sombre.jpg" alt="Le mode sombre sur la carte : même interface, couleurs adaptées" loading="lazy"><figcaption>Le mode sombre sur la carte : même interface, couleurs adaptées.</figcaption></figure>
 </div>
 
 <div class="wide">
-<figure><img src="images/paysage-carte.jpg" alt="En paysage, les onglets deviennent un rail" loading="lazy"><figcaption>En paysage, les onglets deviennent un rail.</figcaption></figure>
-<figure><img src="images/paysage-cueillettes.jpg" alt="L'onglet Cueillettes en paysage" loading="lazy"><figcaption>L'onglet Cueillettes en paysage.</figcaption></figure>
+<figure><img src="images/paysage-carte.jpg" alt="La carte en paysage : onglets en rail à gauche, boutons à droite" loading="lazy"><figcaption>La carte en paysage : onglets en rail à gauche, boutons à droite.</figcaption></figure>
+<figure><img src="images/paysage-cueillettes.jpg" alt="L'onglet Cueillettes en paysage, avec ses filtres en puces" loading="lazy"><figcaption>L'onglet Cueillettes en paysage, avec ses filtres en puces.</figcaption></figure>
 </div>
 
 ## Confidentialité absolue

@@ -22,7 +22,7 @@ fält, för iPhone. Även utan nät.
 ## Utforska. Bestäm. Minnas. Hitta tillbaka.
 
 <div class="steps">
-<figure><img src="../images/carte-ici.jpg" alt="IGN:s skogskarta med dina fynd"><figcaption><b>1. Utforska</b><br>Skogskarta, allmänna skogar, gamla skogar, geologi, lutning, relief, fastighetskarta: IGN:s kartor hjälper dig att hitta gynnsamma miljöer och kan laddas ner innan du ger dig av.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Skogskarta IGN"><figcaption><b>1. Utforska</b><br>Skogskarta, offentliga skogar, jordartskarta, lutningar, relief, fastighetskarta: IGN-kartorna hjälper dig att hitta gynnsamma miljöer. Ett långt tryck visar vad varje lager visar här; ladda ner dem innan du går.</figcaption></figure>
 <figure><img src="../images/02-identifier-photo.jpg" alt="Direktbestämning av en svamp"><figcaption><b>2. Bestäm</b><br>En modell gjord för svamp, på iPhone, utan nät. Flera förslag, farliga förväxlingar markeras, aldrig ett utlåtande.</figcaption></figure>
 <figure><img src="../images/cueillettes-grille.jpg" alt="Dina bilder sorterade efter art"><figcaption><b>3. Minnas</b><br>Varje geotaggad bild blir ett ställe. Sortera efter art, hitta efter säsong, år eller ätlighet och sätt ut markeringar: bil, skogsingång, passage.</figcaption></figure>
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Vägledning i förstärkt verklighet till ett ställe"><figcaption><b>4. Hitta tillbaka</b><br>Karta, kompass eller förstärkt verklighet ända fram, med ljud och vibrationer när telefonen ligger kvar i fickan. Dina promenader spelas in.</figcaption></figure>
@@ -59,9 +59,9 @@ stället.*
 </div>
 
 <div class="shots">
-<figure><img src="../images/identifier-choix.jpg" alt="Bestäm: live, från ett foto eller från dina bilder" loading="lazy"><figcaption>Bestäm: live, från ett foto eller från dina bilder.</figcaption></figure>
-<figure><img src="../images/photo-detail.jpg" alt="Varje foto: art, Apple Intelligences bedömning, plats och datum" loading="lazy"><figcaption>Varje foto: art, Apple Intelligences bedömning, plats och datum.</figcaption></figure>
-<figure><img src="../images/especes-catalogue.jpg" alt="Artkatalogen: sökning, säsong, ätlighet" loading="lazy"><figcaption>Artkatalogen: sökning, säsong, ätlighet.</figcaption></figure>
+<figure><img src="../images/identifier-choix.jpg" alt="Bestäm: live, ta ett foto, från dina bilder eller ett ställe utan bild" loading="lazy"><figcaption>Bestäm: live, ta ett foto, från dina bilder eller ett ställe utan bild.</figcaption></figure>
+<figure><img src="../images/photo-detail.jpg" alt="Ett fynd: foto, art och ätlighet, plats och datum, växtförhållanden, Apple Intelligences bedömning och ”Led mig”" loading="lazy"><figcaption>Ett fynd: foto, art och ätlighet, plats och datum, växtförhållanden, Apple Intelligences bedömning och ”Led mig”.</figcaption></figure>
+<figure><img src="../images/especes-catalogue.jpg" alt="Katalogen: 224 kort, sökning, filter, säsong och ätlighet för varje art" loading="lazy"><figcaption>Katalogen: 224 kort, sökning, filter, säsong och ätlighet för varje art.</figcaption></figure>
 </div>
 
 > **Viktigt**: bestämningen är vägledande och kan vara fel. Ät aldrig en svamp på grundval av appen: låt en
@@ -78,15 +78,15 @@ där.
 - **Varje lager har sin egen genomskinlighet**, och en global reglage låter dig se satellitbilden genom dem.
 
 <div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="Lagren och deras genomskinlighet på kartan" loading="lazy"><figcaption>Lagren och deras genomskinlighet på kartan.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Ett långt tryck: vad lagren visar här, och växtförhållandena" loading="lazy"><figcaption>Ett långt tryck: vad lagren visar här, och växtförhållandena.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="En zon: bilderna tagna på samma plats" loading="lazy"><figcaption>En zon: bilderna tagna på samma plats.</figcaption></figure>
+<figure><img src="../images/carte-couches.jpg" alt="Kortet Lager: global genomskinlighet, bakgrundskarta och IGN-lagren per rubrik, vart och ett med egen genomskinlighet" loading="lazy"><figcaption>Kortet Lager: global genomskinlighet, bakgrundskarta och IGN-lagren per rubrik, vart och ett med egen genomskinlighet.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Ett långt tryck: vad lagren visar här (skog, status, jord, lutning), regn de senaste 7 dagarna, ”Tillväxt: ogynnsam” och ”Gå dit”" loading="lazy"><figcaption>Ett långt tryck: vad lagren visar här (skog, status, jord, lutning), regn de senaste 7 dagarna, ”Tillväxt: ogynnsam” och ”Gå dit”.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="En zon: de 3 bilderna från samma plats, med ”Visa bilderna” och ”Led mig”" loading="lazy"><figcaption>En zon: de 3 bilderna från samma plats, med ”Visa bilderna” och ”Led mig”.</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Växtförhållandena före fyndet: regn, mark, måne" loading="lazy"><figcaption>Växtförhållandena före fyndet: regn, mark, måne.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Lager och offlinekartor i inställningarna" loading="lazy"><figcaption>Lager och offlinekartor i inställningarna.</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="Månfasen, enbart som information" loading="lazy"><figcaption>Månfasen, enbart som information.</figcaption></figure>
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Växtförhållanden för ett fynd: index 31 av 100, de 4 kriterierna (vatten, regnets tidpunkt, markfukt och marktemperatur), sedan platsens bonusar och avdrag" loading="lazy"><figcaption>Växtförhållanden för ett fynd: index 31 av 100, de 4 kriterierna (vatten, regnets tidpunkt, markfukt och marktemperatur), sedan platsens bonusar och avdrag.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Inställningar › Karta och offline: bakgrundskarta, lagrens genomskinlighet och lager per rubrik (skog och växtlighet, mark och vatten, relief och lutning)" loading="lazy"><figcaption>Inställningar › Karta och offline: bakgrundskarta, lagrens genomskinlighet och lager per rubrik (skog och växtlighet, mark och vatten, relief och lutning).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="Månfasen (här första skäran) och kommande månar, enbart som information" loading="lazy"><figcaption>Månfasen (här första skäran) och kommande månar, enbart som information.</figcaption></figure>
 </div>
 
 ## Minnas dina fynd
@@ -94,9 +94,9 @@ där.
 Varje bild med plats blir ett ställe. Bläddra i rutnät eller lista, filtrera på period, art, år eller ätlighet, gruppera bilderna av samma svamp, sätt ut markeringar (bil, vattenpunkt, stuga, anmärkningsvärt träd, utsiktsplats) och lägg till bilder från ditt bibliotek, ett album eller en annan iPhone. Varje bild behåller sin plats, sitt datum, vädret under de föregående dagarna och ett vägledande index för växtförhållanden.
 
 <div class="shots">
-<figure><img src="../images/cueillettes-liste.jpg" alt="Listan, med art och ätlighet" loading="lazy"><figcaption>Listan, med art och ätlighet.</figcaption></figure>
-<figure><img src="../images/cueillettes-plus.jpg" alt="Lägga till bilder, importera, städa" loading="lazy"><figcaption>Lägga till bilder, importera, städa.</figcaption></figure>
-<figure><img src="../images/carte-filtres.jpg" alt="Filtrera på period, art, ätlighet" loading="lazy"><figcaption>Filtrera på period, art, ätlighet.</figcaption></figure>
+<figure><img src="../images/cueillettes-liste.jpg" alt="Listan: foto, datum, plats, art och ätlighet för varje fynd" loading="lazy"><figcaption>Listan: foto, datum, plats, art och ätlighet för varje fynd.</figcaption></figure>
+<figure><img src="../images/cueillettes-plus.jpg" alt="Fler åtgärder: lägg till bilder (kamera, bibliotek, album, annan iPhone) och städa (dubbletter, bilder utan svamp)" loading="lazy"><figcaption>Fler åtgärder: lägg till bilder (kamera, bibliotek, album, annan iPhone) och städa (dubbletter, bilder utan svamp).</figcaption></figure>
+<figure><img src="../images/carte-filtres.jpg" alt="Kartfilter: period, ätlighet, art och ”Anpassa kartan” till dina fynd" loading="lazy"><figcaption>Kartfilter: period, ätlighet, art och ”Anpassa kartan” till dina fynd.</figcaption></figure>
 </div>
 
 ## Hitta tillbaka till ett ställe
@@ -113,9 +113,15 @@ korrigera din kurs.
 - **Flera punkter i följd**: koppla ihop ställen till en rutt, eller sätt ut punkter på kartan så leder SnapSpot dig från den ena till nästa.
 
 <div class="shots">
-<figure><img src="../images/guidage-minimise.jpg" alt="Vägledningen, minimerad på kartan" loading="lazy"><figcaption>Vägledningen, minimerad på kartan.</figcaption></figure>
-<figure><img src="../images/guidage-reglages.jpg" alt="Vägledningens inställningar: ljud, vibrationer, röst" loading="lazy"><figcaption>Vägledningens inställningar: ljud, vibrationer, röst.</figcaption></figure>
+<figure><img src="../images/guidage-minimise.jpg" alt="Vägledning i kompassläge: radar över fynden runt dig, riktning och gångtid i lådan" loading="lazy"><figcaption>Vägledning i kompassläge: radar över fynden runt dig, riktning och gångtid i lådan.</figcaption></figure>
+<figure><img src="../images/guidage-reglages.jpg" alt="Snabbinställningar för vägledning: ljud, vibrationer, röstkopilot och skärmorientering" loading="lazy"><figcaption>Snabbinställningar för vägledning: ljud, vibrationer, röstkopilot och skärmorientering.</figcaption></figure>
 <figure><img src="../images/11-live-activity.jpg" alt="Live Activity på låsskärmen"><figcaption>Din promenad på låsskärmen.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/guidage-tiroir-detaille.jpg" alt="Den utfällda lådan i kartläge: nästa sväng, noggrannhet, återstående sträcka och nästa punkter" loading="lazy"><figcaption>Den utfällda lådan i kartläge: nästa sväng, noggrannhet, återstående sträcka och nästa punkter.</figcaption></figure>
+<figure><img src="../images/guidage-colonne-depliee.jpg" alt="Den utfällda knappkolumnen: vibrationer, ljud, markering, bestäm, inspelning" loading="lazy"><figcaption>Den utfällda knappkolumnen: vibrationer, ljud, markering, bestäm, inspelning.</figcaption></figure>
+<figure><img src="../images/guidage-carte-minimise.jpg" alt="Minimerad vägledning: bara ett fält högst upp medan du tittar på ruttkortet" loading="lazy"><figcaption>Minimerad vägledning: bara ett fält högst upp medan du tittar på ruttkortet.</figcaption></figure>
 </div>
 
 *Skärmbilder tagna med demonstrationsdata.*
@@ -131,15 +137,15 @@ korrigera din kurs.
 - **Solnedgångspåminnelse**: en avisering när det är dags att vända hemåt, så att natten inte överraskar dig.
 
 <div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Dina turer, per period" loading="lazy"><figcaption>Dina turer, per period.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="En tur med sina bilder och sitt diagram" loading="lazy"><figcaption>En tur med sina bilder och sitt diagram.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="Inspelningen: tid, sträcka, tillbaka till start" loading="lazy"><figcaption>Inspelningen: tid, sträcka, tillbaka till start.</figcaption></figure>
+<figure><img src="../images/balades-parcours.jpg" alt="Turer: dina spår per datum, med periodens sammanfattning och antal bilder för varje" loading="lazy"><figcaption>Turer: dina spår per datum, med periodens sammanfattning och antal bilder för varje.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="En tur: spår färgat efter hastighet, miniatyrer av tagna bilder, siffror och profil" loading="lazy"><figcaption>En tur: spår färgat efter hastighet, miniatyrer av tagna bilder, siffror och profil.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="Pågående inspelning: tid, sträcka, hastighet, höjdskillnad och ”Tillbaka till start”" loading="lazy"><figcaption>Pågående inspelning: tid, sträcka, hastighet, höjdskillnad och ”Tillbaka till start”.</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Slutet på en tur: spara, återuppta eller radera" loading="lazy"><figcaption>Slutet på en tur: spara, återuppta eller radera.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mina rutter: rita, dela sedan" loading="lazy"><figcaption>Mina rutter: rita, dela sedan.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Åtgärder: byt namn, beskär, slå ihop, konvertera" loading="lazy"><figcaption>Åtgärder: byt namn, beskär, slå ihop, konvertera.</figcaption></figure>
+<figure><img src="../images/fin-de-parcours.jpg" alt="Slutet på en tur: spara, återuppta inspelningen eller radera" loading="lazy"><figcaption>Slutet på en tur: spara, återuppta inspelningen eller radera.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mina rutter: skapa en rutt, rita den med fingret eller importera en .snapspot-fil" loading="lazy"><figcaption>Mina rutter: skapa en rutt, rita den med fingret eller importera en .snapspot-fil.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Åtgärder för en tur: byt namn, anteckna, beskär, slå ihop GPX; tillbaka till start, följ punkter, konvertera till rutt" loading="lazy"><figcaption>Åtgärder för en tur: byt namn, anteckna, beskär, slå ihop GPX; tillbaka till start, följ punkter, konvertera till rutt.</figcaption></figure>
 </div>
 
 ## Vandringar
@@ -151,9 +157,9 @@ En katalog med nästan 38 000 rutter i Frankrike (OpenStreetMap, IGN) är inbygg
 - **Mina rutter**: rita din egen för hand eller punkt för punkt, fäst vid stigarna i IGN:s nät (kräver nät), och dela den sedan med en annan iPhone eller exportera den som GPX.
 
 <div class="shots">
-<figure><img src="../images/randonnees-catalogue.jpg" alt="Katalogen, på en karta och i en lista" loading="lazy"><figcaption>Katalogen, på en karta och i en lista.</figcaption></figure>
-<figure><img src="../images/randonnee-fiche.jpg" alt="En rutt: siffror, höjdprofil, kartor att ladda ner" loading="lazy"><figcaption>En rutt: siffror, höjdprofil, kartor att ladda ner.</figcaption></figure>
-<figure><img src="../images/randonnee-demarrage.jpg" alt="Starta: inspelning och vägledning tillsammans" loading="lazy"><figcaption>Starta: inspelning och vägledning tillsammans.</figcaption></figure>
+<figure><img src="../images/randonnees-catalogue.jpg" alt="Vandringskatalogen: karta och lista med sträcka, höjdskillnad, svårighet och källa för varje rutt" loading="lazy"><figcaption>Vandringskatalogen: karta och lista med sträcka, höjdskillnad, svårighet och källa för varje rutt.</figcaption></figure>
+<figure><img src="../images/randonnee-fiche.jpg" alt="Ruttkort: ”Starta”, val att spela in eller inte, kartor att ladda ner, siffror och höjdprofil" loading="lazy"><figcaption>Ruttkort: ”Starta”, val att spela in eller inte, kartor att ladda ner, siffror och höjdprofil.</figcaption></figure>
+<figure><img src="../images/randonnee-demarrage.jpg" alt="Guidad vandring: anvisningen ”Sväng vänster” och prickad stig till nästa punkt" loading="lazy"><figcaption>Guidad vandring: anvisningen ”Sväng vänster” och prickad stig till nästa punkt.</figcaption></figure>
 </div>
 
 ## Ett enkelt gränssnitt som anpassar sig efter dig
@@ -166,14 +172,14 @@ SnapSpots gränssnitt har gjorts om utifrån hur man använder en telefon i skog
 - **Inbyggd hjälp**: en guidad tur, ett hjälpcenter per tema med illustrationer och tips som bara visas en gång.
 
 <div class="shots">
-<figure><img src="../images/choix-affichage.jpg" alt="Visning: Enkel eller Expert" loading="lazy"><figcaption>Visning: Enkel eller Expert.</figcaption></figure>
-<figure><img src="../images/centre-aide.jpg" alt="Ett hjälpcenter, per tema" loading="lazy"><figcaption>Ett hjälpcenter, per tema.</figcaption></figure>
-<figure><img src="../images/carte-sombre.jpg" alt="Det mörka läget" loading="lazy"><figcaption>Det mörka läget.</figcaption></figure>
+<figure><img src="../images/choix-affichage.jpg" alt="Enkel eller Expert: samma funktioner och data, detaljer ihop- eller utfällda" loading="lazy"><figcaption>Enkel eller Expert: samma funktioner och data, detaljer ihop- eller utfällda.</figcaption></figure>
+<figure><img src="../images/centre-aide.jpg" alt="Hjälpcentret: guidad tur och teman (karta, bestämning, fynd, turer, vägledning …)" loading="lazy"><figcaption>Hjälpcentret: guidad tur och teman (karta, bestämning, fynd, turer, vägledning …).</figcaption></figure>
+<figure><img src="../images/carte-sombre.jpg" alt="Mörkt läge på kartan: samma gränssnitt, anpassade färger" loading="lazy"><figcaption>Mörkt läge på kartan: samma gränssnitt, anpassade färger.</figcaption></figure>
 </div>
 
 <div class="wide">
-<figure><img src="../images/paysage-carte.jpg" alt="Liggande blir flikarna ett sidofält" loading="lazy"><figcaption>Liggande blir flikarna ett sidofält.</figcaption></figure>
-<figure><img src="../images/paysage-cueillettes.jpg" alt="Fliken Fynd liggande" loading="lazy"><figcaption>Fliken Fynd liggande.</figcaption></figure>
+<figure><img src="../images/paysage-carte.jpg" alt="Kartan liggande: flikar som sidofält till vänster, knappar till höger" loading="lazy"><figcaption>Kartan liggande: flikar som sidofält till vänster, knappar till höger.</figcaption></figure>
+<figure><img src="../images/paysage-cueillettes.jpg" alt="Fliken Fynd liggande, med filter som chips" loading="lazy"><figcaption>Fliken Fynd liggande, med filter som chips.</figcaption></figure>
 </div>
 
 ## Absolut integritet

@@ -22,7 +22,7 @@ apanhador de cogumelos, para iPhone. Mesmo sem rede.
 ## Explorar. Identificar. Memorizar. Reencontrar.
 
 <div class="steps">
-<figure><img src="../images/carte-ici.jpg" alt="Carta florestal do IGN com os seus achados"><figcaption><b>1. Explorar</b><br>Carta florestal, florestas públicas, florestas antigas, geologia, declives, relevo, cadastro: as cartas do IGN ajudam a localizar os habitats favoráveis e descarregam-se antes de partir.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Carta florestal IGN"><figcaption><b>1. Explorar</b><br>Carta florestal, florestas públicas, carta de solos, declives, relevo, cadastro: os mapas IGN ajudam a identificar os meios favoráveis. Um toque longo mostra o que cada camada indica aqui; descarregue-os antes de partir.</figcaption></figure>
 <figure><img src="../images/02-identifier-photo.jpg" alt="Identificação em direto de um cogumelo"><figcaption><b>2. Identificar</b><br>Um modelo feito para cogumelos, no iPhone, sem rede. Várias propostas, as semelhanças perigosas assinaladas, nunca um veredicto.</figcaption></figure>
 <figure><img src="../images/cueillettes-grille.jpg" alt="As suas fotografias organizadas por espécie"><figcaption><b>3. Memorizar</b><br>Cada fotografia georreferenciada torna-se um spot. Organize por espécie, encontre por estação, por ano ou por comestibilidade, e coloque marcadores: carro, entrada da floresta, passagem.</figcaption></figure>
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Orientação em realidade aumentada até um spot"><figcaption><b>4. Reencontrar</b><br>Mapa, bússola ou realidade aumentada até ao spot, com sons e vibrações quando o telemóvel fica no bolso. Os seus passeios ficam gravados.</figcaption></figure>
@@ -61,9 +61,9 @@ spot.*
 </div>
 
 <div class="shots">
-<figure><img src="../images/identifier-choix.jpg" alt="Identificar: em direto, a partir de uma fotografia ou das suas fotografias" loading="lazy"><figcaption>Identificar: em direto, a partir de uma fotografia ou das suas fotografias.</figcaption></figure>
-<figure><img src="../images/photo-detail.jpg" alt="Cada fotografia: espécie, parecer do Apple Intelligence, local e data" loading="lazy"><figcaption>Cada fotografia: espécie, parecer do Apple Intelligence, local e data.</figcaption></figure>
-<figure><img src="../images/especes-catalogue.jpg" alt="O catálogo de espécies: pesquisa, época, comestibilidade" loading="lazy"><figcaption>O catálogo de espécies: pesquisa, época, comestibilidade.</figcaption></figure>
+<figure><img src="../images/identifier-choix.jpg" alt="Identificar: em direto, tirar uma fotografia, a partir das suas fotografias ou um spot sem fotografia" loading="lazy"><figcaption>Identificar: em direto, tirar uma fotografia, a partir das suas fotografias ou um spot sem fotografia.</figcaption></figure>
+<figure><img src="../images/photo-detail.jpg" alt="Um achado: fotografia, espécie e comestibilidade, local e data, condições de crescimento, parecer do Apple Intelligence e «Guia-me»" loading="lazy"><figcaption>Um achado: fotografia, espécie e comestibilidade, local e data, condições de crescimento, parecer do Apple Intelligence e «Guia-me».</figcaption></figure>
+<figure><img src="../images/especes-catalogue.jpg" alt="O catálogo: 224 fichas, pesquisa, filtros, época e comestibilidade de cada espécie" loading="lazy"><figcaption>O catálogo: 224 fichas, pesquisa, filtros, época e comestibilidade de cada espécie.</figcaption></figure>
 </div>
 
 > **Importante**: a identificação é indicativa e pode estar errada. Nunca consuma um cogumelo com base na app:
@@ -80,15 +80,15 @@ que a camada mostra nesse local.
 - **Cada camada tem a sua própria transparência**, e um controlo global deixa ver a fotografia de satélite através delas.
 
 <div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="As camadas e a sua transparência, no mapa" loading="lazy"><figcaption>As camadas e a sua transparência, no mapa.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Um toque longo: o que as camadas mostram aqui e as condições de crescimento" loading="lazy"><figcaption>Um toque longo: o que as camadas mostram aqui e as condições de crescimento.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="Uma zona: as fotografias tiradas no mesmo sítio" loading="lazy"><figcaption>Uma zona: as fotografias tiradas no mesmo sítio.</figcaption></figure>
+<figure><img src="../images/carte-couches.jpg" alt="A ficha Camadas: opacidade global, mapa de fundo e camadas IGN por rubrica, cada uma com a sua transparência" loading="lazy"><figcaption>A ficha Camadas: opacidade global, mapa de fundo e camadas IGN por rubrica, cada uma com a sua transparência.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Um toque longo: o que as camadas mostram aqui (floresta, estatuto, solo, declive), a chuva de 7 dias, «Crescimento: pouco favorável» e «Ir»" loading="lazy"><figcaption>Um toque longo: o que as camadas mostram aqui (floresta, estatuto, solo, declive), a chuva de 7 dias, «Crescimento: pouco favorável» e «Ir».</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Uma zona: as 3 fotografias tiradas no mesmo sítio, com «Ver as fotografias» e «Guia-me»" loading="lazy"><figcaption>Uma zona: as 3 fotografias tiradas no mesmo sítio, com «Ver as fotografias» e «Guia-me».</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="As condições de crescimento antes do achado: chuva, solo, lua" loading="lazy"><figcaption>As condições de crescimento antes do achado: chuva, solo, lua.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Camadas e mapas offline, nas definições" loading="lazy"><figcaption>Camadas e mapas offline, nas definições.</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="A fase da lua, a título indicativo" loading="lazy"><figcaption>A fase da lua, a título indicativo.</figcaption></figure>
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Condições de crescimento de um achado: índice 31 em 100, os 4 critérios (água, momento da chuva, humidade e temperatura do solo) e os bónus e penalizações do local" loading="lazy"><figcaption>Condições de crescimento de um achado: índice 31 em 100, os 4 critérios (água, momento da chuva, humidade e temperatura do solo) e os bónus e penalizações do local.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Definições › Mapa e offline: mapa de fundo, opacidade das camadas e camadas por rubrica (floresta e vegetação, solo e água, relevo e declives)" loading="lazy"><figcaption>Definições › Mapa e offline: mapa de fundo, opacidade das camadas e camadas por rubrica (floresta e vegetação, solo e água, relevo e declives).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo" loading="lazy"><figcaption>A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo.</figcaption></figure>
 </div>
 
 ## Memorizar os seus achados
@@ -96,9 +96,9 @@ que a camada mostra nesse local.
 Cada fotografia com localização torna-se um spot. Percorra-os em grelha ou em lista, filtre por período, espécie, ano ou comestibilidade, agrupe as fotografias do mesmo cogumelo, coloque marcadores (carro, ponto de água, cabana, árvore notável, miradouro) e junte fotografias da sua fototeca, de um álbum ou de outro iPhone. Cada fotografia guarda o seu local, a sua data, o tempo dos dias anteriores e um índice indicativo das condições de crescimento.
 
 <div class="shots">
-<figure><img src="../images/cueillettes-liste.jpg" alt="A lista, com a espécie e a comestibilidade" loading="lazy"><figcaption>A lista, com a espécie e a comestibilidade.</figcaption></figure>
-<figure><img src="../images/cueillettes-plus.jpg" alt="Juntar fotografias, importar, arrumar" loading="lazy"><figcaption>Juntar fotografias, importar, arrumar.</figcaption></figure>
-<figure><img src="../images/carte-filtres.jpg" alt="Filtrar por período, espécie, comestibilidade" loading="lazy"><figcaption>Filtrar por período, espécie, comestibilidade.</figcaption></figure>
+<figure><img src="../images/cueillettes-liste.jpg" alt="A lista: fotografia, data, local, espécie e comestibilidade de cada achado" loading="lazy"><figcaption>A lista: fotografia, data, local, espécie e comestibilidade de cada achado.</figcaption></figure>
+<figure><img src="../images/cueillettes-plus.jpg" alt="Mais ações: juntar fotografias (câmara, fototeca, álbum, outro iPhone) e arrumar (duplicados, fotografias sem cogumelo)" loading="lazy"><figcaption>Mais ações: juntar fotografias (câmara, fototeca, álbum, outro iPhone) e arrumar (duplicados, fotografias sem cogumelo).</figcaption></figure>
+<figure><img src="../images/carte-filtres.jpg" alt="Filtros do mapa: período, comestibilidade, espécie e «Enquadrar o mapa» nos seus achados" loading="lazy"><figcaption>Filtros do mapa: período, comestibilidade, espécie e «Enquadrar o mapa» nos seus achados.</figcaption></figure>
 </div>
 
 ## Reencontrar um spot
@@ -115,9 +115,15 @@ corrigir-lhe o rumo.
 - **Vários pontos seguidos**: encadeie spots num percurso, ou coloque pontos no mapa e deixe o SnapSpot guiá-lo de um ao seguinte.
 
 <div class="shots">
-<figure><img src="../images/guidage-minimise.jpg" alt="A orientação, minimizada no mapa" loading="lazy"><figcaption>A orientação, minimizada no mapa.</figcaption></figure>
-<figure><img src="../images/guidage-reglages.jpg" alt="Definições da orientação: sons, vibrações, voz" loading="lazy"><figcaption>Definições da orientação: sons, vibrações, voz.</figcaption></figure>
+<figure><img src="../images/guidage-minimise.jpg" alt="A orientação em modo Bússola: radar dos achados à sua volta, direção e tempo a pé na gaveta" loading="lazy"><figcaption>A orientação em modo Bússola: radar dos achados à sua volta, direção e tempo a pé na gaveta.</figcaption></figure>
+<figure><img src="../images/guidage-reglages.jpg" alt="Definições rápidas da orientação: sons, vibrações, copiloto de voz e orientação do ecrã" loading="lazy"><figcaption>Definições rápidas da orientação: sons, vibrações, copiloto de voz e orientação do ecrã.</figcaption></figure>
 <figure><img src="../images/11-live-activity.jpg" alt="Live Activity no ecrã bloqueado"><figcaption>O seu passeio no ecrã bloqueado.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/guidage-tiroir-detaille.jpg" alt="A gaveta aberta em modo Mapa: próxima curva, precisão, distância restante e próximos pontos" loading="lazy"><figcaption>A gaveta aberta em modo Mapa: próxima curva, precisão, distância restante e próximos pontos.</figcaption></figure>
+<figure><img src="../images/guidage-colonne-depliee.jpg" alt="A coluna de botões aberta: vibrações, sons, marcador, identificar, gravação" loading="lazy"><figcaption>A coluna de botões aberta: vibrações, sons, marcador, identificar, gravação.</figcaption></figure>
+<figure><img src="../images/guidage-carte-minimise.jpg" alt="A orientação minimizada: um simples faixa no topo enquanto consulta a ficha do percurso" loading="lazy"><figcaption>A orientação minimizada: um simples faixa no topo enquanto consulta a ficha do percurso.</figcaption></figure>
 </div>
 
 *Capturas de ecrã realizadas com dados de demonstração.*
@@ -133,15 +139,15 @@ corrigir-lhe o rumo.
 - **Aviso do pôr do sol**: um alerta quando é hora de regressar, para que a noite não o surpreenda.
 
 <div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Os seus passeios, por período" loading="lazy"><figcaption>Os seus passeios, por período.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="Um passeio, com as suas fotografias e o seu gráfico" loading="lazy"><figcaption>Um passeio, com as suas fotografias e o seu gráfico.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="A gravação: tempo, distância, regresso à partida" loading="lazy"><figcaption>A gravação: tempo, distância, regresso à partida.</figcaption></figure>
+<figure><img src="../images/balades-parcours.jpg" alt="Passeios: os seus percursos por data, com o balanço do período e o número de fotografias de cada um" loading="lazy"><figcaption>Passeios: os seus percursos por data, com o balanço do período e o número de fotografias de cada um.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Um passeio: percurso colorido pela velocidade, miniaturas das fotografias tiradas, números e perfil" loading="lazy"><figcaption>Um passeio: percurso colorido pela velocidade, miniaturas das fotografias tiradas, números e perfil.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="A gravação em curso: tempo, distância, velocidade, desnível e «Regresso à partida»" loading="lazy"><figcaption>A gravação em curso: tempo, distância, velocidade, desnível e «Regresso à partida».</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Fim de um passeio: guardar, retomar ou eliminar" loading="lazy"><figcaption>Fim de um passeio: guardar, retomar ou eliminar.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Os meus itinerários: desenhar e partilhar" loading="lazy"><figcaption>Os meus itinerários: desenhar e partilhar.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Ações: mudar o nome, recortar, fundir, converter" loading="lazy"><figcaption>Ações: mudar o nome, recortar, fundir, converter.</figcaption></figure>
+<figure><img src="../images/fin-de-parcours.jpg" alt="Fim de um passeio: guardar, retomar a gravação ou eliminar" loading="lazy"><figcaption>Fim de um passeio: guardar, retomar a gravação ou eliminar.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Os meus itinerários: criar um itinerário, desenhá-lo com o dedo ou importar um ficheiro .snapspot" loading="lazy"><figcaption>Os meus itinerários: criar um itinerário, desenhá-lo com o dedo ou importar um ficheiro .snapspot.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Ações de um passeio: mudar o nome, anotar, recortar, fundir um GPX; regressar à partida, seguir por pontos, converter em itinerário" loading="lazy"><figcaption>Ações de um passeio: mudar o nome, anotar, recortar, fundir um GPX; regressar à partida, seguir por pontos, converter em itinerário.</figcaption></figure>
 </div>
 
 ## Caminhadas
@@ -153,9 +159,9 @@ Um catálogo de quase 38 000 percursos em França (OpenStreetMap, IGN) está int
 - **Os meus itinerários**: desenhe o seu à mão ou ponto a ponto, ajustado aos trilhos da rede do IGN (requer rede), e partilhe-o com outro iPhone ou exporte-o em GPX.
 
 <div class="shots">
-<figure><img src="../images/randonnees-catalogue.jpg" alt="O catálogo, num mapa e em lista" loading="lazy"><figcaption>O catálogo, num mapa e em lista.</figcaption></figure>
-<figure><img src="../images/randonnee-fiche.jpg" alt="Um percurso: números, perfil de altitude, mapas a descarregar" loading="lazy"><figcaption>Um percurso: números, perfil de altitude, mapas a descarregar.</figcaption></figure>
-<figure><img src="../images/randonnee-demarrage.jpg" alt="Iniciar: gravação e orientação em conjunto" loading="lazy"><figcaption>Iniciar: gravação e orientação em conjunto.</figcaption></figure>
+<figure><img src="../images/randonnees-catalogue.jpg" alt="O catálogo de caminhadas: mapa e lista com distância, desnível, dificuldade e fonte de cada percurso" loading="lazy"><figcaption>O catálogo de caminhadas: mapa e lista com distância, desnível, dificuldade e fonte de cada percurso.</figcaption></figure>
+<figure><img src="../images/randonnee-fiche.jpg" alt="Ficha de um percurso: «Iniciar», escolher gravar ou não, mapas a descarregar, números e perfil de altitude" loading="lazy"><figcaption>Ficha de um percurso: «Iniciar», escolher gravar ou não, mapas a descarregar, números e perfil de altitude.</figcaption></figure>
+<figure><img src="../images/randonnee-demarrage.jpg" alt="Caminhada guiada: aviso «Vire à esquerda» e caminho a tracejado até ao próximo ponto" loading="lazy"><figcaption>Caminhada guiada: aviso «Vire à esquerda» e caminho a tracejado até ao próximo ponto.</figcaption></figure>
 </div>
 
 ## Uma interface simples que se adapta a si
@@ -168,14 +174,14 @@ A interface do SnapSpot foi repensada para a forma como se usa o telemóvel na f
 - **Ajuda integrada**: uma visita guiada, um centro de ajuda por temas com ilustrações e dicas que só aparecem uma vez.
 
 <div class="shots">
-<figure><img src="../images/choix-affichage.jpg" alt="Visualização: Simples ou Especialista" loading="lazy"><figcaption>Visualização: Simples ou Especialista.</figcaption></figure>
-<figure><img src="../images/centre-aide.jpg" alt="Um centro de ajuda, por temas" loading="lazy"><figcaption>Um centro de ajuda, por temas.</figcaption></figure>
-<figure><img src="../images/carte-sombre.jpg" alt="O modo escuro" loading="lazy"><figcaption>O modo escuro.</figcaption></figure>
+<figure><img src="../images/choix-affichage.jpg" alt="Simples ou Especialista: mesmas funções e dados, detalhes recolhidos ou abertos" loading="lazy"><figcaption>Simples ou Especialista: mesmas funções e dados, detalhes recolhidos ou abertos.</figcaption></figure>
+<figure><img src="../images/centre-aide.jpg" alt="O centro de ajuda: visita guiada e temas (mapa, identificação, apanhas, passeios, orientação…)" loading="lazy"><figcaption>O centro de ajuda: visita guiada e temas (mapa, identificação, apanhas, passeios, orientação…).</figcaption></figure>
+<figure><img src="../images/carte-sombre.jpg" alt="O modo escuro no mapa: a mesma interface, cores adaptadas" loading="lazy"><figcaption>O modo escuro no mapa: a mesma interface, cores adaptadas.</figcaption></figure>
 </div>
 
 <div class="wide">
-<figure><img src="../images/paysage-carte.jpg" alt="Na horizontal, os separadores passam a uma barra lateral" loading="lazy"><figcaption>Na horizontal, os separadores passam a uma barra lateral.</figcaption></figure>
-<figure><img src="../images/paysage-cueillettes.jpg" alt="O separador Apanhas na horizontal" loading="lazy"><figcaption>O separador Apanhas na horizontal.</figcaption></figure>
+<figure><img src="../images/paysage-carte.jpg" alt="O mapa na horizontal: separadores em barra lateral à esquerda, botões à direita" loading="lazy"><figcaption>O mapa na horizontal: separadores em barra lateral à esquerda, botões à direita.</figcaption></figure>
+<figure><img src="../images/paysage-cueillettes.jpg" alt="O separador Apanhas na horizontal, com os filtros em etiquetas" loading="lazy"><figcaption>O separador Apanhas na horizontal, com os filtros em etiquetas.</figcaption></figure>
 </div>
 
 ## Privacidade absoluta

@@ -22,7 +22,7 @@ iPhone. Even without a network.
 ## Scout. Identify. Remember. Return.
 
 <div class="steps">
-<figure><img src="../images/carte-ici.jpg" alt="IGN forest map with your finds"><figcaption><b>1. Scout</b><br>Forest map, public forests, ancient forests, geology, slopes, relief, cadastre: the IGN maps help you spot favourable habitats, and can be downloaded before you leave.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Forest map IGN"><figcaption><b>1. Scout</b><br>Forest map, public forests, soil map, slopes, relief, cadastre: the IGN maps help you spot favourable habitats. A long press tells you what each layer shows here; download them before you leave.</figcaption></figure>
 <figure><img src="../images/02-identifier-photo.jpg" alt="Live identification of a mushroom"><figcaption><b>2. Identify</b><br>A model built for mushrooms, on the iPhone, without a network. Several suggestions, dangerous look-alikes flagged, never a verdict.</figcaption></figure>
 <figure><img src="../images/cueillettes-grille.jpg" alt="Your photos sorted by species"><figcaption><b>3. Remember</b><br>Every geotagged photo becomes a spot. Sort by species, find by season, year or edibility, and drop markers: car, forest entrance, crossing.</figcaption></figure>
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Augmented reality guidance to a spot"><figcaption><b>4. Return</b><br>Map, compass or augmented reality all the way to the spot, with sounds and vibrations when the phone stays in your pocket. Your walks are recorded.</figcaption></figure>
@@ -61,9 +61,9 @@ spot.*
 </div>
 
 <div class="shots">
-<figure><img src="../images/identifier-choix.jpg" alt="Identify: live, from a photo, or from your library" loading="lazy"><figcaption>Identify: live, from a photo, or from your library.</figcaption></figure>
-<figure><img src="../images/photo-detail.jpg" alt="Each photo: species, Apple Intelligence opinion, place and date" loading="lazy"><figcaption>Each photo: species, Apple Intelligence opinion, place and date.</figcaption></figure>
-<figure><img src="../images/especes-catalogue.jpg" alt="The species catalogue: search, season, edibility" loading="lazy"><figcaption>The species catalogue: search, season, edibility.</figcaption></figure>
+<figure><img src="../images/identifier-choix.jpg" alt="Identify: live, take a photo, from your photos, or a spot without a photo" loading="lazy"><figcaption>Identify: live, take a photo, from your photos, or a spot without a photo.</figcaption></figure>
+<figure><img src="../images/photo-detail.jpg" alt="A find: photo, species and edibility, place and date, growing conditions, Apple Intelligence opinion and “Guide me”" loading="lazy"><figcaption>A find: photo, species and edibility, place and date, growing conditions, Apple Intelligence opinion and “Guide me”.</figcaption></figure>
+<figure><img src="../images/especes-catalogue.jpg" alt="The catalogue: 224 sheets, search, filters, season and edibility of each species" loading="lazy"><figcaption>The catalogue: 224 sheets, search, filters, season and edibility of each species.</figcaption></figure>
 </div>
 
 > **Important**: identification is indicative and can be wrong. Never eat a mushroom on the strength of the app: have
@@ -80,15 +80,15 @@ spot.
 - **Each layer has its own opacity**, and a global slider lets you see the satellite photo through them.
 
 <div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="Layers and their opacity, on the map" loading="lazy"><figcaption>Layers and their opacity, on the map.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="A long press: what the layers show here, and the growing conditions" loading="lazy"><figcaption>A long press: what the layers show here, and the growing conditions.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="A zone: the photos taken in the same place" loading="lazy"><figcaption>A zone: the photos taken in the same place.</figcaption></figure>
+<figure><img src="../images/carte-couches.jpg" alt="The Layers sheet: global opacity, base map, then the IGN layers by group, each with its own opacity" loading="lazy"><figcaption>The Layers sheet: global opacity, base map, then the IGN layers by group, each with its own opacity.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="A long press: what the layers show here (forest, status, soil, slope), rain over 7 days, “Growth: unfavourable” and “Go there”" loading="lazy"><figcaption>A long press: what the layers show here (forest, status, soil, slope), rain over 7 days, “Growth: unfavourable” and “Go there”.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="A zone: the 3 photos taken in the same place, with “See photos” and “Guide me”" loading="lazy"><figcaption>A zone: the 3 photos taken in the same place, with “See photos” and “Guide me”.</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Growing conditions before the find: rain, soil, moon" loading="lazy"><figcaption>Growing conditions before the find: rain, soil, moon.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Layers and offline maps, in the settings" loading="lazy"><figcaption>Layers and offline maps, in the settings.</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="The moon phase, for information only" loading="lazy"><figcaption>The moon phase, for information only.</figcaption></figure>
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Growing conditions of a find: index 31 out of 100, the 4 criteria (water, timing of the rain, soil moisture and temperature), then the place's bonuses and penalties" loading="lazy"><figcaption>Growing conditions of a find: index 31 out of 100, the 4 criteria (water, timing of the rain, soil moisture and temperature), then the place's bonuses and penalties.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Settings › Map and offline: base map, layer opacity, then the layers by group (forest and vegetation, soil and water, relief and slopes)" loading="lazy"><figcaption>Settings › Map and offline: base map, layer opacity, then the layers by group (forest and vegetation, soil and water, relief and slopes).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="The moon phase (here the first crescent) and the coming moons, for information only" loading="lazy"><figcaption>The moon phase (here the first crescent) and the coming moons, for information only.</figcaption></figure>
 </div>
 
 ## Remember your finds
@@ -96,9 +96,9 @@ spot.
 Every geotagged photo becomes a spot. Browse them as a grid or a list, filter by period, species, year or edibility, group the photos of the same mushroom, drop markers (car, water point, hut, remarkable tree, viewpoint) and add photos from your library, an album or another iPhone. Each photo keeps its place, its date, the weather of the previous days and an indicative growing-conditions index.
 
 <div class="shots">
-<figure><img src="../images/cueillettes-liste.jpg" alt="The list, with species and edibility" loading="lazy"><figcaption>The list, with species and edibility.</figcaption></figure>
-<figure><img src="../images/cueillettes-plus.jpg" alt="Add photos, import, clean up" loading="lazy"><figcaption>Add photos, import, clean up.</figcaption></figure>
-<figure><img src="../images/carte-filtres.jpg" alt="Filter by period, species, edibility" loading="lazy"><figcaption>Filter by period, species, edibility.</figcaption></figure>
+<figure><img src="../images/cueillettes-liste.jpg" alt="The list: photo, date, place, species and edibility of each find" loading="lazy"><figcaption>The list: photo, date, place, species and edibility of each find.</figcaption></figure>
+<figure><img src="../images/cueillettes-plus.jpg" alt="More actions: add photos (camera, library, album, another iPhone) and clean up (duplicates, photos without a mushroom)" loading="lazy"><figcaption>More actions: add photos (camera, library, album, another iPhone) and clean up (duplicates, photos without a mushroom).</figcaption></figure>
+<figure><img src="../images/carte-filtres.jpg" alt="Map filters: period, edibility, species, and “Frame the map” on your finds" loading="lazy"><figcaption>Map filters: period, edibility, species, and “Frame the map” on your finds.</figcaption></figure>
 </div>
 
 ## Return to a spot
@@ -115,9 +115,15 @@ and a voice can correct your course.
 - **Several points in a row**: chain spots into a route, or drop points on the map and let SnapSpot guide you from one to the next.
 
 <div class="shots">
-<figure><img src="../images/guidage-minimise.jpg" alt="The guidance, minimised on the map" loading="lazy"><figcaption>The guidance, minimised on the map.</figcaption></figure>
-<figure><img src="../images/guidage-reglages.jpg" alt="Guidance settings: sounds, vibrations, voice" loading="lazy"><figcaption>Guidance settings: sounds, vibrations, voice.</figcaption></figure>
+<figure><img src="../images/guidage-minimise.jpg" alt="Guidance in Compass mode: a radar of the finds around you, direction and walking time in the drawer" loading="lazy"><figcaption>Guidance in Compass mode: a radar of the finds around you, direction and walking time in the drawer.</figcaption></figure>
+<figure><img src="../images/guidage-reglages.jpg" alt="Quick guidance settings: sounds, vibrations, voice co-pilot and screen orientation" loading="lazy"><figcaption>Quick guidance settings: sounds, vibrations, voice co-pilot and screen orientation.</figcaption></figure>
 <figure><img src="../images/11-live-activity.jpg" alt="Live Activity on the lock screen"><figcaption>Your walk on the lock screen.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/guidage-tiroir-detaille.jpg" alt="The drawer unfolded in Map mode: next turn, accuracy, remaining distance and next points" loading="lazy"><figcaption>The drawer unfolded in Map mode: next turn, accuracy, remaining distance and next points.</figcaption></figure>
+<figure><img src="../images/guidage-colonne-depliee.jpg" alt="The unfolded button column: vibrations, sounds, marker, identify, recording" loading="lazy"><figcaption>The unfolded button column: vibrations, sounds, marker, identify, recording.</figcaption></figure>
+<figure><img src="../images/guidage-carte-minimise.jpg" alt="Guidance minimised: a simple banner at the top while you browse the route sheet" loading="lazy"><figcaption>Guidance minimised: a simple banner at the top while you browse the route sheet.</figcaption></figure>
 </div>
 
 *Screenshots taken with demonstration data.*
@@ -133,15 +139,15 @@ and a voice can correct your course.
 - **Sunset reminder**: an alert when it is time to head back, so that night does not catch you out.
 
 <div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Your walks, by period" loading="lazy"><figcaption>Your walks, by period.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="A walk with its photos and its graph" loading="lazy"><figcaption>A walk with its photos and its graph.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="Recording: time, distance, back to the start" loading="lazy"><figcaption>Recording: time, distance, back to the start.</figcaption></figure>
+<figure><img src="../images/balades-parcours.jpg" alt="Walks: your tracks by date, with the summary of the period and the number of photos of each" loading="lazy"><figcaption>Walks: your tracks by date, with the summary of the period and the number of photos of each.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="A walk: track coloured by speed, thumbnails of the photos taken, figures and profile" loading="lazy"><figcaption>A walk: track coloured by speed, thumbnails of the photos taken, figures and profile.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="The recording in progress: time, distance, speed, elevation, and “Back to start”" loading="lazy"><figcaption>The recording in progress: time, distance, speed, elevation, and “Back to start”.</figcaption></figure>
 </div>
 
 <div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="End of a walk: save, resume or delete" loading="lazy"><figcaption>End of a walk: save, resume or delete.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="My routes: draw, then share" loading="lazy"><figcaption>My routes: draw, then share.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Actions: rename, crop, merge, convert" loading="lazy"><figcaption>Actions: rename, crop, merge, convert.</figcaption></figure>
+<figure><img src="../images/fin-de-parcours.jpg" alt="End of a walk: save, resume recording or delete" loading="lazy"><figcaption>End of a walk: save, resume recording or delete.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="My routes: create a route, draw it by finger or import a .snapspot file" loading="lazy"><figcaption>My routes: create a route, draw it by finger or import a .snapspot file.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Actions of a walk: rename, annotate, crop, merge a GPX; return to start, follow by points, convert into a route" loading="lazy"><figcaption>Actions of a walk: rename, annotate, crop, merge a GPX; return to start, follow by points, convert into a route.</figcaption></figure>
 </div>
 
 ## Hikes
@@ -153,9 +159,9 @@ A catalogue of nearly 38,000 routes in France (OpenStreetMap, IGN) is built into
 - **My routes**: draw your own by hand or point by point, snapped to the trails of the IGN network (network required), then share it with another iPhone or export it as GPX.
 
 <div class="shots">
-<figure><img src="../images/randonnees-catalogue.jpg" alt="The catalogue, on a map and in a list" loading="lazy"><figcaption>The catalogue, on a map and in a list.</figcaption></figure>
-<figure><img src="../images/randonnee-fiche.jpg" alt="A route: figures, altitude profile, maps to download" loading="lazy"><figcaption>A route: figures, altitude profile, maps to download.</figcaption></figure>
-<figure><img src="../images/randonnee-demarrage.jpg" alt="Start: recording and guidance together" loading="lazy"><figcaption>Start: recording and guidance together.</figcaption></figure>
+<figure><img src="../images/randonnees-catalogue.jpg" alt="The hike catalogue: map and list with distance, elevation gain, difficulty and source of each route" loading="lazy"><figcaption>The hike catalogue: map and list with distance, elevation gain, difficulty and source of each route.</figcaption></figure>
+<figure><img src="../images/randonnee-fiche.jpg" alt="A route sheet: “Start”, the choice to record or not, maps to download, figures and altitude profile" loading="lazy"><figcaption>A route sheet: “Start”, the choice to record or not, maps to download, figures and altitude profile.</figcaption></figure>
+<figure><img src="../images/randonnee-demarrage.jpg" alt="A guided hike: the “Turn left” prompt and the dotted path to the next point" loading="lazy"><figcaption>A guided hike: the “Turn left” prompt and the dotted path to the next point.</figcaption></figure>
 </div>
 
 ## A simple interface that adapts to you
@@ -168,14 +174,14 @@ SnapSpot's interface was redesigned around the way people use a phone in the for
 - **Built-in help**: a guided tour, a help centre by theme with illustrations, and tips that show up only once.
 
 <div class="shots">
-<figure><img src="../images/choix-affichage.jpg" alt="Display: Simple or Expert" loading="lazy"><figcaption>Display: Simple or Expert.</figcaption></figure>
-<figure><img src="../images/centre-aide.jpg" alt="A help centre, by theme" loading="lazy"><figcaption>A help centre, by theme.</figcaption></figure>
-<figure><img src="../images/carte-sombre.jpg" alt="Dark mode" loading="lazy"><figcaption>Dark mode.</figcaption></figure>
+<figure><img src="../images/choix-affichage.jpg" alt="Simple or Expert: same features and same data, details folded or unfolded" loading="lazy"><figcaption>Simple or Expert: same features and same data, details folded or unfolded.</figcaption></figure>
+<figure><img src="../images/centre-aide.jpg" alt="The help centre: guided tour and themes (map, identification, finds, walks, guidance…)" loading="lazy"><figcaption>The help centre: guided tour and themes (map, identification, finds, walks, guidance…).</figcaption></figure>
+<figure><img src="../images/carte-sombre.jpg" alt="Dark mode on the map: same interface, adapted colours" loading="lazy"><figcaption>Dark mode on the map: same interface, adapted colours.</figcaption></figure>
 </div>
 
 <div class="wide">
-<figure><img src="../images/paysage-carte.jpg" alt="In landscape, the tabs become a rail" loading="lazy"><figcaption>In landscape, the tabs become a rail.</figcaption></figure>
-<figure><img src="../images/paysage-cueillettes.jpg" alt="The Finds tab in landscape" loading="lazy"><figcaption>The Finds tab in landscape.</figcaption></figure>
+<figure><img src="../images/paysage-carte.jpg" alt="The map in landscape: tabs as a rail on the left, buttons on the right" loading="lazy"><figcaption>The map in landscape: tabs as a rail on the left, buttons on the right.</figcaption></figure>
+<figure><img src="../images/paysage-cueillettes.jpg" alt="The Finds tab in landscape, with its filter chips" loading="lazy"><figcaption>The Finds tab in landscape, with its filter chips.</figcaption></figure>
 </div>
 
 ## Absolute privacy
