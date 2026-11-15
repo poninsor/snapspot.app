@@ -66,6 +66,11 @@ crea el spot.*
 <figure><img src="../images/especes-catalogue.jpg" alt="El catálogo: 224 fichas, búsqueda, filtros, temporada y comestibilidad de cada especie" loading="lazy"><figcaption>El catálogo: 224 fichas, búsqueda, filtros, temporada y comestibilidad de cada especie.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="La identificación en directo: marco de encuadre, propuestas y descripción de Apple Intelligence." loading="lazy"><figcaption>La identificación en directo: marco de encuadre, propuestas y descripción de Apple Intelligence.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="Tras la foto se crea el spot: la propuesta más probable, otras propuestas y una advertencia. La especie la eliges tú." loading="lazy"><figcaption>Tras la foto se crea el spot: la propuesta más probable, otras propuestas y una advertencia. La especie la eliges tú.</figcaption></figure>
+</div>
+
 > **Importante**: la identificación es orientativa y puede equivocarse. No consumas nunca una seta basándote en la
 > app: haz que la revise un farmacéutico o una sociedad micológica.
 
@@ -113,6 +118,12 @@ una voz puede corregirte el rumbo.
 
 - **Tres vistas**: mapa, brújula radar o realidad aumentada, con un cajón que se sube para ver el detalle o se minimiza para no perder de vista el mapa.
 - **Varios puntos seguidos**: encadena spots en una ruta, o coloca puntos en el mapa y deja que SnapSpot te guíe de uno a otro.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="La guía en el mapa: el camino de puntos lleva a la zona de 4 fotos, a 106 m." loading="lazy"><figcaption>La guía en el mapa: el camino de puntos lleva a la zona de 4 fotos, a 106 m.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="En realidad aumentada aparece un antiguo spot de boletus a 53 m, con «Guíame»." loading="lazy"><figcaption>En realidad aumentada aparece un antiguo spot de boletus a 53 m, con «Guíame».</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="A 14 m, otro antiguo spot de boletus: la ficha recuerda la especie, la comestibilidad y la fecha." loading="lazy"><figcaption>A 14 m, otro antiguo spot de boletus: la ficha recuerda la especie, la comestibilidad y la fecha.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="La guía en modo Brújula: radar de los hallazgos a tu alrededor, dirección y tiempo a pie en el cajón" loading="lazy"><figcaption>La guía en modo Brújula: radar de los hallazgos a tu alrededor, dirección y tiempo a pie en el cajón.</figcaption></figure>

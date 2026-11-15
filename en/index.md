@@ -66,6 +66,11 @@ spot.*
 <figure><img src="../images/especes-catalogue.jpg" alt="The catalogue: 224 sheets, search, filters, season and edibility of each species" loading="lazy"><figcaption>The catalogue: 224 sheets, search, filters, season and edibility of each species.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="Live identification: viewfinder frame, suggestions and Apple Intelligence description." loading="lazy"><figcaption>Live identification: viewfinder frame, suggestions and Apple Intelligence description.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="After the photo the spot is created: most likely suggestion, other suggestions and a warning. Choosing the species is up to you." loading="lazy"><figcaption>After the photo the spot is created: most likely suggestion, other suggestions and a warning. Choosing the species is up to you.</figcaption></figure>
+</div>
+
 > **Important**: identification is indicative and can be wrong. Never eat a mushroom on the strength of the app: have
 > it checked by a pharmacist or a mycological society.
 
@@ -113,6 +118,12 @@ and a voice can correct your course.
 
 - **Three views**: map, radar compass or augmented reality, with a drawer you pull up for details or minimise to keep an eye on the map.
 - **Several points in a row**: chain spots into a route, or drop points on the map and let SnapSpot guide you from one to the next.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="Guidance on the map: the dotted path leads to the 4-photo area, 106 m away." loading="lazy"><figcaption>Guidance on the map: the dotted path leads to the 4-photo area, 106 m away.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="In augmented reality, an old porcini spot appears 53 m away, with “Guide me”." loading="lazy"><figcaption>In augmented reality, an old porcini spot appears 53 m away, with “Guide me”.</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="At 14 m, another old porcini spot: the card recalls the species, edibility and date." loading="lazy"><figcaption>At 14 m, another old porcini spot: the card recalls the species, edibility and date.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="Guidance in Compass mode: a radar of the finds around you, direction and walking time in the drawer" loading="lazy"><figcaption>Guidance in Compass mode: a radar of the finds around you, direction and walking time in the drawer.</figcaption></figure>

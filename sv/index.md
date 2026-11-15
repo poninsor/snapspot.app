@@ -64,6 +64,11 @@ stället.*
 <figure><img src="../images/especes-catalogue.jpg" alt="Katalogen: 224 kort, sökning, filter, säsong och ätlighet för varje art" loading="lazy"><figcaption>Katalogen: 224 kort, sökning, filter, säsong och ätlighet för varje art.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="Live-bestämning: sökarram, förslag och beskrivning från Apple Intelligence." loading="lazy"><figcaption>Live-bestämning: sökarram, förslag och beskrivning från Apple Intelligence.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="Efter fotot skapas stället: mest sannolika förslaget, andra förslag och en varning. Arten väljer du själv." loading="lazy"><figcaption>Efter fotot skapas stället: mest sannolika förslaget, andra förslag och en varning. Arten väljer du själv.</figcaption></figure>
+</div>
+
 > **Viktigt**: bestämningen är vägledande och kan vara fel. Ät aldrig en svamp på grundval av appen: låt en
 > apotekare eller en svampförening kontrollera den.
 
@@ -111,6 +116,12 @@ korrigera din kurs.
 
 - **Tre vyer**: karta, radarkompass eller förstärkt verklighet, med en låda som du drar upp för detaljer eller minimerar för att ha kartan i blickfånget.
 - **Flera punkter i följd**: koppla ihop ställen till en rutt, eller sätt ut punkter på kartan så leder SnapSpot dig från den ena till nästa.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="Guidningen på kartan: den prickade stigen leder till området med 4 foton, 106 m bort." loading="lazy"><figcaption>Guidningen på kartan: den prickade stigen leder till området med 4 foton, 106 m bort.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="I förstärkt verklighet syns ett gammalt stensopps-ställe 53 m bort, med ”Guida mig”." loading="lazy"><figcaption>I förstärkt verklighet syns ett gammalt stensopps-ställe 53 m bort, med ”Guida mig”.</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="På 14 m ett annat gammalt stensopps-ställe: kortet visar art, ätlighet och datum." loading="lazy"><figcaption>På 14 m ett annat gammalt stensopps-ställe: kortet visar art, ätlighet och datum.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="Vägledning i kompassläge: radar över fynden runt dig, riktning och gångtid i lådan" loading="lazy"><figcaption>Vägledning i kompassläge: radar över fynden runt dig, riktning och gångtid i lådan.</figcaption></figure>

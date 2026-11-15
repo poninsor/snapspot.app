@@ -65,6 +65,11 @@ a następnie tworzy miejsce.*
 <figure><img src="../images/especes-catalogue.jpg" alt="Katalog: 224 karty, wyszukiwanie, filtry, sezon i jadalność każdego gatunku" loading="lazy"><figcaption>Katalog: 224 karty, wyszukiwanie, filtry, sezon i jadalność każdego gatunku.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="Identyfikacja na żywo: ramka celownika, propozycje i opis Apple Intelligence." loading="lazy"><figcaption>Identyfikacja na żywo: ramka celownika, propozycje i opis Apple Intelligence.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="Po zdjęciu miejsce jest utworzone: najbardziej prawdopodobna propozycja, inne propozycje i ostrzeżenie. Gatunek wybierasz Ty." loading="lazy"><figcaption>Po zdjęciu miejsce jest utworzone: najbardziej prawdopodobna propozycja, inne propozycje i ostrzeżenie. Gatunek wybierasz Ty.</figcaption></figure>
+</div>
+
 > **Ważne**: rozpoznanie ma charakter orientacyjny i może być błędne. Nigdy nie jedz grzyba na podstawie aplikacji:
 > daj go do sprawdzenia farmaceucie lub towarzystwu mykologicznemu.
 
@@ -112,6 +117,12 @@ kierunku, a głos może skorygować Twój kurs.
 
 - **Trzy widoki**: mapa, kompas radarowy lub rzeczywistość rozszerzona, z szufladą, którą wysuwasz po szczegóły lub minimalizujesz, by mieć mapę na oku.
 - **Kilka punktów po kolei**: połącz miejsca w trasę albo stawiaj punkty na mapie, a SnapSpot poprowadzi Cię od jednego do drugiego.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="Prowadzenie na mapie: kropkowana ścieżka prowadzi do obszaru z 4 zdjęciami, 106 m dalej." loading="lazy"><figcaption>Prowadzenie na mapie: kropkowana ścieżka prowadzi do obszaru z 4 zdjęciami, 106 m dalej.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="W rzeczywistości rozszerzonej pojawia się dawne miejsce borowików w odległości 53 m, z „Prowadź mnie”." loading="lazy"><figcaption>W rzeczywistości rozszerzonej pojawia się dawne miejsce borowików w odległości 53 m, z „Prowadź mnie”.</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="W odległości 14 m kolejne dawne miejsce borowików: karta przypomina gatunek, jadalność i datę." loading="lazy"><figcaption>W odległości 14 m kolejne dawne miejsce borowików: karta przypomina gatunek, jadalność i datę.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="Prowadzenie w trybie kompasu: radar znalezisk wokół Ciebie, kierunek i czas marszu w szufladzie" loading="lazy"><figcaption>Prowadzenie w trybie kompasu: radar znalezisk wokół Ciebie, kierunek i czas marszu w szufladzie.</figcaption></figure>

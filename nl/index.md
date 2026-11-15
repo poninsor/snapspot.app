@@ -68,6 +68,11 @@ maakt dan de spot aan.*
 <figure><img src="../images/especes-catalogue.jpg" alt="De catalogus: 224 fiches, zoeken, filters, seizoen en eetbaarheid van elke soort" loading="lazy"><figcaption>De catalogus: 224 fiches, zoeken, filters, seizoen en eetbaarheid van elke soort.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="Live determineren: zoekerkader, voorstellen en beschrijving van Apple Intelligence." loading="lazy"><figcaption>Live determineren: zoekerkader, voorstellen en beschrijving van Apple Intelligence.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="Na de foto is de spot aangemaakt: meest waarschijnlijke voorstel, andere voorstellen en een waarschuwing. De soort kies je zelf." loading="lazy"><figcaption>Na de foto is de spot aangemaakt: meest waarschijnlijke voorstel, andere voorstellen en een waarschuwing. De soort kies je zelf.</figcaption></figure>
+</div>
+
 > **Belangrijk**: de determinatie is indicatief en kan fout zijn. Eet nooit een paddenstoel op basis van de app: laat
 > hem controleren door een apotheker of een mycologische vereniging.
 
@@ -116,6 +121,12 @@ om de afstand in te schatten.*
 
 - **Drie weergaven**: kaart, radarkompas of augmented reality, met een lade die je omhoog trekt voor details of minimaliseert om de kaart in het oog te houden.
 - **Meerdere punten achter elkaar**: koppel spots tot een route, of zet punten op de kaart en laat SnapSpot je van het ene naar het volgende leiden.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="De begeleiding op de kaart: het stippelpad leidt naar het gebied met 4 foto's, 106 m verderop." loading="lazy"><figcaption>De begeleiding op de kaart: het stippelpad leidt naar het gebied met 4 foto's, 106 m verderop.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="In augmented reality verschijnt op 53 m een oude eekhoorntjesbrood-spot, met „Leid me”." loading="lazy"><figcaption>In augmented reality verschijnt op 53 m een oude eekhoorntjesbrood-spot, met „Leid me”.</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="Op 14 m nog een oude eekhoorntjesbrood-spot: de kaart toont de soort, eetbaarheid en datum." loading="lazy"><figcaption>Op 14 m nog een oude eekhoorntjesbrood-spot: de kaart toont de soort, eetbaarheid en datum.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="Navigatie in kompasmodus: radar van de vondsten om je heen, richting en looptijd in de lade" loading="lazy"><figcaption>Navigatie in kompasmodus: radar van de vondsten om je heen, richting en looptijd in de lade.</figcaption></figure>

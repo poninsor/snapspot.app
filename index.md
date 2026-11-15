@@ -66,6 +66,11 @@ crée le spot.*
 <figure><img src="images/especes-catalogue.jpg" alt="Le catalogue : 224 fiches, recherche, filtres, saison et comestibilité de chaque espèce" loading="lazy"><figcaption>Le catalogue : 224 fiches, recherche, filtres, saison et comestibilité de chaque espèce.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="images/02-identifier-photo.jpg" alt="L'identification en direct : cadre de visée, propositions et description d'Apple Intelligence." loading="lazy"><figcaption>L'identification en direct : cadre de visée, propositions et description d'Apple Intelligence.</figcaption></figure>
+<figure><img src="images/identification-spot-cree.jpg" alt="Après la photo, le spot est créé : piste la plus probable, autres pistes et mise en garde. L'espèce, c'est à vous de la choisir." loading="lazy"><figcaption>Après la photo, le spot est créé : piste la plus probable, autres pistes et mise en garde. L'espèce, c'est à vous de la choisir.</figcaption></figure>
+</div>
+
 > **Important** : l'identification est indicative et peut se tromper. Ne consommez jamais un champignon sur la foi de
 > l'app : faites-le vérifier par un pharmacien ou une association mycologique.
 
@@ -113,6 +118,12 @@ direction, et une voix peut vous corriger le cap.
 
 - **Trois vues** : carte, boussole radar ou réalité augmentée, avec un tiroir qu'on tire vers le haut pour le détail ou qu'on minimise pour garder un œil sur la carte.
 - **Plusieurs points à la suite** : enchaînez des spots en un itinéraire, ou posez des points sur la carte et laissez SnapSpot vous guider de l'un à l'autre.
+
+<div class="shots">
+<figure><img src="images/guidage-carte-chemin.jpg" alt="Le guidage sur la carte : le chemin en pointillés mène à la zone de 4 photos, à 106 m." loading="lazy"><figcaption>Le guidage sur la carte : le chemin en pointillés mène à la zone de 4 photos, à 106 m.</figcaption></figure>
+<figure><img src="images/09-realite-augmentee.jpg" alt="En réalité augmentée, un ancien spot de cèpes de Bordeaux apparaît à 53 m, avec « Me guider »." loading="lazy"><figcaption>En réalité augmentée, un ancien spot de cèpes de Bordeaux apparaît à 53 m, avec « Me guider ».</figcaption></figure>
+<figure><img src="images/guidage-ra-decouverte.jpg" alt="À 14 m, un autre ancien spot de cèpes de Bordeaux : la fiche rappelle l'espèce, la comestibilité et la date." loading="lazy"><figcaption>À 14 m, un autre ancien spot de cèpes de Bordeaux : la fiche rappelle l'espèce, la comestibilité et la date.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="images/guidage-minimise.jpg" alt="Le guidage en mode Boussole : radar des cueillettes autour de vous, direction et durée à pied dans le tiroir" loading="lazy"><figcaption>Le guidage en mode Boussole : radar des cueillettes autour de vous, direction et durée à pied dans le tiroir.</figcaption></figure>

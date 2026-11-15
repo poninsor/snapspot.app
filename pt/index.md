@@ -66,6 +66,11 @@ spot.*
 <figure><img src="../images/especes-catalogue.jpg" alt="O catálogo: 224 fichas, pesquisa, filtros, época e comestibilidade de cada espécie" loading="lazy"><figcaption>O catálogo: 224 fichas, pesquisa, filtros, época e comestibilidade de cada espécie.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="A identificação em direto: moldura de enquadramento, propostas e descrição do Apple Intelligence." loading="lazy"><figcaption>A identificação em direto: moldura de enquadramento, propostas e descrição do Apple Intelligence.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="Depois da fotografia o spot é criado: proposta mais provável, outras propostas e um aviso. A espécie escolhe-a você." loading="lazy"><figcaption>Depois da fotografia o spot é criado: proposta mais provável, outras propostas e um aviso. A espécie escolhe-a você.</figcaption></figure>
+</div>
+
 > **Importante**: a identificação é indicativa e pode estar errada. Nunca consuma um cogumelo com base na app:
 > mande-o verificar por um farmacêutico ou por uma associação micológica.
 
@@ -113,6 +118,12 @@ corrigir-lhe o rumo.
 
 - **Três vistas**: mapa, bússola radar ou realidade aumentada, com uma gaveta que se puxa para ver o detalhe ou se minimiza para não perder o mapa de vista.
 - **Vários pontos seguidos**: encadeie spots num percurso, ou coloque pontos no mapa e deixe o SnapSpot guiá-lo de um ao seguinte.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="A orientação no mapa: o caminho a tracejado leva à zona de 4 fotografias, a 106 m." loading="lazy"><figcaption>A orientação no mapa: o caminho a tracejado leva à zona de 4 fotografias, a 106 m.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="Em realidade aumentada surge um antigo spot de boletos a 53 m, com «Guiar-me»." loading="lazy"><figcaption>Em realidade aumentada surge um antigo spot de boletos a 53 m, com «Guiar-me».</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="A 14 m, outro antigo spot de boletos: a ficha lembra a espécie, a comestibilidade e a data." loading="lazy"><figcaption>A 14 m, outro antigo spot de boletos: a ficha lembra a espécie, a comestibilidade e a data.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="A orientação em modo Bússola: radar dos achados à sua volta, direção e tempo a pé na gaveta" loading="lazy"><figcaption>A orientação em modo Bússola: radar dos achados à sua volta, direção e tempo a pé na gaveta.</figcaption></figure>

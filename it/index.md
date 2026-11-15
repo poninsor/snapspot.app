@@ -66,6 +66,11 @@ poi crea lo spot.*
 <figure><img src="../images/especes-catalogue.jpg" alt="Il catalogo: 224 schede, ricerca, filtri, stagione e commestibilità di ogni specie" loading="lazy"><figcaption>Il catalogo: 224 schede, ricerca, filtri, stagione e commestibilità di ogni specie.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="L'identificazione in diretta: riquadro di inquadratura, proposte e descrizione di Apple Intelligence." loading="lazy"><figcaption>L'identificazione in diretta: riquadro di inquadratura, proposte e descrizione di Apple Intelligence.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="Dopo la foto lo spot è creato: proposta più probabile, altre proposte e un avviso. La specie la scegli tu." loading="lazy"><figcaption>Dopo la foto lo spot è creato: proposta più probabile, altre proposte e un avviso. La specie la scegli tu.</figcaption></figure>
+</div>
+
 > **Importante**: l'identificazione è indicativa e può sbagliare. Non mangiare mai un fungo basandoti sull'app:
 > fallo controllare da un farmacista o da un'associazione micologica.
 
@@ -114,6 +119,12 @@ distanza.*
 
 - **Tre viste**: mappa, bussola radar o realtà aumentata, con un cassetto che si tira su per i dettagli o si riduce per tenere d'occhio la mappa.
 - **Più punti di seguito**: collega gli spot in un itinerario, oppure posiziona punti sulla mappa e lascia che SnapSpot ti guidi dall'uno all'altro.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="La guida sulla mappa: il percorso tratteggiato porta alla zona di 4 foto, a 106 m." loading="lazy"><figcaption>La guida sulla mappa: il percorso tratteggiato porta alla zona di 4 foto, a 106 m.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="In realtà aumentata appare un vecchio spot di porcini a 53 m, con «Guidami»." loading="lazy"><figcaption>In realtà aumentata appare un vecchio spot di porcini a 53 m, con «Guidami».</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="A 14 m, un altro vecchio spot di porcini: la scheda ricorda la specie, la commestibilità e la data." loading="lazy"><figcaption>A 14 m, un altro vecchio spot di porcini: la scheda ricorda la specie, la commestibilità e la data.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="La guida in modalità Bussola: radar dei ritrovamenti intorno a te, direzione e tempo a piedi nel cassetto" loading="lazy"><figcaption>La guida in modalità Bussola: radar dei ritrovamenti intorno a te, direzione e tempo a piedi nel cassetto.</figcaption></figure>

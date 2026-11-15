@@ -66,6 +66,11 @@ dann den Spot an.*
 <figure><img src="../images/especes-catalogue.jpg" alt="Der Katalog: 224 Steckbriefe, Suche, Filter, Saison und Essbarkeit jeder Art" loading="lazy"><figcaption>Der Katalog: 224 Steckbriefe, Suche, Filter, Saison und Essbarkeit jeder Art.</figcaption></figure>
 </div>
 
+<div class="wide">
+<figure><img src="../images/02-identifier-photo.jpg" alt="Die Live-Bestimmung: Sucherrahmen, Vorschläge und Beschreibung von Apple Intelligence." loading="lazy"><figcaption>Die Live-Bestimmung: Sucherrahmen, Vorschläge und Beschreibung von Apple Intelligence.</figcaption></figure>
+<figure><img src="../images/identification-spot-cree.jpg" alt="Nach dem Foto ist der Spot angelegt: wahrscheinlichster Vorschlag, weitere Vorschläge und ein Warnhinweis. Die Art wählen Sie selbst." loading="lazy"><figcaption>Nach dem Foto ist der Spot angelegt: wahrscheinlichster Vorschlag, weitere Vorschläge und ein Warnhinweis. Die Art wählen Sie selbst.</figcaption></figure>
+</div>
+
 > **Wichtig**: Die Bestimmung ist unverbindlich und kann falsch sein. Verzehren Sie niemals einen Pilz allein auf
 > Grundlage der App: Lassen Sie ihn von einem Apotheker oder einem Pilzverein prüfen.
 
@@ -114,6 +119,12 @@ die Entfernung einzuschätzen.*
 
 - **Drei Ansichten**: Karte, Radarkompass oder erweiterte Realität, mit einer Schublade, die man für Details hochzieht oder minimiert, um die Karte im Blick zu behalten.
 - **Mehrere Punkte hintereinander**: Verbinden Sie Spots zu einer Route oder setzen Sie Punkte auf der Karte, und SnapSpot führt Sie von einem zum nächsten.
+
+<div class="shots">
+<figure><img src="../images/guidage-carte-chemin.jpg" alt="Die Führung auf der Karte: Der gepunktete Weg führt zum Bereich mit 4 Fotos, 106 m entfernt." loading="lazy"><figcaption>Die Führung auf der Karte: Der gepunktete Weg führt zum Bereich mit 4 Fotos, 106 m entfernt.</figcaption></figure>
+<figure><img src="../images/09-realite-augmentee.jpg" alt="In der erweiterten Realität erscheint ein alter Steinpilz-Spot in 53 m Entfernung, mit „Führe mich“." loading="lazy"><figcaption>In der erweiterten Realität erscheint ein alter Steinpilz-Spot in 53 m Entfernung, mit „Führe mich“.</figcaption></figure>
+<figure><img src="../images/guidage-ra-decouverte.jpg" alt="In 14 m ein weiterer alter Steinpilz-Spot: Die Karte nennt Art, Genießbarkeit und Datum." loading="lazy"><figcaption>In 14 m ein weiterer alter Steinpilz-Spot: Die Karte nennt Art, Genießbarkeit und Datum.</figcaption></figure>
+</div>
 
 <div class="shots">
 <figure><img src="../images/guidage-minimise.jpg" alt="Navigation im Kompassmodus: Radar der Funde um Sie herum, Richtung und Gehzeit in der Schublade" loading="lazy"><figcaption>Navigation im Kompassmodus: Radar der Funde um Sie herum, Richtung und Gehzeit in der Schublade.</figcaption></figure>
