@@ -28,6 +28,8 @@ apanhador de cogumelos, para iPhone. Mesmo sem rede.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Orientação em realidade aumentada até um spot"><figcaption><b>4. Reencontrar</b><br>Mapa, bússola ou realidade aumentada até ao spot, com sons e vibrações quando o telemóvel fica no bolso. Os seus passeios ficam gravados.</figcaption></figure>
 </div>
 
+*O SnapSpot existe em modo claro e em modo escuro e segue a definição do iPhone: por isso as capturas desta página alternam os dois.*
+
 **O SnapSpot não é um mapa de zonas de colheita.** Não lhe diz para onde ir: ajuda-o a explorar e depois guarda a
 memória dos seus próprios cantinhos. Os cogumelos voltam de ano para ano, no mesmo sítio e na mesma época: os spots
 de ontem preparam a estação de amanhã.

@@ -28,6 +28,8 @@ voor iPhone. Ook zonder netwerk.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Navigatie in augmented reality naar een spot"><figcaption><b>4. Terugvinden</b><br>Kaart, kompas of augmented reality tot aan de spot, met geluiden en trillingen als de telefoon in je zak blijft. Je wandelingen worden opgenomen.</figcaption></figure>
 </div>
 
+*SnapSpot bestaat in een lichte en een donkere modus en volgt de instelling van uw iPhone, dus de schermafbeeldingen op deze pagina wisselen tussen beide.*
+
 **SnapSpot is geen kaart van plukgebieden.** De app zegt je niet waar je heen moet: ze helpt je te verkennen en
 bewaart daarna het geheugen van je eigen plekjes. Paddenstoelen komen jaar na jaar terug, op dezelfde plek en in
 dezelfde periode: de spots van gisteren bereiden het seizoen van morgen voor.

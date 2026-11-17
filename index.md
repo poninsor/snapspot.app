@@ -28,6 +28,8 @@ cueilleur de champignons, pour iPhone. Même sans réseau.
 <figure><img src="images/09-realite-augmentee.jpg" alt="Guidage en réalité augmentée vers un spot"><figcaption><b>4. Retrouver</b><br>Carte, boussole ou réalité augmentée jusqu'au spot, avec des sons et des vibrations quand le téléphone reste dans la poche. Vos balades sont enregistrées.</figcaption></figure>
 </div>
 
+*SnapSpot existe en mode clair et en mode sombre, et suit le réglage de votre iPhone : les captures de cette page alternent donc les deux.*
+
 **SnapSpot n'est pas une carte de zones de cueillette.** Elle ne vous dit pas où aller : elle vous aide à
 prospecter, puis garde la mémoire de vos propres coins. Les champignons reviennent d'une année à l'autre, au même
 endroit et à la même période : les spots d'hier préparent la saison de demain.

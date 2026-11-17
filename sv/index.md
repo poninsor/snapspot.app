@@ -28,6 +28,8 @@ fält, för iPhone. Även utan nät.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Vägledning i förstärkt verklighet till ett ställe"><figcaption><b>4. Hitta tillbaka</b><br>Karta, kompass eller förstärkt verklighet ända fram, med ljud och vibrationer när telefonen ligger kvar i fickan. Dina promenader spelas in.</figcaption></figure>
 </div>
 
+*SnapSpot finns i ljust och mörkt läge och följer iPhones inställning, så skärmbilderna på den här sidan växlar mellan de två.*
+
 **SnapSpot är ingen karta över plockområden.** Appen talar inte om var du ska gå: den hjälper dig att utforska och
 bevarar sedan minnet av dina egna ställen. Svampen kommer tillbaka år efter år, på samma ställe och vid samma tid:
 gårdagens ställen förbereder morgondagens säsong.

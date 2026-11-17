@@ -28,6 +28,8 @@ iPhone. Even without a network.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Augmented reality guidance to a spot"><figcaption><b>4. Return</b><br>Map, compass or augmented reality all the way to the spot, with sounds and vibrations when the phone stays in your pocket. Your walks are recorded.</figcaption></figure>
 </div>
 
+*SnapSpot comes in a light and a dark mode and follows your iPhone's setting, so the screenshots on this page switch between the two.*
+
 **SnapSpot is not a map of foraging areas.** It does not tell you where to go: it helps you scout, then keeps the
 memory of your own spots. Mushrooms come back year after year, in the same place at the same time: yesterday's spots
 prepare tomorrow's season.

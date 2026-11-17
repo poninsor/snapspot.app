@@ -28,6 +28,8 @@ cercatore di funghi, per iPhone. Anche senza rete.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Guida in realtà aumentata verso uno spot"><figcaption><b>4. Ritrovare</b><br>Mappa, bussola o realtà aumentata fino allo spot, con suoni e vibrazioni quando il telefono resta in tasca. Le tue passeggiate vengono registrate.</figcaption></figure>
 </div>
 
+*SnapSpot esiste in modalità chiara e scura e segue l'impostazione dell'iPhone: per questo gli screenshot di questa pagina alternano le due.*
+
 **SnapSpot non è una mappa di zone di raccolta.** Non ti dice dove andare: ti aiuta a esplorare, poi conserva la
 memoria dei tuoi posti. I funghi tornano di anno in anno, nello stesso luogo e nello stesso periodo: gli spot di ieri
 preparano la stagione di domani.

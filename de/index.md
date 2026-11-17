@@ -28,6 +28,8 @@ Pilzsammler, für das iPhone. Auch ohne Netz.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Navigation in Augmented Reality zu einem Spot"><figcaption><b>4. Wiederfinden</b><br>Karte, Kompass oder Augmented Reality bis zum Spot, mit Tönen und Vibrationen, wenn das Telefon in der Tasche bleibt. Ihre Wanderungen werden aufgezeichnet.</figcaption></figure>
 </div>
 
+*SnapSpot gibt es im hellen und im dunklen Modus und folgt der Einstellung Ihres iPhones. Die Screenshots auf dieser Seite wechseln deshalb zwischen beiden.*
+
 **SnapSpot ist keine Karte von Sammelgebieten.** Die App sagt Ihnen nicht, wohin Sie gehen sollen: Sie hilft beim
 Erkunden und bewahrt dann die Erinnerung an Ihre eigenen Plätze. Pilze kehren Jahr für Jahr zurück, an dieselbe
 Stelle zur selben Zeit: Die Spots von gestern bereiten die Saison von morgen vor.

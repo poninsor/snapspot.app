@@ -28,6 +28,8 @@ iPhone'a. Nawet bez sieci.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Nawigacja w rzeczywistości rozszerzonej do miejsca"><figcaption><b>4. Wrócić</b><br>Mapa, kompas lub rzeczywistość rozszerzona aż do miejsca, z dźwiękami i wibracjami, gdy telefon zostaje w kieszeni. Twoje spacery są nagrywane.</figcaption></figure>
 </div>
 
+*SnapSpot działa w trybie jasnym i ciemnym i podąża za ustawieniem iPhone'a, dlatego zrzuty ekranu na tej stronie przeplatają oba tryby.*
+
 **SnapSpot nie jest mapą miejsc zbioru.** Nie mówi Ci, dokąd iść: pomaga rozpoznać teren, a potem przechowuje pamięć
 Twoich własnych miejsc. Grzyby wracają z roku na rok, w to samo miejsce i o tej samej porze: wczorajsze miejsca
 przygotowują jutrzejszy sezon.

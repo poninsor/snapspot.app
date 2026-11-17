@@ -28,6 +28,8 @@ de setas, para iPhone. Incluso sin red.
 <figure><img src="../images/09-realite-augmentee.jpg" alt="Guía en realidad aumentada hasta un spot"><figcaption><b>4. Volver</b><br>Mapa, brújula o realidad aumentada hasta el spot, con sonidos y vibraciones cuando el teléfono se queda en el bolsillo. Tus paseos quedan grabados.</figcaption></figure>
 </div>
 
+*SnapSpot existe en modo claro y en modo oscuro y sigue el ajuste de su iPhone: por eso las capturas de esta página alternan los dos.*
+
 **SnapSpot no es un mapa de zonas de recolección.** No te dice adónde ir: te ayuda a explorar y después guarda la
 memoria de tus propios rincones. Las setas vuelven de un año a otro, en el mismo lugar y en la misma época: los
 spots de ayer preparan la temporada de mañana.
