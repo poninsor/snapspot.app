@@ -12,6 +12,12 @@ title: "SnapSpot: Mushrooms & Hikes"
 **Scout the forests, identify your finds, return to your best spots.** The field companion for mushroom foragers, for
 iPhone. Even without a network.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-en.svg" alt="Download on the App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-en.png" alt="Get it on Google Play"></a>
+<small class="soon">Coming soon</small>
+</p>
+
 <ul class="badges">
 <li>Works offline</li>
 <li>No account</li>

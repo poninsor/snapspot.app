@@ -12,6 +12,12 @@ title: "SnapSpot: Funghi e Sentieri"
 **Esplora i boschi, identifica i tuoi ritrovamenti, torna ai tuoi spot migliori.** Il compagno da campo del
 cercatore di funghi, per iPhone. Anche senza rete.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-it.svg" alt="Scarica su App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-it.png" alt="Disponibile su Google Play"></a>
+<small class="soon">In arrivo</small>
+</p>
+
 <ul class="badges">
 <li>Funziona senza rete</li>
 <li>Senza account</li>

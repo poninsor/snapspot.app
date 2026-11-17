@@ -12,6 +12,12 @@ title: "SnapSpot: Setas y Rutas"
 **Explora los bosques, identifica tus hallazgos, vuelve a tus mejores spots.** El compañero de campo del recolector
 de setas, para iPhone. Incluso sin red.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-es.svg" alt="Descargar en el App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-es.png" alt="Disponible en Google Play"></a>
+<small class="soon">Próximamente</small>
+</p>
+
 <ul class="badges">
 <li>Funciona sin red</li>
 <li>Sin cuenta</li>

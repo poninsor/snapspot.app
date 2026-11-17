@@ -12,6 +12,12 @@ title: "SnapSpot: Grzyby i Szlaki"
 **Zwiedzaj lasy, rozpoznawaj swoje znaleziska, wracaj do najlepszych miejsc.** Terenowy towarzysz grzybiarza, na
 iPhone'a. Nawet bez sieci.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-pl.svg" alt="Pobierz z App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-pl.png" alt="Pobierz z Google Play"></a>
+<small class="soon">Wkrótce</small>
+</p>
+
 <ul class="badges">
 <li>Działa bez sieci</li>
 <li>Bez konta</li>

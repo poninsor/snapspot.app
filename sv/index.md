@@ -12,6 +12,12 @@ title: "SnapSpot: Svamp & Vandring"
 **Utforska skogarna, bestäm dina fynd, hitta tillbaka till dina bästa ställen.** Svampplockarens följeslagare i
 fält, för iPhone. Även utan nät.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-sv.svg" alt="Hämta på App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-sv.png" alt="Hämta på Google Play"></a>
+<small class="soon">Kommer snart</small>
+</p>
+
 <ul class="badges">
 <li>Fungerar utan nät</li>
 <li>Inget konto</li>

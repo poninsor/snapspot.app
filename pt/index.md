@@ -12,6 +12,12 @@ title: "SnapSpot: Cogumelos e Trilhos"
 **Explore as florestas, identifique os seus achados, volte aos seus melhores spots.** O companheiro de terreno do
 apanhador de cogumelos, para iPhone. Mesmo sem rede.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-pt.svg" alt="Transferir na App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-pt.png" alt="Disponível no Google Play"></a>
+<small class="soon">Em breve</small>
+</p>
+
 <ul class="badges">
 <li>Funciona sem rede</li>
 <li>Sem conta</li>

@@ -12,6 +12,12 @@ title: "SnapSpot: Paddenstoelen"
 **Verken de bossen, determineer je vondsten, vind je beste spots terug.** De veldgids voor paddenstoelenzoekers,
 voor iPhone. Ook zonder netwerk.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-nl.svg" alt="Download in de App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-nl.png" alt="Ontdek het op Google Play"></a>
+<small class="soon">Binnenkort</small>
+</p>
+
 <ul class="badges">
 <li>Werkt zonder netwerk</li>
 <li>Geen account</li>

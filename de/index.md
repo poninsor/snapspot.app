@@ -12,6 +12,12 @@ title: "SnapSpot: Pilze & Wandern"
 **Erkunden Sie die Wälder, bestimmen Sie Ihre Funde, finden Sie Ihre besten Spots wieder.** Der Begleiter für
 Pilzsammler, für das iPhone. Auch ohne Netz.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="../images/stores/appstore-de.svg" alt="Laden im App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="../images/stores/googleplay-de.png" alt="Jetzt bei Google Play"></a>
+<small class="soon">Bald verfügbar</small>
+</p>
+
 <ul class="badges">
 <li>Funktioniert ohne Netz</li>
 <li>Ohne Konto</li>

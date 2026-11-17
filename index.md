@@ -12,6 +12,12 @@ title: "SnapSpot : Champis & Randos"
 **Prospectez les forêts, identifiez vos trouvailles, retrouvez vos meilleurs spots.** Le compagnon de terrain du
 cueilleur de champignons, pour iPhone. Même sans réseau.
 
+<p class="stores">
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="apple" src="images/stores/appstore-fr.svg" alt="Télécharger sur l'App Store"></a>
+<a class="store is-off" href="#" aria-disabled="true" tabindex="-1"><img class="google" src="images/stores/googleplay-fr.png" alt="Disponible sur Google Play"></a>
+<small class="soon">Bientôt</small>
+</p>
+
 <ul class="badges">
 <li>Fonctionne sans réseau</li>
 <li>Sans compte</li>
