@@ -5,7 +5,8 @@ title: "SnapSpot: Mushrooms & Hikes"
 ---
 {% include langs.html %}
 
-# SnapSpot: Mushrooms & Hikes {:.no_toc}
+# SnapSpot: Mushrooms & Hikes
+{:.no_toc}
 
 <p class="hero">Your spots. Your finds.<br>Yours alone.</p>
 
@@ -25,7 +26,8 @@ iPhone. Even without a network.
 <li>Your data stays on your iPhone</li>
 </ul>
 
-## Scout. Identify. Remember. Return. {:.no_toc}
+## Scout. Identify. Remember. Return.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Forest map IGN"><figcaption><b>1. Scout</b><br>Forest map, public forests, soil map, slopes, relief, cadastre: the IGN maps help you spot favourable habitats. A long press tells you what each layer shows here; download them before you leave.</figcaption></figure>

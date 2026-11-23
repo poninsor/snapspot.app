@@ -5,7 +5,8 @@ title: "SnapSpot: Grzyby i Szlaki"
 ---
 {% include langs.html %}
 
-# SnapSpot: Grzyby i Szlaki {:.no_toc}
+# SnapSpot: Grzyby i Szlaki
+{:.no_toc}
 
 <p class="hero">Twoje miejsca. Twoje zbiory.<br>Tylko dla Ciebie.</p>
 
@@ -25,7 +26,8 @@ iPhone'a. Nawet bez sieci.
 <li>Twoje dane zostają na iPhonie</li>
 </ul>
 
-## Rozpoznać teren. Zidentyfikować. Zapamiętać. Wrócić. {:.no_toc}
+## Rozpoznać teren. Zidentyfikować. Zapamiętać. Wrócić.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Mapa leśna IGN"><figcaption><b>1. Rozpoznać teren</b><br>Mapa leśna, lasy publiczne, mapa gleb, nachylenia, rzeźba, kataster: mapy IGN pomagają wypatrzyć sprzyjające siedliska. Długie naciśnięcie pokazuje, co dana warstwa pokazuje tutaj; pobierz je przed wyjściem.</figcaption></figure>

@@ -5,7 +5,8 @@ title: "SnapSpot: Setas y Rutas"
 ---
 {% include langs.html %}
 
-# SnapSpot: Setas y Rutas {:.no_toc}
+# SnapSpot: Setas y Rutas
+{:.no_toc}
 
 <p class="hero">Tus rincones. Tus hallazgos.<br>Solo tuyos.</p>
 
@@ -25,7 +26,8 @@ de setas, para iPhone. Incluso sin red.
 <li>Tus datos se quedan en el iPhone</li>
 </ul>
 
-## Explorar. Identificar. Memorizar. Volver. {:.no_toc}
+## Explorar. Identificar. Memorizar. Volver.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Mapa forestal IGN"><figcaption><b>1. Explorar</b><br>Mapa forestal, bosques públicos, mapa de suelos, pendientes, relieve, catastro: los mapas IGN ayudan a detectar los medios favorables. Una pulsación larga indica lo que muestra cada capa aquí; descárgalos antes de salir.</figcaption></figure>

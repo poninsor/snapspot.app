@@ -5,7 +5,8 @@ title: "SnapSpot: Pilze & Wandern"
 ---
 {% include langs.html %}
 
-# SnapSpot: Pilze & Wandern {:.no_toc}
+# SnapSpot: Pilze & Wandern
+{:.no_toc}
 
 <p class="hero">Ihre Plätze. Ihre Funde.<br>Nur für Sie.</p>
 
@@ -25,7 +26,8 @@ Pilzsammler, für das iPhone. Auch ohne Netz.
 <li>Ihre Daten bleiben auf dem iPhone</li>
 </ul>
 
-## Erkunden. Bestimmen. Merken. Wiederfinden. {:.no_toc}
+## Erkunden. Bestimmen. Merken. Wiederfinden.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Waldkarte IGN"><figcaption><b>1. Erkunden</b><br>Waldkarte, öffentliche Wälder, Bodenkarte, Hangneigung, Relief, Kataster: Die IGN-Karten helfen, günstige Lebensräume zu erkennen. Ein langer Druck zeigt, was jede Ebene hier zeigt; laden Sie sie vor dem Aufbruch herunter.</figcaption></figure>

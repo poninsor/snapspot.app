@@ -5,7 +5,8 @@ title: "SnapSpot: Paddenstoelen"
 ---
 {% include langs.html %}
 
-# SnapSpot: Paddenstoelen {:.no_toc}
+# SnapSpot: Paddenstoelen
+{:.no_toc}
 
 <p class="hero">Jouw plekjes. Jouw vondsten.<br>Alleen van jou.</p>
 
@@ -25,7 +26,8 @@ voor iPhone. Ook zonder netwerk.
 <li>Je gegevens blijven op je iPhone</li>
 </ul>
 
-## Verkennen. Determineren. Onthouden. Terugvinden. {:.no_toc}
+## Verkennen. Determineren. Onthouden. Terugvinden.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Boskaart IGN"><figcaption><b>1. Verkennen</b><br>Boskaart, openbare bossen, bodemkaart, hellingen, reliëf, kadaster: de IGN-kaarten helpen gunstige habitats te vinden. Een lange druk toont wat elke laag hier laat zien; download ze voor je vertrekt.</figcaption></figure>

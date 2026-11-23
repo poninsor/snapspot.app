@@ -5,7 +5,8 @@ title: "SnapSpot : Champis & Randos"
 ---
 {% include langs.html %}
 
-# SnapSpot : Champis & Randos {:.no_toc}
+# SnapSpot : Champis & Randos
+{:.no_toc}
 
 <p class="hero">Vos coins. Vos cueillettes.<br>À vous seuls.</p>
 
@@ -25,7 +26,8 @@ cueilleur de champignons, pour iPhone. Même sans réseau.
 <li>Vos données restent sur l'iPhone</li>
 </ul>
 
-## Prospecter. Identifier. Mémoriser. Retrouver. {:.no_toc}
+## Prospecter. Identifier. Mémoriser. Retrouver.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="images/carte-ici.jpg" alt="Carte forestière IGN"><figcaption><b>1. Prospecter</b><br>Carte forestière, forêts publiques, carte des sols, pentes, relief, cadastre : les cartes IGN aident à repérer les milieux favorables. Un appui long dit ce que chaque couche montre ici ; téléchargez-les avant de partir.</figcaption></figure>

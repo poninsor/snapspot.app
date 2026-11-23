@@ -5,7 +5,8 @@ title: "SnapSpot: Cogumelos e Trilhos"
 ---
 {% include langs.html %}
 
-# SnapSpot: Cogumelos e Trilhos {:.no_toc}
+# SnapSpot: Cogumelos e Trilhos
+{:.no_toc}
 
 <p class="hero">Os seus cantinhos. As suas colheitas.<br>Só seus.</p>
 
@@ -25,7 +26,8 @@ apanhador de cogumelos, para iPhone. Mesmo sem rede.
 <li>Os seus dados ficam no iPhone</li>
 </ul>
 
-## Explorar. Identificar. Memorizar. Reencontrar. {:.no_toc}
+## Explorar. Identificar. Memorizar. Reencontrar.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Carta florestal IGN"><figcaption><b>1. Explorar</b><br>Carta florestal, florestas públicas, carta de solos, declives, relevo, cadastro: os mapas IGN ajudam a identificar os meios favoráveis. Um toque longo mostra o que cada camada indica aqui; descarregue-os antes de partir.</figcaption></figure>

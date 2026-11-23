@@ -5,7 +5,8 @@ title: "SnapSpot: Funghi e Sentieri"
 ---
 {% include langs.html %}
 
-# SnapSpot: Funghi e Sentieri {:.no_toc}
+# SnapSpot: Funghi e Sentieri
+{:.no_toc}
 
 <p class="hero">I tuoi posti. I tuoi ritrovamenti.<br>Solo tuoi.</p>
 
@@ -25,7 +26,8 @@ cercatore di funghi, per iPhone. Anche senza rete.
 <li>I tuoi dati restano sull'iPhone</li>
 </ul>
 
-## Esplorare. Identificare. Memorizzare. Ritrovare. {:.no_toc}
+## Esplorare. Identificare. Memorizzare. Ritrovare.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Carta forestale IGN"><figcaption><b>1. Esplorare</b><br>Carta forestale, foreste pubbliche, carta dei suoli, pendenze, rilievo, catasto: le mappe IGN aiutano a individuare gli ambienti favorevoli. Una pressione prolungata mostra cosa indica ogni livello qui; scaricale prima di partire.</figcaption></figure>

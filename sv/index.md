@@ -5,7 +5,8 @@ title: "SnapSpot: Svamp & Vandring"
 ---
 {% include langs.html %}
 
-# SnapSpot: Svamp & Vandring {:.no_toc}
+# SnapSpot: Svamp & Vandring
+{:.no_toc}
 
 <p class="hero">Dina ställen. Dina fynd.<br>Bara dina.</p>
 
@@ -25,7 +26,8 @@ fält, för iPhone. Även utan nät.
 <li>Dina data stannar på din iPhone</li>
 </ul>
 
-## Utforska. Bestäm. Minnas. Hitta tillbaka. {:.no_toc}
+## Utforska. Bestäm. Minnas. Hitta tillbaka.
+{:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Skogskarta IGN"><figcaption><b>1. Utforska</b><br>Skogskarta, offentliga skogar, jordartskarta, lutningar, relief, fastighetskarta: IGN-kartorna hjälper dig att hitta gynnsamma miljöer. Ett långt tryck visar vad varje lager visar här; ladda ner dem innan du går.</figcaption></figure>
