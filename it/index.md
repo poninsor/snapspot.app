@@ -5,7 +5,7 @@ title: "SnapSpot: Funghi e Sentieri"
 ---
 {% include langs.html %}
 
-# SnapSpot: Funghi e Sentieri
+# SnapSpot: Funghi e Sentieri {:.no_toc}
 
 <p class="hero">I tuoi posti. I tuoi ritrovamenti.<br>Solo tuoi.</p>
 
@@ -25,7 +25,7 @@ cercatore di funghi, per iPhone. Anche senza rete.
 <li>I tuoi dati restano sull'iPhone</li>
 </ul>
 
-## Esplorare. Identificare. Memorizzare. Ritrovare.
+## Esplorare. Identificare. Memorizzare. Ritrovare. {:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Carta forestale IGN"><figcaption><b>1. Esplorare</b><br>Carta forestale, foreste pubbliche, carta dei suoli, pendenze, rilievo, catasto: le mappe IGN aiutano a individuare gli ambienti favorevoli. Una pressione prolungata mostra cosa indica ogni livello qui; scaricale prima di partire.</figcaption></figure>
@@ -36,9 +36,51 @@ cercatore di funghi, per iPhone. Anche senza rete.
 
 *SnapSpot esiste in modalità chiara e scura e segue l'impostazione dell'iPhone: per questo gli screenshot di questa pagina alternano le due.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Indice</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **SnapSpot non è una mappa di zone di raccolta.** Non ti dice dove andare: ti aiuta a esplorare, poi conserva la
 memoria dei tuoi posti. I funghi tornano di anno in anno, nello stesso luogo e nello stesso periodo: gli spot di ieri
 preparano la stagione di domani.
+
+## Esplorare
+
+Le carte IGN si scaricano in anticipo: fotografie aeree, piano, rilievo, carta forestale, foreste pubbliche, foreste
+antiche, catasto, pendenze, idrografia, curve di livello, geologia. Una pressione prolungata sulla mappa dice che
+cosa mostra il livello in quel punto.
+
+- **Carta dei suoli (INRAE)** accanto ai livelli forestali: il tipo di suolo, con la sua legenda, si legge con una pressione prolungata.
+- **Ogni livello ha la propria trasparenza**, e un cursore globale lascia vedere la foto satellitare attraverso di essi.
+
+<div class="shots">
+<figure><img src="../images/carte-couches.jpg" alt="La scheda Livelli: opacità globale, sfondo della mappa, poi i livelli IGN per rubrica, ciascuno con la propria trasparenza" loading="lazy"><figcaption>La scheda Livelli: opacità globale, sfondo della mappa, poi i livelli IGN per rubrica, ciascuno con la propria trasparenza.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Una pressione prolungata: cosa mostrano i livelli qui (bosco, stato, suolo, pendenza), la pioggia di 7 giorni, «Crescita: poco favorevole» e «Vai»" loading="lazy"><figcaption>Una pressione prolungata: cosa mostrano i livelli qui (bosco, stato, suolo, pendenza), la pioggia di 7 giorni, «Crescita: poco favorevole» e «Vai».</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Una zona: le 3 foto scattate nello stesso posto, con «Vedi le foto» e «Guidami»" loading="lazy"><figcaption>Una zona: le 3 foto scattate nello stesso posto, con «Vedi le foto» e «Guidami».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Condizioni di crescita di un ritrovamento: indice 31 su 100, i 4 criteri (acqua, momento della pioggia, umidità e temperatura del suolo), poi bonus e malus del luogo" loading="lazy"><figcaption>Condizioni di crescita di un ritrovamento: indice 31 su 100, i 4 criteri (acqua, momento della pioggia, umidità e temperatura del suolo), poi bonus e malus del luogo.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Impostazioni › Mappa e offline: sfondo, opacità dei livelli e livelli per rubrica (bosco e vegetazione, suolo e acqua, rilievo e pendenze)" loading="lazy"><figcaption>Impostazioni › Mappa e offline: sfondo, opacità dei livelli e livelli per rubrica (bosco e vegetazione, suolo e acqua, rilievo e pendenze).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="La fase lunare (qui il primo crescente) e le prossime lune, a titolo indicativo" loading="lazy"><figcaption>La fase lunare (qui il primo crescente) e le prossime lune, a titolo indicativo.</figcaption></figure>
+</div>
+
+### È il momento giusto per andare a funghi?
+
+SnapSpot analizza il meteo dei giorni passati e prossimi nel luogo: pioggia, umidità e temperatura del suolo, stagione, habitat. Ne ricava un **indice delle condizioni di crescita** e, sugli iPhone compatibili, **Apple Intelligence scrive un'interpretazione in linguaggio semplice**: le condizioni sono favorevoli, perché, e quando tornare.
+
+- **Scritto sul tuo iPhone**: il testo è scritto dall'iPhone stesso, nulla viene inviato altrove. Si scaricano solo dati meteo pubblici.
+- **Rigenera, ascolta, lettura automatica**: un'altra formulazione con un tocco, o lettura ad alta voce.
+- **Indicativo, mai una promessa**: un aiuto per scegliere dove e quando cercare, senza mai dire se un fungo è commestibile.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="L'indice di crescita e la sua interpretazione scritta da Apple Intelligence: «La raccolta è promettente oggi… aspetta la finestra ideale prevista tra 7 giorni»." loading="lazy"><figcaption>L'indice di crescita e la sua interpretazione scritta da Apple Intelligence: «La raccolta è promettente oggi… aspetta la finestra ideale prevista tra 7 giorni».</figcaption></figure>
+</div>
 
 ## Identificare, con un modello fatto per i funghi
 
@@ -83,39 +125,6 @@ poi crea lo spot.*
 > fallo controllare da un farmacista o da un'associazione micologica.
 
 
-## Esplorare e ritrovare i tuoi spot
-
-Le carte IGN si scaricano in anticipo: fotografie aeree, piano, rilievo, carta forestale, foreste pubbliche, foreste
-antiche, catasto, pendenze, idrografia, curve di livello, geologia. Una pressione prolungata sulla mappa dice che
-cosa mostra il livello in quel punto.
-
-- **Carta dei suoli (INRAE)** accanto ai livelli forestali: il tipo di suolo, con la sua legenda, si legge con una pressione prolungata.
-- **Ogni livello ha la propria trasparenza**, e un cursore globale lascia vedere la foto satellitare attraverso di essi.
-
-<div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="La scheda Livelli: opacità globale, sfondo della mappa, poi i livelli IGN per rubrica, ciascuno con la propria trasparenza" loading="lazy"><figcaption>La scheda Livelli: opacità globale, sfondo della mappa, poi i livelli IGN per rubrica, ciascuno con la propria trasparenza.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Una pressione prolungata: cosa mostrano i livelli qui (bosco, stato, suolo, pendenza), la pioggia di 7 giorni, «Crescita: poco favorevole» e «Vai»" loading="lazy"><figcaption>Una pressione prolungata: cosa mostrano i livelli qui (bosco, stato, suolo, pendenza), la pioggia di 7 giorni, «Crescita: poco favorevole» e «Vai».</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="Una zona: le 3 foto scattate nello stesso posto, con «Vedi le foto» e «Guidami»" loading="lazy"><figcaption>Una zona: le 3 foto scattate nello stesso posto, con «Vedi le foto» e «Guidami».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Condizioni di crescita di un ritrovamento: indice 31 su 100, i 4 criteri (acqua, momento della pioggia, umidità e temperatura del suolo), poi bonus e malus del luogo" loading="lazy"><figcaption>Condizioni di crescita di un ritrovamento: indice 31 su 100, i 4 criteri (acqua, momento della pioggia, umidità e temperatura del suolo), poi bonus e malus del luogo.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Impostazioni › Mappa e offline: sfondo, opacità dei livelli e livelli per rubrica (bosco e vegetazione, suolo e acqua, rilievo e pendenze)" loading="lazy"><figcaption>Impostazioni › Mappa e offline: sfondo, opacità dei livelli e livelli per rubrica (bosco e vegetazione, suolo e acqua, rilievo e pendenze).</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="La fase lunare (qui il primo crescente) e le prossime lune, a titolo indicativo" loading="lazy"><figcaption>La fase lunare (qui il primo crescente) e le prossime lune, a titolo indicativo.</figcaption></figure>
-</div>
-
-## È il momento giusto per andare a funghi?
-
-SnapSpot analizza il meteo dei giorni passati e prossimi nel luogo: pioggia, umidità e temperatura del suolo, stagione, habitat. Ne ricava un **indice delle condizioni di crescita** e, sugli iPhone compatibili, **Apple Intelligence scrive un'interpretazione in linguaggio semplice**: le condizioni sono favorevoli, perché, e quando tornare.
-
-- **Scritto sul tuo iPhone**: il testo è scritto dall'iPhone stesso, nulla viene inviato altrove. Si scaricano solo dati meteo pubblici.
-- **Rigenera, ascolta, lettura automatica**: un'altra formulazione con un tocco, o lettura ad alta voce.
-- **Indicativo, mai una promessa**: un aiuto per scegliere dove e quando cercare, senza mai dire se un fungo è commestibile.
-
-<div class="shots one">
-<figure><img src="../images/indice-pousse-ia.jpg" alt="L'indice di crescita e la sua interpretazione scritta da Apple Intelligence: «La raccolta è promettente oggi… aspetta la finestra ideale prevista tra 7 giorni»." loading="lazy"><figcaption>L'indice di crescita e la sua interpretazione scritta da Apple Intelligence: «La raccolta è promettente oggi… aspetta la finestra ideale prevista tra 7 giorni».</figcaption></figure>
-</div>
-
 ## Memorizzare i tuoi ritrovamenti
 
 Ogni foto con posizione diventa uno spot. Scorrili in griglia o in elenco, filtra per periodo, specie, anno o commestibilità, raggruppa le foto dello stesso fungo, posiziona segnaposto (auto, punto d'acqua, capanna, albero notevole, punto panoramico) e aggiungi foto dalla tua libreria, da un album o da un altro iPhone. Ogni foto conserva il suo luogo, la sua data, il meteo dei giorni precedenti e un indice indicativo delle condizioni di crescita.
@@ -124,6 +133,27 @@ Ogni foto con posizione diventa uno spot. Scorrili in griglia o in elenco, filtr
 <figure><img src="../images/cueillettes-liste.jpg" alt="L'elenco: foto, data, luogo, specie e commestibilità di ogni ritrovamento" loading="lazy"><figcaption>L'elenco: foto, data, luogo, specie e commestibilità di ogni ritrovamento.</figcaption></figure>
 <figure><img src="../images/cueillettes-plus.jpg" alt="Altre azioni: aggiungere foto (fotocamera, libreria, album, altro iPhone) e riordinare (duplicati, foto senza fungo)" loading="lazy"><figcaption>Altre azioni: aggiungere foto (fotocamera, libreria, album, altro iPhone) e riordinare (duplicati, foto senza fungo).</figcaption></figure>
 <figure><img src="../images/carte-filtres.jpg" alt="Filtri della mappa: periodo, commestibilità, specie e «Inquadra la mappa» sui tuoi ritrovamenti" loading="lazy"><figcaption>Filtri della mappa: periodo, commestibilità, specie e «Inquadra la mappa» sui tuoi ritrovamenti.</figcaption></figure>
+</div>
+
+### Camminare e creare i tuoi itinerari
+
+- **Tracciamento GPS** delle tue camminate: distanza, dislivello, velocità, pause e segnaposto, anche a schermo bloccato.
+- **I tuoi itinerari**: collega i tuoi ritrovamenti o posiziona punti sulla mappa, e SnapSpot ti guida di punto in punto.
+- **Ritorno al punto di partenza** in linea retta, lungo il tuo percorso o sui sentieri. Solo «Per i sentieri» contatta il servizio di itinerari dell'IGN, con la tua posizione e la destinazione, mai le tue foto né i tuoi spot.
+- **Cassetto di registrazione**: durata, distanza, velocità e segnaposto a colpo d'occhio, pausa, stop e «Ritorno alla partenza» sotto il pollice.
+- **Rilevamento dell'auto**: se dimentichi di fermare la registrazione in auto, SnapSpot propone di tagliare la fine del percorso.
+- **Promemoria del tramonto**: un avviso quando è ora di rientrare, per non farti sorprendere dalla notte.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Uscite: i tuoi percorsi per data, con il bilancio del periodo e il numero di foto di ciascuno" loading="lazy"><figcaption>Uscite: i tuoi percorsi per data, con il bilancio del periodo e il numero di foto di ciascuno.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Un'uscita: percorso colorato in base alla velocità, miniature delle foto scattate, cifre e profilo" loading="lazy"><figcaption>Un'uscita: percorso colorato in base alla velocità, miniature delle foto scattate, cifre e profilo.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="La registrazione in corso: durata, distanza, velocità, dislivello e «Ritorno alla partenza»" loading="lazy"><figcaption>La registrazione in corso: durata, distanza, velocità, dislivello e «Ritorno alla partenza».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Fine di un'uscita: salvare, riprendere la registrazione o eliminare" loading="lazy"><figcaption>Fine di un'uscita: salvare, riprendere la registrazione o eliminare.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="I miei itinerari: creare un itinerario, disegnarlo con il dito o importare un file .snapspot" loading="lazy"><figcaption>I miei itinerari: creare un itinerario, disegnarlo con il dito o importare un file .snapspot.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Azioni di un'uscita: rinominare, annotare, ritagliare, unire un GPX; tornare alla partenza, seguire per punti, convertire in itinerario" loading="lazy"><figcaption>Azioni di un'uscita: rinominare, annotare, ritagliare, unire un GPX; tornare alla partenza, seguire per punti, convertire in itinerario.</figcaption></figure>
 </div>
 
 ## Ritrovare uno spot
@@ -160,27 +190,6 @@ distanza.*
 
 *Schermate realizzate con dati dimostrativi.*
 
-
-## Camminare e creare i tuoi itinerari
-
-- **Tracciamento GPS** delle tue camminate: distanza, dislivello, velocità, pause e segnaposto, anche a schermo bloccato.
-- **I tuoi itinerari**: collega i tuoi ritrovamenti o posiziona punti sulla mappa, e SnapSpot ti guida di punto in punto.
-- **Ritorno al punto di partenza** in linea retta, lungo il tuo percorso o sui sentieri. Solo «Per i sentieri» contatta il servizio di itinerari dell'IGN, con la tua posizione e la destinazione, mai le tue foto né i tuoi spot.
-- **Cassetto di registrazione**: durata, distanza, velocità e segnaposto a colpo d'occhio, pausa, stop e «Ritorno alla partenza» sotto il pollice.
-- **Rilevamento dell'auto**: se dimentichi di fermare la registrazione in auto, SnapSpot propone di tagliare la fine del percorso.
-- **Promemoria del tramonto**: un avviso quando è ora di rientrare, per non farti sorprendere dalla notte.
-
-<div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Uscite: i tuoi percorsi per data, con il bilancio del periodo e il numero di foto di ciascuno" loading="lazy"><figcaption>Uscite: i tuoi percorsi per data, con il bilancio del periodo e il numero di foto di ciascuno.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="Un'uscita: percorso colorato in base alla velocità, miniature delle foto scattate, cifre e profilo" loading="lazy"><figcaption>Un'uscita: percorso colorato in base alla velocità, miniature delle foto scattate, cifre e profilo.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="La registrazione in corso: durata, distanza, velocità, dislivello e «Ritorno alla partenza»" loading="lazy"><figcaption>La registrazione in corso: durata, distanza, velocità, dislivello e «Ritorno alla partenza».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Fine di un'uscita: salvare, riprendere la registrazione o eliminare" loading="lazy"><figcaption>Fine di un'uscita: salvare, riprendere la registrazione o eliminare.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="I miei itinerari: creare un itinerario, disegnarlo con il dito o importare un file .snapspot" loading="lazy"><figcaption>I miei itinerari: creare un itinerario, disegnarlo con il dito o importare un file .snapspot.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Azioni di un'uscita: rinominare, annotare, ritagliare, unire un GPX; tornare alla partenza, seguire per punti, convertire in itinerario" loading="lazy"><figcaption>Azioni di un'uscita: rinominare, annotare, ritagliare, unire un GPX; tornare alla partenza, seguire per punti, convertire in itinerario.</figcaption></figure>
-</div>
 
 ## Escursioni
 

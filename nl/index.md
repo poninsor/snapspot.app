@@ -5,7 +5,7 @@ title: "SnapSpot: Paddenstoelen"
 ---
 {% include langs.html %}
 
-# SnapSpot: Paddenstoelen
+# SnapSpot: Paddenstoelen {:.no_toc}
 
 <p class="hero">Jouw plekjes. Jouw vondsten.<br>Alleen van jou.</p>
 
@@ -25,7 +25,7 @@ voor iPhone. Ook zonder netwerk.
 <li>Je gegevens blijven op je iPhone</li>
 </ul>
 
-## Verkennen. Determineren. Onthouden. Terugvinden.
+## Verkennen. Determineren. Onthouden. Terugvinden. {:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Boskaart IGN"><figcaption><b>1. Verkennen</b><br>Boskaart, openbare bossen, bodemkaart, hellingen, reliëf, kadaster: de IGN-kaarten helpen gunstige habitats te vinden. Een lange druk toont wat elke laag hier laat zien; download ze voor je vertrekt.</figcaption></figure>
@@ -36,9 +36,51 @@ voor iPhone. Ook zonder netwerk.
 
 *SnapSpot bestaat in een lichte en een donkere modus en volgt de instelling van uw iPhone, dus de schermafbeeldingen op deze pagina wisselen tussen beide.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Inhoud</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **SnapSpot is geen kaart van plukgebieden.** De app zegt je niet waar je heen moet: ze helpt je te verkennen en
 bewaart daarna het geheugen van je eigen plekjes. Paddenstoelen komen jaar na jaar terug, op dezelfde plek en in
 dezelfde periode: de spots van gisteren bereiden het seizoen van morgen voor.
+
+## Verkennen
+
+De IGN-kaarten worden vooraf gedownload: luchtfoto's, plattegrond, reliëf, boskaart, openbare bossen, oude bossen,
+kadaster, hellingen, waterlopen, hoogtelijnen, geologie. Een lange druk op de kaart zegt wat de laag op die plek
+toont.
+
+- **Bodemkaart (INRAE)** naast de boslagen: het bodemtype is met de legenda af te lezen met een lange druk.
+- **Elke laag heeft zijn eigen transparantie**, en met een algemene schuif kijk je door de lagen heen naar de satellietfoto.
+
+<div class="shots">
+<figure><img src="../images/carte-couches.jpg" alt="Het blad Lagen: algemene dekking, achtergrondkaart en de IGN-lagen per rubriek, elk met eigen transparantie" loading="lazy"><figcaption>Het blad Lagen: algemene dekking, achtergrondkaart en de IGN-lagen per rubriek, elk met eigen transparantie.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Een lange druk: wat de lagen hier tonen (bos, status, bodem, helling), regen van 7 dagen, «Groei: weinig gunstig» en «Ga erheen»" loading="lazy"><figcaption>Een lange druk: wat de lagen hier tonen (bos, status, bodem, helling), regen van 7 dagen, «Groei: weinig gunstig» en «Ga erheen».</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Een zone: de 3 foto's van dezelfde plek, met «Foto's bekijken» en «Leid me»" loading="lazy"><figcaption>Een zone: de 3 foto's van dezelfde plek, met «Foto's bekijken» en «Leid me».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Groeiomstandigheden van een vondst: index 31 op 100, de 4 criteria (water, moment van de regen, bodemvocht en -temperatuur), dan de bonussen en maluspunten van de plek" loading="lazy"><figcaption>Groeiomstandigheden van een vondst: index 31 op 100, de 4 criteria (water, moment van de regen, bodemvocht en -temperatuur), dan de bonussen en maluspunten van de plek.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Instellingen › Kaart en offline: achtergrondkaart, dekking van de lagen en lagen per rubriek (bos en vegetatie, bodem en water, reliëf en hellingen)" loading="lazy"><figcaption>Instellingen › Kaart en offline: achtergrondkaart, dekking van de lagen en lagen per rubriek (bos en vegetatie, bodem en water, reliëf en hellingen).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie" loading="lazy"><figcaption>De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie.</figcaption></figure>
+</div>
+
+### Is het een goed moment om te plukken?
+
+SnapSpot analyseert het weer van de afgelopen en komende dagen op de plek: regen, bodemvocht en -temperatuur, seizoen, leefgebied. Daaruit komt een **groeiomstandighedenindex** en op compatibele iPhones **schrijft Apple Intelligence een begrijpelijke duiding**: zijn de omstandigheden gunstig, waarom, en wanneer je er weer op uit kunt.
+
+- **Geschreven op je iPhone**: de tekst wordt door de iPhone zelf geschreven, er wordt niets verstuurd. Alleen openbare weergegevens worden gedownload.
+- **Opnieuw, voorlezen, automatisch voorlezen**: een andere formulering met één tik, of hardop voorlezen.
+- **Indicatief, nooit een belofte**: een hulp om te kiezen waar en wanneer je zoekt, zonder ooit te zeggen of een paddenstoel eetbaar is.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="De groei-index en de door Apple Intelligence geschreven duiding: „Plukken ziet er vandaag veelbelovend uit… wacht op het ideale venster dat over 7 dagen wordt verwacht”." loading="lazy"><figcaption>De groei-index en de door Apple Intelligence geschreven duiding: „Plukken ziet er vandaag veelbelovend uit… wacht op het ideale venster dat over 7 dagen wordt verwacht”.</figcaption></figure>
+</div>
 
 ## Determineren, met een model gemaakt voor paddenstoelen
 
@@ -85,39 +127,6 @@ maakt dan de spot aan.*
 > hem controleren door een apotheker of een mycologische vereniging.
 
 
-## Verkennen en je spots terugvinden
-
-De IGN-kaarten worden vooraf gedownload: luchtfoto's, plattegrond, reliëf, boskaart, openbare bossen, oude bossen,
-kadaster, hellingen, waterlopen, hoogtelijnen, geologie. Een lange druk op de kaart zegt wat de laag op die plek
-toont.
-
-- **Bodemkaart (INRAE)** naast de boslagen: het bodemtype is met de legenda af te lezen met een lange druk.
-- **Elke laag heeft zijn eigen transparantie**, en met een algemene schuif kijk je door de lagen heen naar de satellietfoto.
-
-<div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="Het blad Lagen: algemene dekking, achtergrondkaart en de IGN-lagen per rubriek, elk met eigen transparantie" loading="lazy"><figcaption>Het blad Lagen: algemene dekking, achtergrondkaart en de IGN-lagen per rubriek, elk met eigen transparantie.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Een lange druk: wat de lagen hier tonen (bos, status, bodem, helling), regen van 7 dagen, «Groei: weinig gunstig» en «Ga erheen»" loading="lazy"><figcaption>Een lange druk: wat de lagen hier tonen (bos, status, bodem, helling), regen van 7 dagen, «Groei: weinig gunstig» en «Ga erheen».</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="Een zone: de 3 foto's van dezelfde plek, met «Foto's bekijken» en «Leid me»" loading="lazy"><figcaption>Een zone: de 3 foto's van dezelfde plek, met «Foto's bekijken» en «Leid me».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Groeiomstandigheden van een vondst: index 31 op 100, de 4 criteria (water, moment van de regen, bodemvocht en -temperatuur), dan de bonussen en maluspunten van de plek" loading="lazy"><figcaption>Groeiomstandigheden van een vondst: index 31 op 100, de 4 criteria (water, moment van de regen, bodemvocht en -temperatuur), dan de bonussen en maluspunten van de plek.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Instellingen › Kaart en offline: achtergrondkaart, dekking van de lagen en lagen per rubriek (bos en vegetatie, bodem en water, reliëf en hellingen)" loading="lazy"><figcaption>Instellingen › Kaart en offline: achtergrondkaart, dekking van de lagen en lagen per rubriek (bos en vegetatie, bodem en water, reliëf en hellingen).</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie" loading="lazy"><figcaption>De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie.</figcaption></figure>
-</div>
-
-## Is het een goed moment om te plukken?
-
-SnapSpot analyseert het weer van de afgelopen en komende dagen op de plek: regen, bodemvocht en -temperatuur, seizoen, leefgebied. Daaruit komt een **groeiomstandighedenindex** en op compatibele iPhones **schrijft Apple Intelligence een begrijpelijke duiding**: zijn de omstandigheden gunstig, waarom, en wanneer je er weer op uit kunt.
-
-- **Geschreven op je iPhone**: de tekst wordt door de iPhone zelf geschreven, er wordt niets verstuurd. Alleen openbare weergegevens worden gedownload.
-- **Opnieuw, voorlezen, automatisch voorlezen**: een andere formulering met één tik, of hardop voorlezen.
-- **Indicatief, nooit een belofte**: een hulp om te kiezen waar en wanneer je zoekt, zonder ooit te zeggen of een paddenstoel eetbaar is.
-
-<div class="shots one">
-<figure><img src="../images/indice-pousse-ia.jpg" alt="De groei-index en de door Apple Intelligence geschreven duiding: „Plukken ziet er vandaag veelbelovend uit… wacht op het ideale venster dat over 7 dagen wordt verwacht”." loading="lazy"><figcaption>De groei-index en de door Apple Intelligence geschreven duiding: „Plukken ziet er vandaag veelbelovend uit… wacht op het ideale venster dat over 7 dagen wordt verwacht”.</figcaption></figure>
-</div>
-
 ## Je vondsten onthouden
 
 Elke foto met locatie wordt een spot. Blader erdoorheen als raster of lijst, filter op periode, soort, jaar of eetbaarheid, groepeer de foto's van dezelfde paddenstoel, zet markeringen (auto, waterpunt, hut, opvallende boom, uitkijkpunt) en voeg foto's toe uit je bibliotheek, een album of een andere iPhone. Elke foto bewaart zijn plaats, zijn datum, het weer van de voorgaande dagen en een indicatieve index van de groeiomstandigheden.
@@ -126,6 +135,27 @@ Elke foto met locatie wordt een spot. Blader erdoorheen als raster of lijst, fil
 <figure><img src="../images/cueillettes-liste.jpg" alt="De lijst: foto, datum, plaats, soort en eetbaarheid van elke vondst" loading="lazy"><figcaption>De lijst: foto, datum, plaats, soort en eetbaarheid van elke vondst.</figcaption></figure>
 <figure><img src="../images/cueillettes-plus.jpg" alt="Meer acties: foto's toevoegen (camera, bibliotheek, album, andere iPhone) en opruimen (dubbels, foto's zonder paddenstoel)" loading="lazy"><figcaption>Meer acties: foto's toevoegen (camera, bibliotheek, album, andere iPhone) en opruimen (dubbels, foto's zonder paddenstoel).</figcaption></figure>
 <figure><img src="../images/carte-filtres.jpg" alt="Kaartfilters: periode, eetbaarheid, soort en «Kaart centreren» op je vondsten" loading="lazy"><figcaption>Kaartfilters: periode, eetbaarheid, soort en «Kaart centreren» op je vondsten.</figcaption></figure>
+</div>
+
+### Wandelen en je eigen routes maken
+
+- **GPS-registratie** van je wandelingen: afstand, hoogteverschil, snelheid, pauzes en markeringen, ook met vergrendeld scherm.
+- **Je eigen routes**: koppel je vondsten of zet punten op de kaart, en SnapSpot leidt je van punt naar punt.
+- **Terug naar de start** in rechte lijn, langs je eigen spoor of over paden. Alleen „Via de paden” raadpleegt de routedienst van het IGN, met je positie en de bestemming, nooit je foto's of spots.
+- **Opnamelade**: duur, afstand, snelheid en markeringen in één oogopslag, pauze, stop en «Terug naar de start» onder je duim.
+- **Autodetectie**: vergeet je de opname in de auto te stoppen, dan stelt SnapSpot voor het einde van de tocht af te knippen.
+- **Zonsondergangsherinnering**: een melding wanneer het tijd is om terug te keren, zodat de nacht je niet verrast.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Tochten: je tracks per datum, met het overzicht van de periode en het aantal foto's van elk" loading="lazy"><figcaption>Tochten: je tracks per datum, met het overzicht van de periode en het aantal foto's van elk.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Een tocht: track gekleurd op snelheid, miniaturen van de genomen foto's, cijfers en profiel" loading="lazy"><figcaption>Een tocht: track gekleurd op snelheid, miniaturen van de genomen foto's, cijfers en profiel.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="De lopende opname: duur, afstand, snelheid, hoogteverschil en «Terug naar de start»" loading="lazy"><figcaption>De lopende opname: duur, afstand, snelheid, hoogteverschil en «Terug naar de start».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Einde van een tocht: bewaren, opname hervatten of verwijderen" loading="lazy"><figcaption>Einde van een tocht: bewaren, opname hervatten of verwijderen.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mijn routes: een route maken, met je vinger tekenen of een .snapspot-bestand importeren" loading="lazy"><figcaption>Mijn routes: een route maken, met je vinger tekenen of een .snapspot-bestand importeren.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Acties van een tocht: hernoemen, aantekening, bijsnijden, GPX samenvoegen; terug naar de start, op punten volgen, omzetten in route" loading="lazy"><figcaption>Acties van een tocht: hernoemen, aantekening, bijsnijden, GPX samenvoegen; terug naar de start, op punten volgen, omzetten in route.</figcaption></figure>
 </div>
 
 ## Een spot terugvinden
@@ -162,27 +192,6 @@ om de afstand in te schatten.*
 
 *Schermafbeeldingen gemaakt met demonstratiegegevens.*
 
-
-## Wandelen en je eigen routes maken
-
-- **GPS-registratie** van je wandelingen: afstand, hoogteverschil, snelheid, pauzes en markeringen, ook met vergrendeld scherm.
-- **Je eigen routes**: koppel je vondsten of zet punten op de kaart, en SnapSpot leidt je van punt naar punt.
-- **Terug naar de start** in rechte lijn, langs je eigen spoor of over paden. Alleen „Via de paden” raadpleegt de routedienst van het IGN, met je positie en de bestemming, nooit je foto's of spots.
-- **Opnamelade**: duur, afstand, snelheid en markeringen in één oogopslag, pauze, stop en «Terug naar de start» onder je duim.
-- **Autodetectie**: vergeet je de opname in de auto te stoppen, dan stelt SnapSpot voor het einde van de tocht af te knippen.
-- **Zonsondergangsherinnering**: een melding wanneer het tijd is om terug te keren, zodat de nacht je niet verrast.
-
-<div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Tochten: je tracks per datum, met het overzicht van de periode en het aantal foto's van elk" loading="lazy"><figcaption>Tochten: je tracks per datum, met het overzicht van de periode en het aantal foto's van elk.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="Een tocht: track gekleurd op snelheid, miniaturen van de genomen foto's, cijfers en profiel" loading="lazy"><figcaption>Een tocht: track gekleurd op snelheid, miniaturen van de genomen foto's, cijfers en profiel.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="De lopende opname: duur, afstand, snelheid, hoogteverschil en «Terug naar de start»" loading="lazy"><figcaption>De lopende opname: duur, afstand, snelheid, hoogteverschil en «Terug naar de start».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Einde van een tocht: bewaren, opname hervatten of verwijderen" loading="lazy"><figcaption>Einde van een tocht: bewaren, opname hervatten of verwijderen.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mijn routes: een route maken, met je vinger tekenen of een .snapspot-bestand importeren" loading="lazy"><figcaption>Mijn routes: een route maken, met je vinger tekenen of een .snapspot-bestand importeren.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Acties van een tocht: hernoemen, aantekening, bijsnijden, GPX samenvoegen; terug naar de start, op punten volgen, omzetten in route" loading="lazy"><figcaption>Acties van een tocht: hernoemen, aantekening, bijsnijden, GPX samenvoegen; terug naar de start, op punten volgen, omzetten in route.</figcaption></figure>
-</div>
 
 ## Wandelingen
 

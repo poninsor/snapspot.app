@@ -5,7 +5,7 @@ title: "SnapSpot: Mushrooms & Hikes"
 ---
 {% include langs.html %}
 
-# SnapSpot: Mushrooms & Hikes
+# SnapSpot: Mushrooms & Hikes {:.no_toc}
 
 <p class="hero">Your spots. Your finds.<br>Yours alone.</p>
 
@@ -25,7 +25,7 @@ iPhone. Even without a network.
 <li>Your data stays on your iPhone</li>
 </ul>
 
-## Scout. Identify. Remember. Return.
+## Scout. Identify. Remember. Return. {:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Forest map IGN"><figcaption><b>1. Scout</b><br>Forest map, public forests, soil map, slopes, relief, cadastre: the IGN maps help you spot favourable habitats. A long press tells you what each layer shows here; download them before you leave.</figcaption></figure>
@@ -36,9 +36,51 @@ iPhone. Even without a network.
 
 *SnapSpot comes in a light and a dark mode and follows your iPhone's setting, so the screenshots on this page switch between the two.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Contents</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **SnapSpot is not a map of foraging areas.** It does not tell you where to go: it helps you scout, then keeps the
 memory of your own spots. Mushrooms come back year after year, in the same place at the same time: yesterday's spots
 prepare tomorrow's season.
+
+## Scout
+
+IGN maps are downloaded in advance: aerial photographs, plan, relief, forest map, public forests, ancient forests,
+cadastre, slopes, hydrography, contour lines, geology. A long press on the map tells you what the layer shows at that
+spot.
+
+- **Soil map (INRAE)** next to the forest layers: the soil type, with its legend, can be read with a long press.
+- **Each layer has its own opacity**, and a global slider lets you see the satellite photo through them.
+
+<div class="shots">
+<figure><img src="../images/carte-couches.jpg" alt="The Layers sheet: global opacity, base map, then the IGN layers by group, each with its own opacity" loading="lazy"><figcaption>The Layers sheet: global opacity, base map, then the IGN layers by group, each with its own opacity.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="A long press: what the layers show here (forest, status, soil, slope), rain over 7 days, “Growth: unfavourable” and “Go there”" loading="lazy"><figcaption>A long press: what the layers show here (forest, status, soil, slope), rain over 7 days, “Growth: unfavourable” and “Go there”.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="A zone: the 3 photos taken in the same place, with “See photos” and “Guide me”" loading="lazy"><figcaption>A zone: the 3 photos taken in the same place, with “See photos” and “Guide me”.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Growing conditions of a find: index 31 out of 100, the 4 criteria (water, timing of the rain, soil moisture and temperature), then the place's bonuses and penalties" loading="lazy"><figcaption>Growing conditions of a find: index 31 out of 100, the 4 criteria (water, timing of the rain, soil moisture and temperature), then the place's bonuses and penalties.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Settings › Map and offline: base map, layer opacity, then the layers by group (forest and vegetation, soil and water, relief and slopes)" loading="lazy"><figcaption>Settings › Map and offline: base map, layer opacity, then the layers by group (forest and vegetation, soil and water, relief and slopes).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="The moon phase (here the first crescent) and the coming moons, for information only" loading="lazy"><figcaption>The moon phase (here the first crescent) and the coming moons, for information only.</figcaption></figure>
+</div>
+
+### Is it a good time to go picking?
+
+SnapSpot analyses the weather of the past and coming days at the spot: rain, soil moisture and temperature, season, habitat. From it comes a **growth-conditions index** and, on compatible iPhones, **Apple Intelligence writes a plain-language interpretation**: are conditions favourable, why, and when to go back out.
+
+- **Written on your iPhone**: the text is written by the iPhone itself, nothing is sent anywhere. Only public weather data is downloaded.
+- **Regenerate, listen, auto-read**: another wording in one tap, or read aloud.
+- **Indicative, never a promise**: a help to choose where and when to look, never a statement that a mushroom is edible.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="The growth index and its Apple Intelligence interpretation: “Picking looks promising today… wait for the ideal window forecast in 7 days”." loading="lazy"><figcaption>The growth index and its Apple Intelligence interpretation: “Picking looks promising today… wait for the ideal window forecast in 7 days”.</figcaption></figure>
+</div>
 
 ## Identify, with a model made for mushrooms
 
@@ -83,39 +125,6 @@ spot.*
 > it checked by a pharmacist or a mycological society.
 
 
-## Scout and find your spots again
-
-IGN maps are downloaded in advance: aerial photographs, plan, relief, forest map, public forests, ancient forests,
-cadastre, slopes, hydrography, contour lines, geology. A long press on the map tells you what the layer shows at that
-spot.
-
-- **Soil map (INRAE)** next to the forest layers: the soil type, with its legend, can be read with a long press.
-- **Each layer has its own opacity**, and a global slider lets you see the satellite photo through them.
-
-<div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="The Layers sheet: global opacity, base map, then the IGN layers by group, each with its own opacity" loading="lazy"><figcaption>The Layers sheet: global opacity, base map, then the IGN layers by group, each with its own opacity.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="A long press: what the layers show here (forest, status, soil, slope), rain over 7 days, “Growth: unfavourable” and “Go there”" loading="lazy"><figcaption>A long press: what the layers show here (forest, status, soil, slope), rain over 7 days, “Growth: unfavourable” and “Go there”.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="A zone: the 3 photos taken in the same place, with “See photos” and “Guide me”" loading="lazy"><figcaption>A zone: the 3 photos taken in the same place, with “See photos” and “Guide me”.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Growing conditions of a find: index 31 out of 100, the 4 criteria (water, timing of the rain, soil moisture and temperature), then the place's bonuses and penalties" loading="lazy"><figcaption>Growing conditions of a find: index 31 out of 100, the 4 criteria (water, timing of the rain, soil moisture and temperature), then the place's bonuses and penalties.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Settings › Map and offline: base map, layer opacity, then the layers by group (forest and vegetation, soil and water, relief and slopes)" loading="lazy"><figcaption>Settings › Map and offline: base map, layer opacity, then the layers by group (forest and vegetation, soil and water, relief and slopes).</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="The moon phase (here the first crescent) and the coming moons, for information only" loading="lazy"><figcaption>The moon phase (here the first crescent) and the coming moons, for information only.</figcaption></figure>
-</div>
-
-## Is it a good time to go picking?
-
-SnapSpot analyses the weather of the past and coming days at the spot: rain, soil moisture and temperature, season, habitat. From it comes a **growth-conditions index** and, on compatible iPhones, **Apple Intelligence writes a plain-language interpretation**: are conditions favourable, why, and when to go back out.
-
-- **Written on your iPhone**: the text is written by the iPhone itself, nothing is sent anywhere. Only public weather data is downloaded.
-- **Regenerate, listen, auto-read**: another wording in one tap, or read aloud.
-- **Indicative, never a promise**: a help to choose where and when to look, never a statement that a mushroom is edible.
-
-<div class="shots one">
-<figure><img src="../images/indice-pousse-ia.jpg" alt="The growth index and its Apple Intelligence interpretation: “Picking looks promising today… wait for the ideal window forecast in 7 days”." loading="lazy"><figcaption>The growth index and its Apple Intelligence interpretation: “Picking looks promising today… wait for the ideal window forecast in 7 days”.</figcaption></figure>
-</div>
-
 ## Remember your finds
 
 Every geotagged photo becomes a spot. Browse them as a grid or a list, filter by period, species, year or edibility, group the photos of the same mushroom, drop markers (car, water point, hut, remarkable tree, viewpoint) and add photos from your library, an album or another iPhone. Each photo keeps its place, its date, the weather of the previous days and an indicative growing-conditions index.
@@ -124,6 +133,27 @@ Every geotagged photo becomes a spot. Browse them as a grid or a list, filter by
 <figure><img src="../images/cueillettes-liste.jpg" alt="The list: photo, date, place, species and edibility of each find" loading="lazy"><figcaption>The list: photo, date, place, species and edibility of each find.</figcaption></figure>
 <figure><img src="../images/cueillettes-plus.jpg" alt="More actions: add photos (camera, library, album, another iPhone) and clean up (duplicates, photos without a mushroom)" loading="lazy"><figcaption>More actions: add photos (camera, library, album, another iPhone) and clean up (duplicates, photos without a mushroom).</figcaption></figure>
 <figure><img src="../images/carte-filtres.jpg" alt="Map filters: period, edibility, species, and “Frame the map” on your finds" loading="lazy"><figcaption>Map filters: period, edibility, species, and “Frame the map” on your finds.</figcaption></figure>
+</div>
+
+### Walk and create your own routes
+
+- **GPS tracking** of your walks: distance, elevation, speed, pauses and markers, even with the screen locked.
+- **Your own routes**: chain your finds or drop points on the map, and SnapSpot guides you from point to point.
+- **Return to your start** in a straight line, along your own track or along trails. Only “By trails” contacts IGN's routing service, with your position and destination, never your photos or spots.
+- **Recording drawer**: time, distance, speed and markers at a glance, pause, stop and “Back to start” under your thumb.
+- **Car detection**: if you forget to stop the recording in the car, SnapSpot offers to cut the end of the track.
+- **Sunset reminder**: an alert when it is time to head back, so that night does not catch you out.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Walks: your tracks by date, with the summary of the period and the number of photos of each" loading="lazy"><figcaption>Walks: your tracks by date, with the summary of the period and the number of photos of each.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="A walk: track coloured by speed, thumbnails of the photos taken, figures and profile" loading="lazy"><figcaption>A walk: track coloured by speed, thumbnails of the photos taken, figures and profile.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="The recording in progress: time, distance, speed, elevation, and “Back to start”" loading="lazy"><figcaption>The recording in progress: time, distance, speed, elevation, and “Back to start”.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="End of a walk: save, resume recording or delete" loading="lazy"><figcaption>End of a walk: save, resume recording or delete.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="My routes: create a route, draw it by finger or import a .snapspot file" loading="lazy"><figcaption>My routes: create a route, draw it by finger or import a .snapspot file.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Actions of a walk: rename, annotate, crop, merge a GPX; return to start, follow by points, convert into a route" loading="lazy"><figcaption>Actions of a walk: rename, annotate, crop, merge a GPX; return to start, follow by points, convert into a route.</figcaption></figure>
 </div>
 
 ## Return to a spot
@@ -159,27 +189,6 @@ and a voice can correct your course.
 
 *Screenshots taken with demonstration data.*
 
-
-## Walk and create your own routes
-
-- **GPS tracking** of your walks: distance, elevation, speed, pauses and markers, even with the screen locked.
-- **Your own routes**: chain your finds or drop points on the map, and SnapSpot guides you from point to point.
-- **Return to your start** in a straight line, along your own track or along trails. Only “By trails” contacts IGN's routing service, with your position and destination, never your photos or spots.
-- **Recording drawer**: time, distance, speed and markers at a glance, pause, stop and “Back to start” under your thumb.
-- **Car detection**: if you forget to stop the recording in the car, SnapSpot offers to cut the end of the track.
-- **Sunset reminder**: an alert when it is time to head back, so that night does not catch you out.
-
-<div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Walks: your tracks by date, with the summary of the period and the number of photos of each" loading="lazy"><figcaption>Walks: your tracks by date, with the summary of the period and the number of photos of each.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="A walk: track coloured by speed, thumbnails of the photos taken, figures and profile" loading="lazy"><figcaption>A walk: track coloured by speed, thumbnails of the photos taken, figures and profile.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="The recording in progress: time, distance, speed, elevation, and “Back to start”" loading="lazy"><figcaption>The recording in progress: time, distance, speed, elevation, and “Back to start”.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="End of a walk: save, resume recording or delete" loading="lazy"><figcaption>End of a walk: save, resume recording or delete.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="My routes: create a route, draw it by finger or import a .snapspot file" loading="lazy"><figcaption>My routes: create a route, draw it by finger or import a .snapspot file.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Actions of a walk: rename, annotate, crop, merge a GPX; return to start, follow by points, convert into a route" loading="lazy"><figcaption>Actions of a walk: rename, annotate, crop, merge a GPX; return to start, follow by points, convert into a route.</figcaption></figure>
-</div>
 
 ## Hikes
 

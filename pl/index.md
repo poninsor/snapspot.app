@@ -5,7 +5,7 @@ title: "SnapSpot: Grzyby i Szlaki"
 ---
 {% include langs.html %}
 
-# SnapSpot: Grzyby i Szlaki
+# SnapSpot: Grzyby i Szlaki {:.no_toc}
 
 <p class="hero">Twoje miejsca. Twoje zbiory.<br>Tylko dla Ciebie.</p>
 
@@ -25,7 +25,7 @@ iPhone'a. Nawet bez sieci.
 <li>Twoje dane zostają na iPhonie</li>
 </ul>
 
-## Rozpoznać teren. Zidentyfikować. Zapamiętać. Wrócić.
+## Rozpoznać teren. Zidentyfikować. Zapamiętać. Wrócić. {:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Mapa leśna IGN"><figcaption><b>1. Rozpoznać teren</b><br>Mapa leśna, lasy publiczne, mapa gleb, nachylenia, rzeźba, kataster: mapy IGN pomagają wypatrzyć sprzyjające siedliska. Długie naciśnięcie pokazuje, co dana warstwa pokazuje tutaj; pobierz je przed wyjściem.</figcaption></figure>
@@ -36,9 +36,51 @@ iPhone'a. Nawet bez sieci.
 
 *SnapSpot działa w trybie jasnym i ciemnym i podąża za ustawieniem iPhone'a, dlatego zrzuty ekranu na tej stronie przeplatają oba tryby.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Spis treści</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **SnapSpot nie jest mapą miejsc zbioru.** Nie mówi Ci, dokąd iść: pomaga rozpoznać teren, a potem przechowuje pamięć
 Twoich własnych miejsc. Grzyby wracają z roku na rok, w to samo miejsce i o tej samej porze: wczorajsze miejsca
 przygotowują jutrzejszy sezon.
+
+## Rozpoznać teren
+
+Mapy IGN pobiera się z wyprzedzeniem: zdjęcia lotnicze, plan, rzeźba terenu, mapa leśna, lasy publiczne, lasy
+dawne, kataster, nachylenia, hydrografia, warstwice, geologia. Długie przytrzymanie na mapie pokazuje, co przedstawia
+warstwa w tym miejscu.
+
+- **Mapa gleb (INRAE)** obok warstw leśnych: typ gleby wraz z legendą odczytasz długim naciśnięciem.
+- **Każda warstwa ma własną przezroczystość**, a globalny suwak pozwala zobaczyć zdjęcie satelitarne przez nie.
+
+<div class="shots">
+<figure><img src="../images/carte-couches.jpg" alt="Karta Warstwy: globalna przezroczystość, podkład i warstwy IGN według rubryk, każda z własną przezroczystością" loading="lazy"><figcaption>Karta Warstwy: globalna przezroczystość, podkład i warstwy IGN według rubryk, każda z własną przezroczystością.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Długie naciśnięcie: co pokazują tu warstwy (las, status, gleba, nachylenie), deszcz z 7 dni, „Wzrost: mało korzystny” i „Idź tam”" loading="lazy"><figcaption>Długie naciśnięcie: co pokazują tu warstwy (las, status, gleba, nachylenie), deszcz z 7 dni, „Wzrost: mało korzystny” i „Idź tam”.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Strefa: 3 zdjęcia zrobione w tym samym miejscu, z „Zobacz zdjęcia” i „Prowadź mnie”" loading="lazy"><figcaption>Strefa: 3 zdjęcia zrobione w tym samym miejscu, z „Zobacz zdjęcia” i „Prowadź mnie”.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Warunki wzrostu znaleziska: wskaźnik 31 na 100, 4 kryteria (woda, moment deszczu, wilgotność i temperatura gleby), potem bonusy i kary miejsca" loading="lazy"><figcaption>Warunki wzrostu znaleziska: wskaźnik 31 na 100, 4 kryteria (woda, moment deszczu, wilgotność i temperatura gleby), potem bonusy i kary miejsca.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Ustawienia › Mapa i offline: podkład, przezroczystość warstw i warstwy według rubryk (las i roślinność, gleba i woda, rzeźba i nachylenia)" loading="lazy"><figcaption>Ustawienia › Mapa i offline: podkład, przezroczystość warstw i warstwy według rubryk (las i roślinność, gleba i woda, rzeźba i nachylenia).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="Faza księżyca (tu pierwszy sierp) i kolejne nowie i pełnie, wyłącznie informacyjnie" loading="lazy"><figcaption>Faza księżyca (tu pierwszy sierp) i kolejne nowie i pełnie, wyłącznie informacyjnie.</figcaption></figure>
+</div>
+
+### Czy to dobry moment na grzybobranie?
+
+SnapSpot analizuje pogodę z minionych i nadchodzących dni w danym miejscu: deszcz, wilgotność i temperaturę gleby, porę roku, siedlisko. Powstaje z tego **wskaźnik warunków wzrostu**, a na zgodnych iPhone'ach **Apple Intelligence pisze zrozumiałą interpretację**: czy warunki sprzyjają, dlaczego i kiedy wyruszyć ponownie.
+
+- **Napisane na Twoim iPhonie**: tekst tworzy sam iPhone, nic nie jest nigdzie wysyłane. Pobierane są tylko publiczne dane pogodowe.
+- **Ponów, posłuchaj, automatyczne czytanie**: inne sformułowanie jednym dotknięciem lub czytanie na głos.
+- **Orientacyjnie, nigdy jako obietnica**: pomoc w wyborze miejsca i czasu poszukiwań, bez mówienia, czy grzyb jest jadalny.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="Wskaźnik wzrostu i interpretacja napisana przez Apple Intelligence: „Zbiór zapowiada się dziś obiecująco… poczekaj na idealne okno zapowiadane za 7 dni”." loading="lazy"><figcaption>Wskaźnik wzrostu i interpretacja napisana przez Apple Intelligence: „Zbiór zapowiada się dziś obiecująco… poczekaj na idealne okno zapowiadane za 7 dni”.</figcaption></figure>
+</div>
 
 ## Rozpoznawać, modelem stworzonym dla grzybów
 
@@ -82,39 +124,6 @@ a następnie tworzy miejsce.*
 > daj go do sprawdzenia farmaceucie lub towarzystwu mykologicznemu.
 
 
-## Rozpoznać teren i odnaleźć swoje miejsca
-
-Mapy IGN pobiera się z wyprzedzeniem: zdjęcia lotnicze, plan, rzeźba terenu, mapa leśna, lasy publiczne, lasy
-dawne, kataster, nachylenia, hydrografia, warstwice, geologia. Długie przytrzymanie na mapie pokazuje, co przedstawia
-warstwa w tym miejscu.
-
-- **Mapa gleb (INRAE)** obok warstw leśnych: typ gleby wraz z legendą odczytasz długim naciśnięciem.
-- **Każda warstwa ma własną przezroczystość**, a globalny suwak pozwala zobaczyć zdjęcie satelitarne przez nie.
-
-<div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="Karta Warstwy: globalna przezroczystość, podkład i warstwy IGN według rubryk, każda z własną przezroczystością" loading="lazy"><figcaption>Karta Warstwy: globalna przezroczystość, podkład i warstwy IGN według rubryk, każda z własną przezroczystością.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Długie naciśnięcie: co pokazują tu warstwy (las, status, gleba, nachylenie), deszcz z 7 dni, „Wzrost: mało korzystny” i „Idź tam”" loading="lazy"><figcaption>Długie naciśnięcie: co pokazują tu warstwy (las, status, gleba, nachylenie), deszcz z 7 dni, „Wzrost: mało korzystny” i „Idź tam”.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="Strefa: 3 zdjęcia zrobione w tym samym miejscu, z „Zobacz zdjęcia” i „Prowadź mnie”" loading="lazy"><figcaption>Strefa: 3 zdjęcia zrobione w tym samym miejscu, z „Zobacz zdjęcia” i „Prowadź mnie”.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Warunki wzrostu znaleziska: wskaźnik 31 na 100, 4 kryteria (woda, moment deszczu, wilgotność i temperatura gleby), potem bonusy i kary miejsca" loading="lazy"><figcaption>Warunki wzrostu znaleziska: wskaźnik 31 na 100, 4 kryteria (woda, moment deszczu, wilgotność i temperatura gleby), potem bonusy i kary miejsca.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Ustawienia › Mapa i offline: podkład, przezroczystość warstw i warstwy według rubryk (las i roślinność, gleba i woda, rzeźba i nachylenia)" loading="lazy"><figcaption>Ustawienia › Mapa i offline: podkład, przezroczystość warstw i warstwy według rubryk (las i roślinność, gleba i woda, rzeźba i nachylenia).</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="Faza księżyca (tu pierwszy sierp) i kolejne nowie i pełnie, wyłącznie informacyjnie" loading="lazy"><figcaption>Faza księżyca (tu pierwszy sierp) i kolejne nowie i pełnie, wyłącznie informacyjnie.</figcaption></figure>
-</div>
-
-## Czy to dobry moment na grzybobranie?
-
-SnapSpot analizuje pogodę z minionych i nadchodzących dni w danym miejscu: deszcz, wilgotność i temperaturę gleby, porę roku, siedlisko. Powstaje z tego **wskaźnik warunków wzrostu**, a na zgodnych iPhone'ach **Apple Intelligence pisze zrozumiałą interpretację**: czy warunki sprzyjają, dlaczego i kiedy wyruszyć ponownie.
-
-- **Napisane na Twoim iPhonie**: tekst tworzy sam iPhone, nic nie jest nigdzie wysyłane. Pobierane są tylko publiczne dane pogodowe.
-- **Ponów, posłuchaj, automatyczne czytanie**: inne sformułowanie jednym dotknięciem lub czytanie na głos.
-- **Orientacyjnie, nigdy jako obietnica**: pomoc w wyborze miejsca i czasu poszukiwań, bez mówienia, czy grzyb jest jadalny.
-
-<div class="shots one">
-<figure><img src="../images/indice-pousse-ia.jpg" alt="Wskaźnik wzrostu i interpretacja napisana przez Apple Intelligence: „Zbiór zapowiada się dziś obiecująco… poczekaj na idealne okno zapowiadane za 7 dni”." loading="lazy"><figcaption>Wskaźnik wzrostu i interpretacja napisana przez Apple Intelligence: „Zbiór zapowiada się dziś obiecująco… poczekaj na idealne okno zapowiadane za 7 dni”.</figcaption></figure>
-</div>
-
 ## Zapamiętywać znaleziska
 
 Każde zdjęcie z lokalizacją staje się miejscem. Przeglądaj je w siatce lub na liście, filtruj według okresu, gatunku, roku lub jadalności, grupuj zdjęcia tego samego grzyba, stawiaj znaczniki (samochód, źródło wody, szałas, wyjątkowe drzewo, punkt widokowy) i dodawaj zdjęcia z biblioteki, z albumu lub z innego iPhone'a. Każde zdjęcie zachowuje swoje miejsce, datę, pogodę z poprzednich dni i orientacyjny wskaźnik warunków wzrostu.
@@ -123,6 +132,27 @@ Każde zdjęcie z lokalizacją staje się miejscem. Przeglądaj je w siatce lub 
 <figure><img src="../images/cueillettes-liste.jpg" alt="Lista: zdjęcie, data, miejsce, gatunek i jadalność każdego znaleziska" loading="lazy"><figcaption>Lista: zdjęcie, data, miejsce, gatunek i jadalność każdego znaleziska.</figcaption></figure>
 <figure><img src="../images/cueillettes-plus.jpg" alt="Więcej działań: dodawanie zdjęć (aparat, biblioteka, album, inny iPhone) i porządkowanie (duplikaty, zdjęcia bez grzyba)" loading="lazy"><figcaption>Więcej działań: dodawanie zdjęć (aparat, biblioteka, album, inny iPhone) i porządkowanie (duplikaty, zdjęcia bez grzyba).</figcaption></figure>
 <figure><img src="../images/carte-filtres.jpg" alt="Filtry mapy: okres, jadalność, gatunek i „Dopasuj mapę” do Twoich znalezisk" loading="lazy"><figcaption>Filtry mapy: okres, jadalność, gatunek i „Dopasuj mapę” do Twoich znalezisk.</figcaption></figure>
+</div>
+
+### Idź i twórz własne trasy
+
+- **Zapis GPS** Twoich spacerów: dystans, przewyższenie, prędkość, postoje i znaczniki, także przy zablokowanym ekranie.
+- **Własne trasy**: łącz swoje znaleziska lub stawiaj punkty na mapie, a SnapSpot poprowadzi Cię od punktu do punktu.
+- **Powrót do startu** w linii prostej, własnym śladem lub szlakami. Tylko „Szlakami” kontaktuje usługę tras IGN, z Twoją pozycją i celem, nigdy z Twoimi zdjęciami ani miejscami.
+- **Szuflada nagrywania**: czas, dystans, prędkość i znaczniki na pierwszy rzut oka, pauza, zatrzymanie i „Powrót na start” pod kciukiem.
+- **Wykrywanie samochodu**: jeśli zapomnisz zatrzymać nagrywanie w samochodzie, SnapSpot zaproponuje obcięcie końca śladu.
+- **Przypomnienie o zachodzie słońca**: alert, gdy czas wracać, by noc Cię nie zaskoczyła.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Wycieczki: Twoje ślady według daty, z podsumowaniem okresu i liczbą zdjęć każdego" loading="lazy"><figcaption>Wycieczki: Twoje ślady według daty, z podsumowaniem okresu i liczbą zdjęć każdego.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Wycieczka: ślad barwiony według prędkości, miniatury zrobionych zdjęć, liczby i profil" loading="lazy"><figcaption>Wycieczka: ślad barwiony według prędkości, miniatury zrobionych zdjęć, liczby i profil.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="Trwające nagrywanie: czas, dystans, prędkość, przewyższenie i „Powrót na start”" loading="lazy"><figcaption>Trwające nagrywanie: czas, dystans, prędkość, przewyższenie i „Powrót na start”.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Koniec wycieczki: zapisz, wznów nagrywanie lub usuń" loading="lazy"><figcaption>Koniec wycieczki: zapisz, wznów nagrywanie lub usuń.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Moje trasy: utwórz trasę, narysuj ją palcem lub zaimportuj plik .snapspot" loading="lazy"><figcaption>Moje trasy: utwórz trasę, narysuj ją palcem lub zaimportuj plik .snapspot.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Działania wycieczki: zmiana nazwy, notatka, przycinanie, łączenie GPX; powrót na start, podążanie po punktach, konwersja na trasę" loading="lazy"><figcaption>Działania wycieczki: zmiana nazwy, notatka, przycinanie, łączenie GPX; powrót na start, podążanie po punktach, konwersja na trasę.</figcaption></figure>
 </div>
 
 ## Wrócić do miejsca
@@ -158,27 +188,6 @@ kierunku, a głos może skorygować Twój kurs.
 
 *Zrzuty ekranu wykonane na danych demonstracyjnych.*
 
-
-## Idź i twórz własne trasy
-
-- **Zapis GPS** Twoich spacerów: dystans, przewyższenie, prędkość, postoje i znaczniki, także przy zablokowanym ekranie.
-- **Własne trasy**: łącz swoje znaleziska lub stawiaj punkty na mapie, a SnapSpot poprowadzi Cię od punktu do punktu.
-- **Powrót do startu** w linii prostej, własnym śladem lub szlakami. Tylko „Szlakami” kontaktuje usługę tras IGN, z Twoją pozycją i celem, nigdy z Twoimi zdjęciami ani miejscami.
-- **Szuflada nagrywania**: czas, dystans, prędkość i znaczniki na pierwszy rzut oka, pauza, zatrzymanie i „Powrót na start” pod kciukiem.
-- **Wykrywanie samochodu**: jeśli zapomnisz zatrzymać nagrywanie w samochodzie, SnapSpot zaproponuje obcięcie końca śladu.
-- **Przypomnienie o zachodzie słońca**: alert, gdy czas wracać, by noc Cię nie zaskoczyła.
-
-<div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Wycieczki: Twoje ślady według daty, z podsumowaniem okresu i liczbą zdjęć każdego" loading="lazy"><figcaption>Wycieczki: Twoje ślady według daty, z podsumowaniem okresu i liczbą zdjęć każdego.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="Wycieczka: ślad barwiony według prędkości, miniatury zrobionych zdjęć, liczby i profil" loading="lazy"><figcaption>Wycieczka: ślad barwiony według prędkości, miniatury zrobionych zdjęć, liczby i profil.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="Trwające nagrywanie: czas, dystans, prędkość, przewyższenie i „Powrót na start”" loading="lazy"><figcaption>Trwające nagrywanie: czas, dystans, prędkość, przewyższenie i „Powrót na start”.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Koniec wycieczki: zapisz, wznów nagrywanie lub usuń" loading="lazy"><figcaption>Koniec wycieczki: zapisz, wznów nagrywanie lub usuń.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Moje trasy: utwórz trasę, narysuj ją palcem lub zaimportuj plik .snapspot" loading="lazy"><figcaption>Moje trasy: utwórz trasę, narysuj ją palcem lub zaimportuj plik .snapspot.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Działania wycieczki: zmiana nazwy, notatka, przycinanie, łączenie GPX; powrót na start, podążanie po punktach, konwersja na trasę" loading="lazy"><figcaption>Działania wycieczki: zmiana nazwy, notatka, przycinanie, łączenie GPX; powrót na start, podążanie po punktach, konwersja na trasę.</figcaption></figure>
-</div>
 
 ## Wędrówki
 

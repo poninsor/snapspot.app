@@ -5,7 +5,7 @@ title: "SnapSpot : Champis & Randos"
 ---
 {% include langs.html %}
 
-# SnapSpot : Champis & Randos
+# SnapSpot : Champis & Randos {:.no_toc}
 
 <p class="hero">Vos coins. Vos cueillettes.<br>À vous seuls.</p>
 
@@ -25,7 +25,7 @@ cueilleur de champignons, pour iPhone. Même sans réseau.
 <li>Vos données restent sur l'iPhone</li>
 </ul>
 
-## Prospecter. Identifier. Mémoriser. Retrouver.
+## Prospecter. Identifier. Mémoriser. Retrouver. {:.no_toc}
 
 <div class="steps">
 <figure><img src="images/carte-ici.jpg" alt="Carte forestière IGN"><figcaption><b>1. Prospecter</b><br>Carte forestière, forêts publiques, carte des sols, pentes, relief, cadastre : les cartes IGN aident à repérer les milieux favorables. Un appui long dit ce que chaque couche montre ici ; téléchargez-les avant de partir.</figcaption></figure>
@@ -36,9 +36,51 @@ cueilleur de champignons, pour iPhone. Même sans réseau.
 
 *SnapSpot existe en mode clair et en mode sombre, et suit le réglage de votre iPhone : les captures de cette page alternent donc les deux.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Sommaire</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **SnapSpot n'est pas une carte de zones de cueillette.** Elle ne vous dit pas où aller : elle vous aide à
 prospecter, puis garde la mémoire de vos propres coins. Les champignons reviennent d'une année à l'autre, au même
 endroit et à la même période : les spots d'hier préparent la saison de demain.
+
+## Prospecter
+
+Les cartes IGN se téléchargent à l'avance : photographies aériennes, plan, relief, carte forestière, forêts publiques,
+forêts anciennes, cadastre, pentes, hydrographie, courbes de niveau, géologie. Un appui long sur la carte dit ce que
+montre la couche à cet endroit.
+
+- **Carte des sols (INRAE)** à côté des couches forestières : le type de sol, avec sa légende, se lit par un appui long.
+- **Chaque couche a sa propre transparence**, et un curseur global permet de voir la photo satellite à travers.
+
+<div class="shots">
+<figure><img src="images/carte-couches.jpg" alt="La feuille Couches : opacité globale, fond de carte, puis les couches IGN par rubrique, chacune avec sa transparence" loading="lazy"><figcaption>La feuille Couches : opacité globale, fond de carte, puis les couches IGN par rubrique, chacune avec sa transparence.</figcaption></figure>
+<figure><img src="images/carte-ici.jpg" alt="Un appui long : ce que montrent les couches ici (forêt, statut, sol, pente), la pluie sur 7 jours, « Pousse : peu favorable » et « Y aller »" loading="lazy"><figcaption>Un appui long : ce que montrent les couches ici (forêt, statut, sol, pente), la pluie sur 7 jours, « Pousse : peu favorable » et « Y aller ».</figcaption></figure>
+<figure><img src="images/carte-zone.jpg" alt="Une zone : les 3 photos prises au même endroit, avec « Voir les photos » et « Me guider »" loading="lazy"><figcaption>Une zone : les 3 photos prises au même endroit, avec « Voir les photos » et « Me guider ».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="images/photo-conditions-pousse.jpg" alt="Conditions de pousse d'une cueillette : indice 31 sur 100, les 4 critères (eau, moment de la pluie, humidité et température du sol), puis les bonus et malus du lieu" loading="lazy"><figcaption>Conditions de pousse d'une cueillette : indice 31 sur 100, les 4 critères (eau, moment de la pluie, humidité et température du sol), puis les bonus et malus du lieu.</figcaption></figure>
+<figure><img src="images/reglages-carte.jpg" alt="Réglages › Carte et hors ligne : fond de carte, opacité des couches, puis les couches par rubrique (forêt et végétation, sol et eau, relief et pentes)" loading="lazy"><figcaption>Réglages › Carte et hors ligne : fond de carte, opacité des couches, puis les couches par rubrique (forêt et végétation, sol et eau, relief et pentes).</figcaption></figure>
+<figure><img src="images/carte-lune.jpg" alt="La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif" loading="lazy"><figcaption>La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif.</figcaption></figure>
+</div>
+
+### Est-ce le bon moment pour cueillir ?
+
+SnapSpot analyse la météo des jours passés et à venir à l'endroit de la cueillette : pluie, humidité et température du sol, saison, milieu. Il en tire un **indice de conditions de pousse**, puis, sur les iPhone compatibles, **Apple Intelligence rédige une interprétation en français courant** : les conditions sont-elles propices, pourquoi, et quand ressortir.
+
+- **Écrit sur votre iPhone** : le texte est rédigé par l'iPhone lui-même, rien n'est envoyé nulle part. Seules les données météo publiques sont téléchargées.
+- **Relancer, écouter, lecture auto** : une autre formulation d'un appui, ou lecture à voix haute.
+- **Indicatif, jamais une promesse** : une aide pour choisir où et quand chercher, sans jamais dire si un champignon se mange.
+
+<div class="shots one">
+<figure><img src="images/indice-pousse-ia.jpg" alt="L'indice de pousse et son interprétation rédigée par Apple Intelligence : « La récolte est prometteuse aujourd'hui… attendre la fenêtre idéale prévue dans 7 jours »." loading="lazy"><figcaption>L'indice de pousse et son interprétation rédigée par Apple Intelligence : « La récolte est prometteuse aujourd'hui… attendre la fenêtre idéale prévue dans 7 jours ».</figcaption></figure>
+</div>
 
 ## Identifier, avec un modèle fait pour les champignons
 
@@ -83,39 +125,6 @@ crée le spot.*
 > l'app : faites-le vérifier par un pharmacien ou une association mycologique.
 
 
-## Prospecter et retrouver vos spots
-
-Les cartes IGN se téléchargent à l'avance : photographies aériennes, plan, relief, carte forestière, forêts publiques,
-forêts anciennes, cadastre, pentes, hydrographie, courbes de niveau, géologie. Un appui long sur la carte dit ce que
-montre la couche à cet endroit.
-
-- **Carte des sols (INRAE)** à côté des couches forestières : le type de sol, avec sa légende, se lit par un appui long.
-- **Chaque couche a sa propre transparence**, et un curseur global permet de voir la photo satellite à travers.
-
-<div class="shots">
-<figure><img src="images/carte-couches.jpg" alt="La feuille Couches : opacité globale, fond de carte, puis les couches IGN par rubrique, chacune avec sa transparence" loading="lazy"><figcaption>La feuille Couches : opacité globale, fond de carte, puis les couches IGN par rubrique, chacune avec sa transparence.</figcaption></figure>
-<figure><img src="images/carte-ici.jpg" alt="Un appui long : ce que montrent les couches ici (forêt, statut, sol, pente), la pluie sur 7 jours, « Pousse : peu favorable » et « Y aller »" loading="lazy"><figcaption>Un appui long : ce que montrent les couches ici (forêt, statut, sol, pente), la pluie sur 7 jours, « Pousse : peu favorable » et « Y aller ».</figcaption></figure>
-<figure><img src="images/carte-zone.jpg" alt="Une zone : les 3 photos prises au même endroit, avec « Voir les photos » et « Me guider »" loading="lazy"><figcaption>Une zone : les 3 photos prises au même endroit, avec « Voir les photos » et « Me guider ».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="images/photo-conditions-pousse.jpg" alt="Conditions de pousse d'une cueillette : indice 31 sur 100, les 4 critères (eau, moment de la pluie, humidité et température du sol), puis les bonus et malus du lieu" loading="lazy"><figcaption>Conditions de pousse d'une cueillette : indice 31 sur 100, les 4 critères (eau, moment de la pluie, humidité et température du sol), puis les bonus et malus du lieu.</figcaption></figure>
-<figure><img src="images/reglages-carte.jpg" alt="Réglages › Carte et hors ligne : fond de carte, opacité des couches, puis les couches par rubrique (forêt et végétation, sol et eau, relief et pentes)" loading="lazy"><figcaption>Réglages › Carte et hors ligne : fond de carte, opacité des couches, puis les couches par rubrique (forêt et végétation, sol et eau, relief et pentes).</figcaption></figure>
-<figure><img src="images/carte-lune.jpg" alt="La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif" loading="lazy"><figcaption>La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif.</figcaption></figure>
-</div>
-
-## Est-ce le bon moment pour cueillir ?
-
-SnapSpot analyse la météo des jours passés et à venir à l'endroit de la cueillette : pluie, humidité et température du sol, saison, milieu. Il en tire un **indice de conditions de pousse**, puis, sur les iPhone compatibles, **Apple Intelligence rédige une interprétation en français courant** : les conditions sont-elles propices, pourquoi, et quand ressortir.
-
-- **Écrit sur votre iPhone** : le texte est rédigé par l'iPhone lui-même, rien n'est envoyé nulle part. Seules les données météo publiques sont téléchargées.
-- **Relancer, écouter, lecture auto** : une autre formulation d'un appui, ou lecture à voix haute.
-- **Indicatif, jamais une promesse** : une aide pour choisir où et quand chercher, sans jamais dire si un champignon se mange.
-
-<div class="shots one">
-<figure><img src="images/indice-pousse-ia.jpg" alt="L'indice de pousse et son interprétation rédigée par Apple Intelligence : « La récolte est prometteuse aujourd'hui… attendre la fenêtre idéale prévue dans 7 jours »." loading="lazy"><figcaption>L'indice de pousse et son interprétation rédigée par Apple Intelligence : « La récolte est prometteuse aujourd'hui… attendre la fenêtre idéale prévue dans 7 jours ».</figcaption></figure>
-</div>
-
 ## Mémoriser vos cueillettes
 
 Chaque photo géolocalisée devient un spot. Parcourez-les en grille ou en liste, filtrez par période, espèce, année ou comestibilité, regroupez les photos d'un même champignon, posez des repères (voiture, point d'eau, cabane, arbre remarquable, panorama) et ajoutez des photos depuis votre photothèque, un album ou un autre iPhone. Chaque photo garde son lieu, sa date, la météo des jours précédents et un indice indicatif de conditions de pousse.
@@ -124,6 +133,27 @@ Chaque photo géolocalisée devient un spot. Parcourez-les en grille ou en liste
 <figure><img src="images/cueillettes-liste.jpg" alt="La liste : photo, date, lieu, espèce et comestibilité de chaque cueillette" loading="lazy"><figcaption>La liste : photo, date, lieu, espèce et comestibilité de chaque cueillette.</figcaption></figure>
 <figure><img src="images/cueillettes-plus.jpg" alt="Plus d'actions : ajouter des photos (appareil, photothèque, album, autre iPhone) et nettoyer (doublons, photos sans champignon)" loading="lazy"><figcaption>Plus d'actions : ajouter des photos (appareil, photothèque, album, autre iPhone) et nettoyer (doublons, photos sans champignon).</figcaption></figure>
 <figure><img src="images/carte-filtres.jpg" alt="Filtres de la carte : période, comestibilité, espèce, et « Cadrer la carte » sur vos cueillettes" loading="lazy"><figcaption>Filtres de la carte : période, comestibilité, espèce, et « Cadrer la carte » sur vos cueillettes.</figcaption></figure>
+</div>
+
+### Marcher et créer vos itinéraires
+
+- **Suivi GPS** de vos balades : distance, dénivelé, vitesse, pauses et repères, même écran verrouillé.
+- **Vos propres itinéraires** : enchaînez vos cueillettes ou posez des points sur la carte, SnapSpot vous guide de point en point.
+- **Retour au départ** en ligne droite, par votre trajet ou par les sentiers. Seul « Par les sentiers » contacte le service d'itinéraires de l'IGN, avec votre position et la destination, jamais vos photos ni vos spots.
+- **Tiroir d'enregistrement** : durée, distance, vitesse et repères d'un coup d'œil, pause, arrêt et « Retour au départ » sous le pouce.
+- **Détection de la voiture** : si vous oubliez d'arrêter l'enregistrement en voiture, SnapSpot propose de couper la fin du parcours.
+- **Rappel du coucher du soleil** : une alerte quand il est temps de rentrer, pour ne pas être surpris par la nuit.
+
+<div class="shots">
+<figure><img src="images/balades-parcours.jpg" alt="Balades : vos parcours par date, avec le bilan de la période et le nombre de photos de chacun" loading="lazy"><figcaption>Balades : vos parcours par date, avec le bilan de la période et le nombre de photos de chacun.</figcaption></figure>
+<figure><img src="images/balade-detail.jpg" alt="Une balade : tracé coloré selon la vitesse, miniatures des photos prises, chiffres et profil" loading="lazy"><figcaption>Une balade : tracé coloré selon la vitesse, miniatures des photos prises, chiffres et profil.</figcaption></figure>
+<figure><img src="images/enregistrement-detaille.jpg" alt="L'enregistrement en cours : durée, distance, vitesse, dénivelé, et « Retour au départ »" loading="lazy"><figcaption>L'enregistrement en cours : durée, distance, vitesse, dénivelé, et « Retour au départ ».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="images/fin-de-parcours.jpg" alt="Fin d'une balade : enregistrer, reprendre l'enregistrement ou supprimer" loading="lazy"><figcaption>Fin d'une balade : enregistrer, reprendre l'enregistrement ou supprimer.</figcaption></figure>
+<figure><img src="images/balades-mes-itineraires.jpg" alt="Mes itinéraires : créer un itinéraire, le dessiner au doigt ou importer un fichier .snapspot" loading="lazy"><figcaption>Mes itinéraires : créer un itinéraire, le dessiner au doigt ou importer un fichier .snapspot.</figcaption></figure>
+<figure><img src="images/balade-actions.jpg" alt="Actions d'une balade : renommer, annoter, recadrer, fusionner un GPX ; retourner au départ, suivre en points, convertir en itinéraire" loading="lazy"><figcaption>Actions d'une balade : renommer, annoter, recadrer, fusionner un GPX ; retourner au départ, suivre en points, convertir en itinéraire.</figcaption></figure>
 </div>
 
 ## Retrouver un spot
@@ -159,27 +189,6 @@ direction, et une voix peut vous corriger le cap.
 
 *Captures réalisées avec des données de démonstration.*
 
-
-## Marcher et créer vos itinéraires
-
-- **Suivi GPS** de vos balades : distance, dénivelé, vitesse, pauses et repères, même écran verrouillé.
-- **Vos propres itinéraires** : enchaînez vos cueillettes ou posez des points sur la carte, SnapSpot vous guide de point en point.
-- **Retour au départ** en ligne droite, par votre trajet ou par les sentiers. Seul « Par les sentiers » contacte le service d'itinéraires de l'IGN, avec votre position et la destination, jamais vos photos ni vos spots.
-- **Tiroir d'enregistrement** : durée, distance, vitesse et repères d'un coup d'œil, pause, arrêt et « Retour au départ » sous le pouce.
-- **Détection de la voiture** : si vous oubliez d'arrêter l'enregistrement en voiture, SnapSpot propose de couper la fin du parcours.
-- **Rappel du coucher du soleil** : une alerte quand il est temps de rentrer, pour ne pas être surpris par la nuit.
-
-<div class="shots">
-<figure><img src="images/balades-parcours.jpg" alt="Balades : vos parcours par date, avec le bilan de la période et le nombre de photos de chacun" loading="lazy"><figcaption>Balades : vos parcours par date, avec le bilan de la période et le nombre de photos de chacun.</figcaption></figure>
-<figure><img src="images/balade-detail.jpg" alt="Une balade : tracé coloré selon la vitesse, miniatures des photos prises, chiffres et profil" loading="lazy"><figcaption>Une balade : tracé coloré selon la vitesse, miniatures des photos prises, chiffres et profil.</figcaption></figure>
-<figure><img src="images/enregistrement-detaille.jpg" alt="L'enregistrement en cours : durée, distance, vitesse, dénivelé, et « Retour au départ »" loading="lazy"><figcaption>L'enregistrement en cours : durée, distance, vitesse, dénivelé, et « Retour au départ ».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="images/fin-de-parcours.jpg" alt="Fin d'une balade : enregistrer, reprendre l'enregistrement ou supprimer" loading="lazy"><figcaption>Fin d'une balade : enregistrer, reprendre l'enregistrement ou supprimer.</figcaption></figure>
-<figure><img src="images/balades-mes-itineraires.jpg" alt="Mes itinéraires : créer un itinéraire, le dessiner au doigt ou importer un fichier .snapspot" loading="lazy"><figcaption>Mes itinéraires : créer un itinéraire, le dessiner au doigt ou importer un fichier .snapspot.</figcaption></figure>
-<figure><img src="images/balade-actions.jpg" alt="Actions d'une balade : renommer, annoter, recadrer, fusionner un GPX ; retourner au départ, suivre en points, convertir en itinéraire" loading="lazy"><figcaption>Actions d'une balade : renommer, annoter, recadrer, fusionner un GPX ; retourner au départ, suivre en points, convertir en itinéraire.</figcaption></figure>
-</div>
 
 ## Randonnées
 

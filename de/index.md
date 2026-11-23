@@ -5,7 +5,7 @@ title: "SnapSpot: Pilze & Wandern"
 ---
 {% include langs.html %}
 
-# SnapSpot: Pilze & Wandern
+# SnapSpot: Pilze & Wandern {:.no_toc}
 
 <p class="hero">Ihre Plätze. Ihre Funde.<br>Nur für Sie.</p>
 
@@ -25,7 +25,7 @@ Pilzsammler, für das iPhone. Auch ohne Netz.
 <li>Ihre Daten bleiben auf dem iPhone</li>
 </ul>
 
-## Erkunden. Bestimmen. Merken. Wiederfinden.
+## Erkunden. Bestimmen. Merken. Wiederfinden. {:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Waldkarte IGN"><figcaption><b>1. Erkunden</b><br>Waldkarte, öffentliche Wälder, Bodenkarte, Hangneigung, Relief, Kataster: Die IGN-Karten helfen, günstige Lebensräume zu erkennen. Ein langer Druck zeigt, was jede Ebene hier zeigt; laden Sie sie vor dem Aufbruch herunter.</figcaption></figure>
@@ -36,9 +36,51 @@ Pilzsammler, für das iPhone. Auch ohne Netz.
 
 *SnapSpot gibt es im hellen und im dunklen Modus und folgt der Einstellung Ihres iPhones. Die Screenshots auf dieser Seite wechseln deshalb zwischen beiden.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Inhalt</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **SnapSpot ist keine Karte von Sammelgebieten.** Die App sagt Ihnen nicht, wohin Sie gehen sollen: Sie hilft beim
 Erkunden und bewahrt dann die Erinnerung an Ihre eigenen Plätze. Pilze kehren Jahr für Jahr zurück, an dieselbe
 Stelle zur selben Zeit: Die Spots von gestern bereiten die Saison von morgen vor.
+
+## Erkunden
+
+Die IGN-Karten werden im Voraus heruntergeladen: Luftbilder, Plan, Relief, Waldkarte, öffentliche Wälder, alte
+Wälder, Kataster, Hangneigung, Gewässer, Höhenlinien, Geologie. Ein langer Druck auf die Karte zeigt, was die Ebene an
+dieser Stelle darstellt.
+
+- **Bodenkarte (INRAE)** neben den Waldebenen: Der Bodentyp lässt sich samt Legende mit einem langen Druck ablesen.
+- **Jede Ebene hat ihre eigene Transparenz**, und ein globaler Regler lässt das Satellitenbild durchscheinen.
+
+<div class="shots">
+<figure><img src="../images/carte-couches.jpg" alt="Das Blatt Ebenen: globale Deckkraft, Kartenhintergrund, dann die IGN-Ebenen nach Rubrik, jede mit eigener Transparenz" loading="lazy"><figcaption>Das Blatt Ebenen: globale Deckkraft, Kartenhintergrund, dann die IGN-Ebenen nach Rubrik, jede mit eigener Transparenz.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Ein langer Druck: was die Ebenen hier zeigen (Wald, Status, Boden, Hang), Regen der letzten 7 Tage, „Wachstum: wenig günstig“ und „Hingehen“" loading="lazy"><figcaption>Ein langer Druck: was die Ebenen hier zeigen (Wald, Status, Boden, Hang), Regen der letzten 7 Tage, „Wachstum: wenig günstig“ und „Hingehen“.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Eine Zone: die 3 am selben Ort aufgenommenen Fotos, mit „Fotos ansehen“ und „Führe mich“" loading="lazy"><figcaption>Eine Zone: die 3 am selben Ort aufgenommenen Fotos, mit „Fotos ansehen“ und „Führe mich“.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Wuchsbedingungen eines Fundes: Index 31 von 100, die 4 Kriterien (Wasser, Zeitpunkt des Regens, Bodenfeuchte und -temperatur), dann Boni und Mali des Ortes" loading="lazy"><figcaption>Wuchsbedingungen eines Fundes: Index 31 von 100, die 4 Kriterien (Wasser, Zeitpunkt des Regens, Bodenfeuchte und -temperatur), dann Boni und Mali des Ortes.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Einstellungen › Karte und offline: Kartenhintergrund, Deckkraft der Ebenen, dann die Ebenen nach Rubrik (Wald und Vegetation, Boden und Wasser, Relief und Hänge)" loading="lazy"><figcaption>Einstellungen › Karte und offline: Kartenhintergrund, Deckkraft der Ebenen, dann die Ebenen nach Rubrik (Wald und Vegetation, Boden und Wasser, Relief und Hänge).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="Die Mondphase (hier die erste Sichel) und die nächsten Monde, nur zur Information" loading="lazy"><figcaption>Die Mondphase (hier die erste Sichel) und die nächsten Monde, nur zur Information.</figcaption></figure>
+</div>
+
+### Ist jetzt ein guter Zeitpunkt zum Sammeln?
+
+SnapSpot wertet das Wetter der vergangenen und kommenden Tage am Fundort aus: Regen, Bodenfeuchte und -temperatur, Jahreszeit, Lebensraum. Daraus entsteht ein **Wachstumsindex**, und auf kompatiblen iPhones **verfasst Apple Intelligence eine verständliche Einschätzung**: Sind die Bedingungen günstig, warum, und wann lohnt sich der nächste Ausflug.
+
+- **Auf Ihrem iPhone geschrieben**: Der Text entsteht auf dem iPhone selbst, nichts wird irgendwohin gesendet. Nur öffentliche Wetterdaten werden geladen.
+- **Neu formulieren, vorlesen, automatisch vorlesen**: eine andere Formulierung mit einem Tipp oder Vorlesen.
+- **Unverbindlich, nie ein Versprechen**: eine Hilfe, um zu entscheiden, wo und wann man sucht – ohne je zu sagen, ob ein Pilz essbar ist.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="Der Wachstumsindex und die von Apple Intelligence verfasste Einschätzung: „Die Ernte ist heute vielversprechend … warten Sie auf das in 7 Tagen vorhergesagte ideale Fenster“." loading="lazy"><figcaption>Der Wachstumsindex und die von Apple Intelligence verfasste Einschätzung: „Die Ernte ist heute vielversprechend … warten Sie auf das in 7 Tagen vorhergesagte ideale Fenster“.</figcaption></figure>
+</div>
 
 ## Bestimmen, mit einem Modell für Pilze
 
@@ -83,39 +125,6 @@ dann den Spot an.*
 > Grundlage der App: Lassen Sie ihn von einem Apotheker oder einem Pilzverein prüfen.
 
 
-## Erkunden und Ihre Spots wiederfinden
-
-Die IGN-Karten werden im Voraus heruntergeladen: Luftbilder, Plan, Relief, Waldkarte, öffentliche Wälder, alte
-Wälder, Kataster, Hangneigung, Gewässer, Höhenlinien, Geologie. Ein langer Druck auf die Karte zeigt, was die Ebene an
-dieser Stelle darstellt.
-
-- **Bodenkarte (INRAE)** neben den Waldebenen: Der Bodentyp lässt sich samt Legende mit einem langen Druck ablesen.
-- **Jede Ebene hat ihre eigene Transparenz**, und ein globaler Regler lässt das Satellitenbild durchscheinen.
-
-<div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="Das Blatt Ebenen: globale Deckkraft, Kartenhintergrund, dann die IGN-Ebenen nach Rubrik, jede mit eigener Transparenz" loading="lazy"><figcaption>Das Blatt Ebenen: globale Deckkraft, Kartenhintergrund, dann die IGN-Ebenen nach Rubrik, jede mit eigener Transparenz.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Ein langer Druck: was die Ebenen hier zeigen (Wald, Status, Boden, Hang), Regen der letzten 7 Tage, „Wachstum: wenig günstig“ und „Hingehen“" loading="lazy"><figcaption>Ein langer Druck: was die Ebenen hier zeigen (Wald, Status, Boden, Hang), Regen der letzten 7 Tage, „Wachstum: wenig günstig“ und „Hingehen“.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="Eine Zone: die 3 am selben Ort aufgenommenen Fotos, mit „Fotos ansehen“ und „Führe mich“" loading="lazy"><figcaption>Eine Zone: die 3 am selben Ort aufgenommenen Fotos, mit „Fotos ansehen“ und „Führe mich“.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Wuchsbedingungen eines Fundes: Index 31 von 100, die 4 Kriterien (Wasser, Zeitpunkt des Regens, Bodenfeuchte und -temperatur), dann Boni und Mali des Ortes" loading="lazy"><figcaption>Wuchsbedingungen eines Fundes: Index 31 von 100, die 4 Kriterien (Wasser, Zeitpunkt des Regens, Bodenfeuchte und -temperatur), dann Boni und Mali des Ortes.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Einstellungen › Karte und offline: Kartenhintergrund, Deckkraft der Ebenen, dann die Ebenen nach Rubrik (Wald und Vegetation, Boden und Wasser, Relief und Hänge)" loading="lazy"><figcaption>Einstellungen › Karte und offline: Kartenhintergrund, Deckkraft der Ebenen, dann die Ebenen nach Rubrik (Wald und Vegetation, Boden und Wasser, Relief und Hänge).</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="Die Mondphase (hier die erste Sichel) und die nächsten Monde, nur zur Information" loading="lazy"><figcaption>Die Mondphase (hier die erste Sichel) und die nächsten Monde, nur zur Information.</figcaption></figure>
-</div>
-
-## Ist jetzt ein guter Zeitpunkt zum Sammeln?
-
-SnapSpot wertet das Wetter der vergangenen und kommenden Tage am Fundort aus: Regen, Bodenfeuchte und -temperatur, Jahreszeit, Lebensraum. Daraus entsteht ein **Wachstumsindex**, und auf kompatiblen iPhones **verfasst Apple Intelligence eine verständliche Einschätzung**: Sind die Bedingungen günstig, warum, und wann lohnt sich der nächste Ausflug.
-
-- **Auf Ihrem iPhone geschrieben**: Der Text entsteht auf dem iPhone selbst, nichts wird irgendwohin gesendet. Nur öffentliche Wetterdaten werden geladen.
-- **Neu formulieren, vorlesen, automatisch vorlesen**: eine andere Formulierung mit einem Tipp oder Vorlesen.
-- **Unverbindlich, nie ein Versprechen**: eine Hilfe, um zu entscheiden, wo und wann man sucht – ohne je zu sagen, ob ein Pilz essbar ist.
-
-<div class="shots one">
-<figure><img src="../images/indice-pousse-ia.jpg" alt="Der Wachstumsindex und die von Apple Intelligence verfasste Einschätzung: „Die Ernte ist heute vielversprechend … warten Sie auf das in 7 Tagen vorhergesagte ideale Fenster“." loading="lazy"><figcaption>Der Wachstumsindex und die von Apple Intelligence verfasste Einschätzung: „Die Ernte ist heute vielversprechend … warten Sie auf das in 7 Tagen vorhergesagte ideale Fenster“.</figcaption></figure>
-</div>
-
 ## Ihre Funde festhalten
 
 Jedes Foto mit Standort wird zu einem Spot. Blättern Sie im Raster oder in der Liste, filtern Sie nach Zeitraum, Art, Jahr oder Essbarkeit, fassen Sie die Fotos desselben Pilzes zusammen, setzen Sie Markierungen (Auto, Wasserstelle, Hütte, markanter Baum, Aussichtspunkt) und fügen Sie Fotos aus Ihrer Mediathek, einem Album oder von einem anderen iPhone hinzu. Jedes Foto behält seinen Ort, sein Datum, das Wetter der Vortage und einen unverbindlichen Index der Wuchsbedingungen.
@@ -124,6 +133,27 @@ Jedes Foto mit Standort wird zu einem Spot. Blättern Sie im Raster oder in der 
 <figure><img src="../images/cueillettes-liste.jpg" alt="Die Liste: Foto, Datum, Ort, Art und Essbarkeit jedes Fundes" loading="lazy"><figcaption>Die Liste: Foto, Datum, Ort, Art und Essbarkeit jedes Fundes.</figcaption></figure>
 <figure><img src="../images/cueillettes-plus.jpg" alt="Weitere Aktionen: Fotos hinzufügen (Kamera, Mediathek, Album, anderes iPhone) und aufräumen (Duplikate, Fotos ohne Pilz)" loading="lazy"><figcaption>Weitere Aktionen: Fotos hinzufügen (Kamera, Mediathek, Album, anderes iPhone) und aufräumen (Duplikate, Fotos ohne Pilz).</figcaption></figure>
 <figure><img src="../images/carte-filtres.jpg" alt="Kartenfilter: Zeitraum, Essbarkeit, Art und „Karte einpassen“ auf Ihre Funde" loading="lazy"><figcaption>Kartenfilter: Zeitraum, Essbarkeit, Art und „Karte einpassen“ auf Ihre Funde.</figcaption></figure>
+</div>
+
+### Laufen und eigene Routen erstellen
+
+- **GPS-Aufzeichnung** Ihrer Touren: Strecke, Höhenmeter, Geschwindigkeit, Pausen und Markierungen, auch bei gesperrtem Bildschirm.
+- **Eigene Routen**: Verbinden Sie Ihre Funde oder setzen Sie Punkte auf der Karte, SnapSpot führt Sie von Punkt zu Punkt.
+- **Rückweg zum Start** in gerader Linie, über Ihre eigene Spur oder über Wege. Nur „Über Wege und Pfade“ kontaktiert den Routendienst des IGN, mit Ihrer Position und dem Ziel, nie mit Ihren Fotos oder Spots.
+- **Aufzeichnungs-Schublade**: Zeit, Strecke, Tempo und Markierungen auf einen Blick, Pause, Stopp und „Zurück zum Start“ unter dem Daumen.
+- **Autoerkennung**: Wenn Sie vergessen, die Aufzeichnung im Auto zu beenden, bietet SnapSpot an, das Ende der Tour abzuschneiden.
+- **Sonnenuntergangs-Erinnerung**: eine Meldung, wenn es Zeit ist, umzukehren, damit die Nacht Sie nicht überrascht.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Touren: Ihre Strecken nach Datum, mit der Bilanz des Zeitraums und der Fotoanzahl jeder Tour" loading="lazy"><figcaption>Touren: Ihre Strecken nach Datum, mit der Bilanz des Zeitraums und der Fotoanzahl jeder Tour.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Eine Tour: nach Tempo eingefärbte Strecke, Miniaturen der aufgenommenen Fotos, Kennzahlen und Profil" loading="lazy"><figcaption>Eine Tour: nach Tempo eingefärbte Strecke, Miniaturen der aufgenommenen Fotos, Kennzahlen und Profil.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="Die laufende Aufzeichnung: Zeit, Strecke, Tempo, Höhenmeter und „Zurück zum Start“" loading="lazy"><figcaption>Die laufende Aufzeichnung: Zeit, Strecke, Tempo, Höhenmeter und „Zurück zum Start“.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Ende einer Tour: speichern, Aufzeichnung fortsetzen oder löschen" loading="lazy"><figcaption>Ende einer Tour: speichern, Aufzeichnung fortsetzen oder löschen.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Meine Routen: eine Route erstellen, mit dem Finger zeichnen oder eine .snapspot-Datei importieren" loading="lazy"><figcaption>Meine Routen: eine Route erstellen, mit dem Finger zeichnen oder eine .snapspot-Datei importieren.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Aktionen einer Tour: umbenennen, kommentieren, zuschneiden, GPX zusammenführen; zurück zum Start, in Punkten folgen, in Route umwandeln" loading="lazy"><figcaption>Aktionen einer Tour: umbenennen, kommentieren, zuschneiden, GPX zusammenführen; zurück zum Start, in Punkten folgen, in Route umwandeln.</figcaption></figure>
 </div>
 
 ## Einen Spot wiederfinden
@@ -160,27 +190,6 @@ die Entfernung einzuschätzen.*
 
 *Bildschirmfotos mit Demonstrationsdaten.*
 
-
-## Laufen und eigene Routen erstellen
-
-- **GPS-Aufzeichnung** Ihrer Touren: Strecke, Höhenmeter, Geschwindigkeit, Pausen und Markierungen, auch bei gesperrtem Bildschirm.
-- **Eigene Routen**: Verbinden Sie Ihre Funde oder setzen Sie Punkte auf der Karte, SnapSpot führt Sie von Punkt zu Punkt.
-- **Rückweg zum Start** in gerader Linie, über Ihre eigene Spur oder über Wege. Nur „Über Wege und Pfade“ kontaktiert den Routendienst des IGN, mit Ihrer Position und dem Ziel, nie mit Ihren Fotos oder Spots.
-- **Aufzeichnungs-Schublade**: Zeit, Strecke, Tempo und Markierungen auf einen Blick, Pause, Stopp und „Zurück zum Start“ unter dem Daumen.
-- **Autoerkennung**: Wenn Sie vergessen, die Aufzeichnung im Auto zu beenden, bietet SnapSpot an, das Ende der Tour abzuschneiden.
-- **Sonnenuntergangs-Erinnerung**: eine Meldung, wenn es Zeit ist, umzukehren, damit die Nacht Sie nicht überrascht.
-
-<div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Touren: Ihre Strecken nach Datum, mit der Bilanz des Zeitraums und der Fotoanzahl jeder Tour" loading="lazy"><figcaption>Touren: Ihre Strecken nach Datum, mit der Bilanz des Zeitraums und der Fotoanzahl jeder Tour.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="Eine Tour: nach Tempo eingefärbte Strecke, Miniaturen der aufgenommenen Fotos, Kennzahlen und Profil" loading="lazy"><figcaption>Eine Tour: nach Tempo eingefärbte Strecke, Miniaturen der aufgenommenen Fotos, Kennzahlen und Profil.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="Die laufende Aufzeichnung: Zeit, Strecke, Tempo, Höhenmeter und „Zurück zum Start“" loading="lazy"><figcaption>Die laufende Aufzeichnung: Zeit, Strecke, Tempo, Höhenmeter und „Zurück zum Start“.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Ende einer Tour: speichern, Aufzeichnung fortsetzen oder löschen" loading="lazy"><figcaption>Ende einer Tour: speichern, Aufzeichnung fortsetzen oder löschen.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Meine Routen: eine Route erstellen, mit dem Finger zeichnen oder eine .snapspot-Datei importieren" loading="lazy"><figcaption>Meine Routen: eine Route erstellen, mit dem Finger zeichnen oder eine .snapspot-Datei importieren.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Aktionen einer Tour: umbenennen, kommentieren, zuschneiden, GPX zusammenführen; zurück zum Start, in Punkten folgen, in Route umwandeln" loading="lazy"><figcaption>Aktionen einer Tour: umbenennen, kommentieren, zuschneiden, GPX zusammenführen; zurück zum Start, in Punkten folgen, in Route umwandeln.</figcaption></figure>
-</div>
 
 ## Wanderungen
 

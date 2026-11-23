@@ -5,7 +5,7 @@ title: "SnapSpot: Cogumelos e Trilhos"
 ---
 {% include langs.html %}
 
-# SnapSpot: Cogumelos e Trilhos
+# SnapSpot: Cogumelos e Trilhos {:.no_toc}
 
 <p class="hero">Os seus cantinhos. As suas colheitas.<br>Só seus.</p>
 
@@ -25,7 +25,7 @@ apanhador de cogumelos, para iPhone. Mesmo sem rede.
 <li>Os seus dados ficam no iPhone</li>
 </ul>
 
-## Explorar. Identificar. Memorizar. Reencontrar.
+## Explorar. Identificar. Memorizar. Reencontrar. {:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Carta florestal IGN"><figcaption><b>1. Explorar</b><br>Carta florestal, florestas públicas, carta de solos, declives, relevo, cadastro: os mapas IGN ajudam a identificar os meios favoráveis. Um toque longo mostra o que cada camada indica aqui; descarregue-os antes de partir.</figcaption></figure>
@@ -36,9 +36,51 @@ apanhador de cogumelos, para iPhone. Mesmo sem rede.
 
 *O SnapSpot existe em modo claro e em modo escuro e segue a definição do iPhone: por isso as capturas desta página alternam os dois.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Índice</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **O SnapSpot não é um mapa de zonas de colheita.** Não lhe diz para onde ir: ajuda-o a explorar e depois guarda a
 memória dos seus próprios cantinhos. Os cogumelos voltam de ano para ano, no mesmo sítio e na mesma época: os spots
 de ontem preparam a estação de amanhã.
+
+## Explorar
+
+As cartas do IGN descarregam-se com antecedência: fotografias aéreas, plano, relevo, carta florestal, florestas
+públicas, florestas antigas, cadastro, declives, hidrografia, curvas de nível, geologia. Um toque longo no mapa diz o
+que a camada mostra nesse local.
+
+- **Carta de solos (INRAE)** junto das camadas florestais: o tipo de solo, com a sua legenda, lê-se com um toque longo.
+- **Cada camada tem a sua própria transparência**, e um controlo global deixa ver a fotografia de satélite através delas.
+
+<div class="shots">
+<figure><img src="../images/carte-couches.jpg" alt="A ficha Camadas: opacidade global, mapa de fundo e camadas IGN por rubrica, cada uma com a sua transparência" loading="lazy"><figcaption>A ficha Camadas: opacidade global, mapa de fundo e camadas IGN por rubrica, cada uma com a sua transparência.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Um toque longo: o que as camadas mostram aqui (floresta, estatuto, solo, declive), a chuva de 7 dias, «Crescimento: pouco favorável» e «Ir»" loading="lazy"><figcaption>Um toque longo: o que as camadas mostram aqui (floresta, estatuto, solo, declive), a chuva de 7 dias, «Crescimento: pouco favorável» e «Ir».</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="Uma zona: as 3 fotografias tiradas no mesmo sítio, com «Ver as fotografias» e «Guia-me»" loading="lazy"><figcaption>Uma zona: as 3 fotografias tiradas no mesmo sítio, com «Ver as fotografias» e «Guia-me».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Condições de crescimento de um achado: índice 31 em 100, os 4 critérios (água, momento da chuva, humidade e temperatura do solo) e os bónus e penalizações do local" loading="lazy"><figcaption>Condições de crescimento de um achado: índice 31 em 100, os 4 critérios (água, momento da chuva, humidade e temperatura do solo) e os bónus e penalizações do local.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Definições › Mapa e offline: mapa de fundo, opacidade das camadas e camadas por rubrica (floresta e vegetação, solo e água, relevo e declives)" loading="lazy"><figcaption>Definições › Mapa e offline: mapa de fundo, opacidade das camadas e camadas por rubrica (floresta e vegetação, solo e água, relevo e declives).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo" loading="lazy"><figcaption>A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo.</figcaption></figure>
+</div>
+
+### É boa altura para ir apanhar cogumelos?
+
+O SnapSpot analisa o tempo dos dias passados e seguintes no local: chuva, humidade e temperatura do solo, estação, habitat. Daí sai um **índice de condições de crescimento** e, nos iPhone compatíveis, **a Apple Intelligence escreve uma interpretação em linguagem simples**: as condições são favoráveis, porquê, e quando voltar a sair.
+
+- **Escrito no seu iPhone**: o texto é escrito pelo próprio iPhone, nada é enviado. Só se descarregam dados meteorológicos públicos.
+- **Regenerar, ouvir, leitura automática**: outra formulação com um toque, ou leitura em voz alta.
+- **Indicativo, nunca uma promessa**: uma ajuda para escolher onde e quando procurar, sem nunca dizer se um cogumelo é comestível.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="O índice de crescimento e a sua interpretação escrita pela Apple Intelligence: «A colheita é promissora hoje… espere pela janela ideal prevista dentro de 7 dias»." loading="lazy"><figcaption>O índice de crescimento e a sua interpretação escrita pela Apple Intelligence: «A colheita é promissora hoje… espere pela janela ideal prevista dentro de 7 dias».</figcaption></figure>
+</div>
 
 ## Identificar, com um modelo feito para cogumelos
 
@@ -83,39 +125,6 @@ spot.*
 > mande-o verificar por um farmacêutico ou por uma associação micológica.
 
 
-## Explorar e reencontrar os seus spots
-
-As cartas do IGN descarregam-se com antecedência: fotografias aéreas, plano, relevo, carta florestal, florestas
-públicas, florestas antigas, cadastro, declives, hidrografia, curvas de nível, geologia. Um toque longo no mapa diz o
-que a camada mostra nesse local.
-
-- **Carta de solos (INRAE)** junto das camadas florestais: o tipo de solo, com a sua legenda, lê-se com um toque longo.
-- **Cada camada tem a sua própria transparência**, e um controlo global deixa ver a fotografia de satélite através delas.
-
-<div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="A ficha Camadas: opacidade global, mapa de fundo e camadas IGN por rubrica, cada uma com a sua transparência" loading="lazy"><figcaption>A ficha Camadas: opacidade global, mapa de fundo e camadas IGN por rubrica, cada uma com a sua transparência.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Um toque longo: o que as camadas mostram aqui (floresta, estatuto, solo, declive), a chuva de 7 dias, «Crescimento: pouco favorável» e «Ir»" loading="lazy"><figcaption>Um toque longo: o que as camadas mostram aqui (floresta, estatuto, solo, declive), a chuva de 7 dias, «Crescimento: pouco favorável» e «Ir».</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="Uma zona: as 3 fotografias tiradas no mesmo sítio, com «Ver as fotografias» e «Guia-me»" loading="lazy"><figcaption>Uma zona: as 3 fotografias tiradas no mesmo sítio, com «Ver as fotografias» e «Guia-me».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Condições de crescimento de um achado: índice 31 em 100, os 4 critérios (água, momento da chuva, humidade e temperatura do solo) e os bónus e penalizações do local" loading="lazy"><figcaption>Condições de crescimento de um achado: índice 31 em 100, os 4 critérios (água, momento da chuva, humidade e temperatura do solo) e os bónus e penalizações do local.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Definições › Mapa e offline: mapa de fundo, opacidade das camadas e camadas por rubrica (floresta e vegetação, solo e água, relevo e declives)" loading="lazy"><figcaption>Definições › Mapa e offline: mapa de fundo, opacidade das camadas e camadas por rubrica (floresta e vegetação, solo e água, relevo e declives).</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo" loading="lazy"><figcaption>A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo.</figcaption></figure>
-</div>
-
-## É boa altura para ir apanhar cogumelos?
-
-O SnapSpot analisa o tempo dos dias passados e seguintes no local: chuva, humidade e temperatura do solo, estação, habitat. Daí sai um **índice de condições de crescimento** e, nos iPhone compatíveis, **a Apple Intelligence escreve uma interpretação em linguagem simples**: as condições são favoráveis, porquê, e quando voltar a sair.
-
-- **Escrito no seu iPhone**: o texto é escrito pelo próprio iPhone, nada é enviado. Só se descarregam dados meteorológicos públicos.
-- **Regenerar, ouvir, leitura automática**: outra formulação com um toque, ou leitura em voz alta.
-- **Indicativo, nunca uma promessa**: uma ajuda para escolher onde e quando procurar, sem nunca dizer se um cogumelo é comestível.
-
-<div class="shots one">
-<figure><img src="../images/indice-pousse-ia.jpg" alt="O índice de crescimento e a sua interpretação escrita pela Apple Intelligence: «A colheita é promissora hoje… espere pela janela ideal prevista dentro de 7 dias»." loading="lazy"><figcaption>O índice de crescimento e a sua interpretação escrita pela Apple Intelligence: «A colheita é promissora hoje… espere pela janela ideal prevista dentro de 7 dias».</figcaption></figure>
-</div>
-
 ## Memorizar os seus achados
 
 Cada fotografia com localização torna-se um spot. Percorra-os em grelha ou em lista, filtre por período, espécie, ano ou comestibilidade, agrupe as fotografias do mesmo cogumelo, coloque marcadores (carro, ponto de água, cabana, árvore notável, miradouro) e junte fotografias da sua fototeca, de um álbum ou de outro iPhone. Cada fotografia guarda o seu local, a sua data, o tempo dos dias anteriores e um índice indicativo das condições de crescimento.
@@ -124,6 +133,27 @@ Cada fotografia com localização torna-se um spot. Percorra-os em grelha ou em 
 <figure><img src="../images/cueillettes-liste.jpg" alt="A lista: fotografia, data, local, espécie e comestibilidade de cada achado" loading="lazy"><figcaption>A lista: fotografia, data, local, espécie e comestibilidade de cada achado.</figcaption></figure>
 <figure><img src="../images/cueillettes-plus.jpg" alt="Mais ações: juntar fotografias (câmara, fototeca, álbum, outro iPhone) e arrumar (duplicados, fotografias sem cogumelo)" loading="lazy"><figcaption>Mais ações: juntar fotografias (câmara, fototeca, álbum, outro iPhone) e arrumar (duplicados, fotografias sem cogumelo).</figcaption></figure>
 <figure><img src="../images/carte-filtres.jpg" alt="Filtros do mapa: período, comestibilidade, espécie e «Enquadrar o mapa» nos seus achados" loading="lazy"><figcaption>Filtros do mapa: período, comestibilidade, espécie e «Enquadrar o mapa» nos seus achados.</figcaption></figure>
+</div>
+
+### Caminhar e criar os seus percursos
+
+- **Registo GPS** das suas caminhadas: distância, desnível, velocidade, pausas e marcadores, mesmo com o ecrã bloqueado.
+- **Os seus próprios percursos**: encadeie os seus achados ou coloque pontos no mapa, e o SnapSpot guia-o de ponto em ponto.
+- **Regresso ao início** em linha reta, pelo seu percurso ou pelos trilhos. Apenas «Pelos trilhos» contacta o serviço de itinerários do IGN, com a sua posição e o destino, nunca as suas fotografias nem os seus spots.
+- **Gaveta de gravação**: tempo, distância, velocidade e marcadores de relance, pausa, paragem e «Regresso à partida» ao alcance do polegar.
+- **Deteção do carro**: se se esquecer de parar a gravação no carro, o SnapSpot propõe cortar o fim do percurso.
+- **Aviso do pôr do sol**: um alerta quando é hora de regressar, para que a noite não o surpreenda.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Passeios: os seus percursos por data, com o balanço do período e o número de fotografias de cada um" loading="lazy"><figcaption>Passeios: os seus percursos por data, com o balanço do período e o número de fotografias de cada um.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="Um passeio: percurso colorido pela velocidade, miniaturas das fotografias tiradas, números e perfil" loading="lazy"><figcaption>Um passeio: percurso colorido pela velocidade, miniaturas das fotografias tiradas, números e perfil.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="A gravação em curso: tempo, distância, velocidade, desnível e «Regresso à partida»" loading="lazy"><figcaption>A gravação em curso: tempo, distância, velocidade, desnível e «Regresso à partida».</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Fim de um passeio: guardar, retomar a gravação ou eliminar" loading="lazy"><figcaption>Fim de um passeio: guardar, retomar a gravação ou eliminar.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Os meus itinerários: criar um itinerário, desenhá-lo com o dedo ou importar um ficheiro .snapspot" loading="lazy"><figcaption>Os meus itinerários: criar um itinerário, desenhá-lo com o dedo ou importar um ficheiro .snapspot.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Ações de um passeio: mudar o nome, anotar, recortar, fundir um GPX; regressar à partida, seguir por pontos, converter em itinerário" loading="lazy"><figcaption>Ações de um passeio: mudar o nome, anotar, recortar, fundir um GPX; regressar à partida, seguir por pontos, converter em itinerário.</figcaption></figure>
 </div>
 
 ## Reencontrar um spot
@@ -159,27 +189,6 @@ corrigir-lhe o rumo.
 
 *Capturas de ecrã realizadas com dados de demonstração.*
 
-
-## Caminhar e criar os seus percursos
-
-- **Registo GPS** das suas caminhadas: distância, desnível, velocidade, pausas e marcadores, mesmo com o ecrã bloqueado.
-- **Os seus próprios percursos**: encadeie os seus achados ou coloque pontos no mapa, e o SnapSpot guia-o de ponto em ponto.
-- **Regresso ao início** em linha reta, pelo seu percurso ou pelos trilhos. Apenas «Pelos trilhos» contacta o serviço de itinerários do IGN, com a sua posição e o destino, nunca as suas fotografias nem os seus spots.
-- **Gaveta de gravação**: tempo, distância, velocidade e marcadores de relance, pausa, paragem e «Regresso à partida» ao alcance do polegar.
-- **Deteção do carro**: se se esquecer de parar a gravação no carro, o SnapSpot propõe cortar o fim do percurso.
-- **Aviso do pôr do sol**: um alerta quando é hora de regressar, para que a noite não o surpreenda.
-
-<div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Passeios: os seus percursos por data, com o balanço do período e o número de fotografias de cada um" loading="lazy"><figcaption>Passeios: os seus percursos por data, com o balanço do período e o número de fotografias de cada um.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="Um passeio: percurso colorido pela velocidade, miniaturas das fotografias tiradas, números e perfil" loading="lazy"><figcaption>Um passeio: percurso colorido pela velocidade, miniaturas das fotografias tiradas, números e perfil.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="A gravação em curso: tempo, distância, velocidade, desnível e «Regresso à partida»" loading="lazy"><figcaption>A gravação em curso: tempo, distância, velocidade, desnível e «Regresso à partida».</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Fim de um passeio: guardar, retomar a gravação ou eliminar" loading="lazy"><figcaption>Fim de um passeio: guardar, retomar a gravação ou eliminar.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Os meus itinerários: criar um itinerário, desenhá-lo com o dedo ou importar um ficheiro .snapspot" loading="lazy"><figcaption>Os meus itinerários: criar um itinerário, desenhá-lo com o dedo ou importar um ficheiro .snapspot.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Ações de um passeio: mudar o nome, anotar, recortar, fundir um GPX; regressar à partida, seguir por pontos, converter em itinerário" loading="lazy"><figcaption>Ações de um passeio: mudar o nome, anotar, recortar, fundir um GPX; regressar à partida, seguir por pontos, converter em itinerário.</figcaption></figure>
-</div>
 
 ## Caminhadas
 

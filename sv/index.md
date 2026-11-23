@@ -5,7 +5,7 @@ title: "SnapSpot: Svamp & Vandring"
 ---
 {% include langs.html %}
 
-# SnapSpot: Svamp & Vandring
+# SnapSpot: Svamp & Vandring {:.no_toc}
 
 <p class="hero">Dina ställen. Dina fynd.<br>Bara dina.</p>
 
@@ -25,7 +25,7 @@ fält, för iPhone. Även utan nät.
 <li>Dina data stannar på din iPhone</li>
 </ul>
 
-## Utforska. Bestäm. Minnas. Hitta tillbaka.
+## Utforska. Bestäm. Minnas. Hitta tillbaka. {:.no_toc}
 
 <div class="steps">
 <figure><img src="../images/carte-ici.jpg" alt="Skogskarta IGN"><figcaption><b>1. Utforska</b><br>Skogskarta, offentliga skogar, jordartskarta, lutningar, relief, fastighetskarta: IGN-kartorna hjälper dig att hitta gynnsamma miljöer. Ett långt tryck visar vad varje lager visar här; ladda ner dem innan du går.</figcaption></figure>
@@ -36,9 +36,51 @@ fält, för iPhone. Även utan nät.
 
 *SnapSpot finns i ljust och mörkt läge och följer iPhones inställning, så skärmbilderna på den här sidan växlar mellan de två.*
 
+<nav class="toc" markdown="1">
+
+<p class="toc-title">Innehåll</p>
+
+* TOC
+{:toc}
+
+</nav>
+
 **SnapSpot är ingen karta över plockområden.** Appen talar inte om var du ska gå: den hjälper dig att utforska och
 bevarar sedan minnet av dina egna ställen. Svampen kommer tillbaka år efter år, på samma ställe och vid samma tid:
 gårdagens ställen förbereder morgondagens säsong.
+
+## Utforska
+
+IGN:s kartor laddas ner i förväg: flygfoton, plan, relief, skogskarta, allmänna skogar, gamla skogar,
+fastighetskarta, lutning, vattendrag, höjdkurvor, geologi. Ett långt tryck på kartan visar vad lagret visar just
+där.
+
+- **Jordartskarta (INRAE)** bredvid skogslagren: jordtypen, med sin teckenförklaring, läser du av med ett långt tryck.
+- **Varje lager har sin egen genomskinlighet**, och en global reglage låter dig se satellitbilden genom dem.
+
+<div class="shots">
+<figure><img src="../images/carte-couches.jpg" alt="Kortet Lager: global genomskinlighet, bakgrundskarta och IGN-lagren per rubrik, vart och ett med egen genomskinlighet" loading="lazy"><figcaption>Kortet Lager: global genomskinlighet, bakgrundskarta och IGN-lagren per rubrik, vart och ett med egen genomskinlighet.</figcaption></figure>
+<figure><img src="../images/carte-ici.jpg" alt="Ett långt tryck: vad lagren visar här (skog, status, jord, lutning), regn de senaste 7 dagarna, ”Tillväxt: ogynnsam” och ”Gå dit”" loading="lazy"><figcaption>Ett långt tryck: vad lagren visar här (skog, status, jord, lutning), regn de senaste 7 dagarna, ”Tillväxt: ogynnsam” och ”Gå dit”.</figcaption></figure>
+<figure><img src="../images/carte-zone.jpg" alt="En zon: de 3 bilderna från samma plats, med ”Visa bilderna” och ”Led mig”" loading="lazy"><figcaption>En zon: de 3 bilderna från samma plats, med ”Visa bilderna” och ”Led mig”.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/photo-conditions-pousse.jpg" alt="Växtförhållanden för ett fynd: index 31 av 100, de 4 kriterierna (vatten, regnets tidpunkt, markfukt och marktemperatur), sedan platsens bonusar och avdrag" loading="lazy"><figcaption>Växtförhållanden för ett fynd: index 31 av 100, de 4 kriterierna (vatten, regnets tidpunkt, markfukt och marktemperatur), sedan platsens bonusar och avdrag.</figcaption></figure>
+<figure><img src="../images/reglages-carte.jpg" alt="Inställningar › Karta och offline: bakgrundskarta, lagrens genomskinlighet och lager per rubrik (skog och växtlighet, mark och vatten, relief och lutning)" loading="lazy"><figcaption>Inställningar › Karta och offline: bakgrundskarta, lagrens genomskinlighet och lager per rubrik (skog och växtlighet, mark och vatten, relief och lutning).</figcaption></figure>
+<figure><img src="../images/carte-lune.jpg" alt="Månfasen (här första skäran) och kommande månar, enbart som information" loading="lazy"><figcaption>Månfasen (här första skäran) och kommande månar, enbart som information.</figcaption></figure>
+</div>
+
+### Är det rätt tid att plocka?
+
+SnapSpot analyserar vädret de senaste och kommande dagarna på platsen: regn, markfuktighet och marktemperatur, säsong, miljö. Av det blir det ett **index för växtförhållanden** och på kompatibla iPhone **skriver Apple Intelligence en lättläst tolkning**: är förhållandena gynnsamma, varför, och när du ska ge dig ut igen.
+
+- **Skrivet på din iPhone**: texten skrivs av iPhone själv, inget skickas någonstans. Bara offentliga väderdata hämtas.
+- **Generera om, lyssna, automatisk uppläsning**: en annan formulering med ett tryck, eller uppläsning.
+- **Vägledande, aldrig ett löfte**: en hjälp att välja var och när du letar, utan att någonsin säga om en svamp är ätlig.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="Växtindexet och tolkningen skriven av Apple Intelligence: ”Plockningen ser lovande ut idag… vänta på det ideala fönstret som väntas om 7 dagar”." loading="lazy"><figcaption>Växtindexet och tolkningen skriven av Apple Intelligence: ”Plockningen ser lovande ut idag… vänta på det ideala fönstret som väntas om 7 dagar”.</figcaption></figure>
+</div>
 
 ## Bestäm, med en modell gjord för svamp
 
@@ -81,39 +123,6 @@ stället.*
 > apotekare eller en svampförening kontrollera den.
 
 
-## Utforska och hitta tillbaka till dina ställen
-
-IGN:s kartor laddas ner i förväg: flygfoton, plan, relief, skogskarta, allmänna skogar, gamla skogar,
-fastighetskarta, lutning, vattendrag, höjdkurvor, geologi. Ett långt tryck på kartan visar vad lagret visar just
-där.
-
-- **Jordartskarta (INRAE)** bredvid skogslagren: jordtypen, med sin teckenförklaring, läser du av med ett långt tryck.
-- **Varje lager har sin egen genomskinlighet**, och en global reglage låter dig se satellitbilden genom dem.
-
-<div class="shots">
-<figure><img src="../images/carte-couches.jpg" alt="Kortet Lager: global genomskinlighet, bakgrundskarta och IGN-lagren per rubrik, vart och ett med egen genomskinlighet" loading="lazy"><figcaption>Kortet Lager: global genomskinlighet, bakgrundskarta och IGN-lagren per rubrik, vart och ett med egen genomskinlighet.</figcaption></figure>
-<figure><img src="../images/carte-ici.jpg" alt="Ett långt tryck: vad lagren visar här (skog, status, jord, lutning), regn de senaste 7 dagarna, ”Tillväxt: ogynnsam” och ”Gå dit”" loading="lazy"><figcaption>Ett långt tryck: vad lagren visar här (skog, status, jord, lutning), regn de senaste 7 dagarna, ”Tillväxt: ogynnsam” och ”Gå dit”.</figcaption></figure>
-<figure><img src="../images/carte-zone.jpg" alt="En zon: de 3 bilderna från samma plats, med ”Visa bilderna” och ”Led mig”" loading="lazy"><figcaption>En zon: de 3 bilderna från samma plats, med ”Visa bilderna” och ”Led mig”.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/photo-conditions-pousse.jpg" alt="Växtförhållanden för ett fynd: index 31 av 100, de 4 kriterierna (vatten, regnets tidpunkt, markfukt och marktemperatur), sedan platsens bonusar och avdrag" loading="lazy"><figcaption>Växtförhållanden för ett fynd: index 31 av 100, de 4 kriterierna (vatten, regnets tidpunkt, markfukt och marktemperatur), sedan platsens bonusar och avdrag.</figcaption></figure>
-<figure><img src="../images/reglages-carte.jpg" alt="Inställningar › Karta och offline: bakgrundskarta, lagrens genomskinlighet och lager per rubrik (skog och växtlighet, mark och vatten, relief och lutning)" loading="lazy"><figcaption>Inställningar › Karta och offline: bakgrundskarta, lagrens genomskinlighet och lager per rubrik (skog och växtlighet, mark och vatten, relief och lutning).</figcaption></figure>
-<figure><img src="../images/carte-lune.jpg" alt="Månfasen (här första skäran) och kommande månar, enbart som information" loading="lazy"><figcaption>Månfasen (här första skäran) och kommande månar, enbart som information.</figcaption></figure>
-</div>
-
-## Är det rätt tid att plocka?
-
-SnapSpot analyserar vädret de senaste och kommande dagarna på platsen: regn, markfuktighet och marktemperatur, säsong, miljö. Av det blir det ett **index för växtförhållanden** och på kompatibla iPhone **skriver Apple Intelligence en lättläst tolkning**: är förhållandena gynnsamma, varför, och när du ska ge dig ut igen.
-
-- **Skrivet på din iPhone**: texten skrivs av iPhone själv, inget skickas någonstans. Bara offentliga väderdata hämtas.
-- **Generera om, lyssna, automatisk uppläsning**: en annan formulering med ett tryck, eller uppläsning.
-- **Vägledande, aldrig ett löfte**: en hjälp att välja var och när du letar, utan att någonsin säga om en svamp är ätlig.
-
-<div class="shots one">
-<figure><img src="../images/indice-pousse-ia.jpg" alt="Växtindexet och tolkningen skriven av Apple Intelligence: ”Plockningen ser lovande ut idag… vänta på det ideala fönstret som väntas om 7 dagar”." loading="lazy"><figcaption>Växtindexet och tolkningen skriven av Apple Intelligence: ”Plockningen ser lovande ut idag… vänta på det ideala fönstret som väntas om 7 dagar”.</figcaption></figure>
-</div>
-
 ## Minnas dina fynd
 
 Varje bild med plats blir ett ställe. Bläddra i rutnät eller lista, filtrera på period, art, år eller ätlighet, gruppera bilderna av samma svamp, sätt ut markeringar (bil, vattenpunkt, stuga, anmärkningsvärt träd, utsiktsplats) och lägg till bilder från ditt bibliotek, ett album eller en annan iPhone. Varje bild behåller sin plats, sitt datum, vädret under de föregående dagarna och ett vägledande index för växtförhållanden.
@@ -122,6 +131,27 @@ Varje bild med plats blir ett ställe. Bläddra i rutnät eller lista, filtrera 
 <figure><img src="../images/cueillettes-liste.jpg" alt="Listan: foto, datum, plats, art och ätlighet för varje fynd" loading="lazy"><figcaption>Listan: foto, datum, plats, art och ätlighet för varje fynd.</figcaption></figure>
 <figure><img src="../images/cueillettes-plus.jpg" alt="Fler åtgärder: lägg till bilder (kamera, bibliotek, album, annan iPhone) och städa (dubbletter, bilder utan svamp)" loading="lazy"><figcaption>Fler åtgärder: lägg till bilder (kamera, bibliotek, album, annan iPhone) och städa (dubbletter, bilder utan svamp).</figcaption></figure>
 <figure><img src="../images/carte-filtres.jpg" alt="Kartfilter: period, ätlighet, art och ”Anpassa kartan” till dina fynd" loading="lazy"><figcaption>Kartfilter: period, ätlighet, art och ”Anpassa kartan” till dina fynd.</figcaption></figure>
+</div>
+
+### Gå och skapa dina egna rutter
+
+- **GPS-spårning** av dina promenader: sträcka, höjdskillnad, hastighet, pauser och markeringar, även med låst skärm.
+- **Egna rutter**: koppla ihop dina fynd eller sätt ut punkter på kartan, så leder SnapSpot dig från punkt till punkt.
+- **Tillbaka till start** i rak linje, längs ditt eget spår eller längs stigarna. Bara ”Längs stigarna” kontaktar IGN:s ruttjänst, med din position och målet, aldrig dina bilder eller ställen.
+- **Inspelningslåda**: tid, sträcka, hastighet och markeringar med en blick, paus, stopp och ”Tillbaka till start” under tummen.
+- **Biligenkänning**: glömmer du stoppa inspelningen i bilen föreslår SnapSpot att klippa bort slutet av turen.
+- **Solnedgångspåminnelse**: en avisering när det är dags att vända hemåt, så att natten inte överraskar dig.
+
+<div class="shots">
+<figure><img src="../images/balades-parcours.jpg" alt="Turer: dina spår per datum, med periodens sammanfattning och antal bilder för varje" loading="lazy"><figcaption>Turer: dina spår per datum, med periodens sammanfattning och antal bilder för varje.</figcaption></figure>
+<figure><img src="../images/balade-detail.jpg" alt="En tur: spår färgat efter hastighet, miniatyrer av tagna bilder, siffror och profil" loading="lazy"><figcaption>En tur: spår färgat efter hastighet, miniatyrer av tagna bilder, siffror och profil.</figcaption></figure>
+<figure><img src="../images/enregistrement-detaille.jpg" alt="Pågående inspelning: tid, sträcka, hastighet, höjdskillnad och ”Tillbaka till start”" loading="lazy"><figcaption>Pågående inspelning: tid, sträcka, hastighet, höjdskillnad och ”Tillbaka till start”.</figcaption></figure>
+</div>
+
+<div class="shots">
+<figure><img src="../images/fin-de-parcours.jpg" alt="Slutet på en tur: spara, återuppta inspelningen eller radera" loading="lazy"><figcaption>Slutet på en tur: spara, återuppta inspelningen eller radera.</figcaption></figure>
+<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mina rutter: skapa en rutt, rita den med fingret eller importera en .snapspot-fil" loading="lazy"><figcaption>Mina rutter: skapa en rutt, rita den med fingret eller importera en .snapspot-fil.</figcaption></figure>
+<figure><img src="../images/balade-actions.jpg" alt="Åtgärder för en tur: byt namn, anteckna, beskär, slå ihop GPX; tillbaka till start, följ punkter, konvertera till rutt" loading="lazy"><figcaption>Åtgärder för en tur: byt namn, anteckna, beskär, slå ihop GPX; tillbaka till start, följ punkter, konvertera till rutt.</figcaption></figure>
 </div>
 
 ## Hitta tillbaka till ett ställe
@@ -157,27 +187,6 @@ korrigera din kurs.
 
 *Skärmbilder tagna med demonstrationsdata.*
 
-
-## Gå och skapa dina egna rutter
-
-- **GPS-spårning** av dina promenader: sträcka, höjdskillnad, hastighet, pauser och markeringar, även med låst skärm.
-- **Egna rutter**: koppla ihop dina fynd eller sätt ut punkter på kartan, så leder SnapSpot dig från punkt till punkt.
-- **Tillbaka till start** i rak linje, längs ditt eget spår eller längs stigarna. Bara ”Längs stigarna” kontaktar IGN:s ruttjänst, med din position och målet, aldrig dina bilder eller ställen.
-- **Inspelningslåda**: tid, sträcka, hastighet och markeringar med en blick, paus, stopp och ”Tillbaka till start” under tummen.
-- **Biligenkänning**: glömmer du stoppa inspelningen i bilen föreslår SnapSpot att klippa bort slutet av turen.
-- **Solnedgångspåminnelse**: en avisering när det är dags att vända hemåt, så att natten inte överraskar dig.
-
-<div class="shots">
-<figure><img src="../images/balades-parcours.jpg" alt="Turer: dina spår per datum, med periodens sammanfattning och antal bilder för varje" loading="lazy"><figcaption>Turer: dina spår per datum, med periodens sammanfattning och antal bilder för varje.</figcaption></figure>
-<figure><img src="../images/balade-detail.jpg" alt="En tur: spår färgat efter hastighet, miniatyrer av tagna bilder, siffror och profil" loading="lazy"><figcaption>En tur: spår färgat efter hastighet, miniatyrer av tagna bilder, siffror och profil.</figcaption></figure>
-<figure><img src="../images/enregistrement-detaille.jpg" alt="Pågående inspelning: tid, sträcka, hastighet, höjdskillnad och ”Tillbaka till start”" loading="lazy"><figcaption>Pågående inspelning: tid, sträcka, hastighet, höjdskillnad och ”Tillbaka till start”.</figcaption></figure>
-</div>
-
-<div class="shots">
-<figure><img src="../images/fin-de-parcours.jpg" alt="Slutet på en tur: spara, återuppta inspelningen eller radera" loading="lazy"><figcaption>Slutet på en tur: spara, återuppta inspelningen eller radera.</figcaption></figure>
-<figure><img src="../images/balades-mes-itineraires.jpg" alt="Mina rutter: skapa en rutt, rita den med fingret eller importera en .snapspot-fil" loading="lazy"><figcaption>Mina rutter: skapa en rutt, rita den med fingret eller importera en .snapspot-fil.</figcaption></figure>
-<figure><img src="../images/balade-actions.jpg" alt="Åtgärder för en tur: byt namn, anteckna, beskär, slå ihop GPX; tillbaka till start, följ punkter, konvertera till rutt" loading="lazy"><figcaption>Åtgärder för en tur: byt namn, anteckna, beskär, slå ihop GPX; tillbaka till start, följ punkter, konvertera till rutt.</figcaption></figure>
-</div>
 
 ## Vandringar
 

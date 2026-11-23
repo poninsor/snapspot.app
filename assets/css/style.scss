@@ -37,3 +37,9 @@ header p.view, footer p:first-child { display: none; }
 .store .google { height: 58px; margin: -9px 0; }
 .store.is-off { opacity: 0.45; filter: grayscale(0.4); pointer-events: none; cursor: default; }
 .stores .soon { font-size: 0.8em; opacity: 0.7; }
+
+.toc { background: rgba(127,127,127,.08); border-radius: 14px; padding: 12px 18px; margin: 18px 0; }
+.toc .toc-title { margin: 0 0 6px; font-weight: 700; }
+.toc ul { margin: 0; padding-left: 1.2em; }
+.toc > ul { columns: 2 260px; column-gap: 28px; }
+.toc li { break-inside: avoid; margin: 2px 0; }
