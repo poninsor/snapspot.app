@@ -102,6 +102,18 @@ där.
 <figure><img src="../images/carte-lune.jpg" alt="Månfasen (här första skäran) och kommande månar, enbart som information" loading="lazy"><figcaption>Månfasen (här första skäran) och kommande månar, enbart som information.</figcaption></figure>
 </div>
 
+## Är det rätt tid att plocka?
+
+SnapSpot analyserar vädret de senaste och kommande dagarna på platsen: regn, markfuktighet och marktemperatur, säsong, miljö. Av det blir det ett **index för växtförhållanden** och på kompatibla iPhone **skriver Apple Intelligence en lättläst tolkning**: är förhållandena gynnsamma, varför, och när du ska ge dig ut igen.
+
+- **Skrivet på din iPhone**: texten skrivs av iPhone själv, inget skickas någonstans. Bara offentliga väderdata hämtas.
+- **Generera om, lyssna, automatisk uppläsning**: en annan formulering med ett tryck, eller uppläsning.
+- **Vägledande, aldrig ett löfte**: en hjälp att välja var och när du letar, utan att någonsin säga om en svamp är ätlig.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="Växtindexet och tolkningen skriven av Apple Intelligence: ”Plockningen ser lovande ut idag… vänta på det ideala fönstret som väntas om 7 dagar”." loading="lazy"><figcaption>Växtindexet och tolkningen skriven av Apple Intelligence: ”Plockningen ser lovande ut idag… vänta på det ideala fönstret som väntas om 7 dagar”.</figcaption></figure>
+</div>
+
 ## Minnas dina fynd
 
 Varje bild med plats blir ett ställe. Bläddra i rutnät eller lista, filtrera på period, art, år eller ätlighet, gruppera bilderna av samma svamp, sätt ut markeringar (bil, vattenpunkt, stuga, anmärkningsvärt träd, utsiktsplats) och lägg till bilder från ditt bibliotek, ett album eller en annan iPhone. Varje bild behåller sin plats, sitt datum, vädret under de föregående dagarna och ett vägledande index för växtförhållanden.

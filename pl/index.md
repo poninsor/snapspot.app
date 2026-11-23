@@ -103,6 +103,18 @@ warstwa w tym miejscu.
 <figure><img src="../images/carte-lune.jpg" alt="Faza księżyca (tu pierwszy sierp) i kolejne nowie i pełnie, wyłącznie informacyjnie" loading="lazy"><figcaption>Faza księżyca (tu pierwszy sierp) i kolejne nowie i pełnie, wyłącznie informacyjnie.</figcaption></figure>
 </div>
 
+## Czy to dobry moment na grzybobranie?
+
+SnapSpot analizuje pogodę z minionych i nadchodzących dni w danym miejscu: deszcz, wilgotność i temperaturę gleby, porę roku, siedlisko. Powstaje z tego **wskaźnik warunków wzrostu**, a na zgodnych iPhone'ach **Apple Intelligence pisze zrozumiałą interpretację**: czy warunki sprzyjają, dlaczego i kiedy wyruszyć ponownie.
+
+- **Napisane na Twoim iPhonie**: tekst tworzy sam iPhone, nic nie jest nigdzie wysyłane. Pobierane są tylko publiczne dane pogodowe.
+- **Ponów, posłuchaj, automatyczne czytanie**: inne sformułowanie jednym dotknięciem lub czytanie na głos.
+- **Orientacyjnie, nigdy jako obietnica**: pomoc w wyborze miejsca i czasu poszukiwań, bez mówienia, czy grzyb jest jadalny.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="Wskaźnik wzrostu i interpretacja napisana przez Apple Intelligence: „Zbiór zapowiada się dziś obiecująco… poczekaj na idealne okno zapowiadane za 7 dni”." loading="lazy"><figcaption>Wskaźnik wzrostu i interpretacja napisana przez Apple Intelligence: „Zbiór zapowiada się dziś obiecująco… poczekaj na idealne okno zapowiadane za 7 dni”.</figcaption></figure>
+</div>
+
 ## Zapamiętywać znaleziska
 
 Każde zdjęcie z lokalizacją staje się miejscem. Przeglądaj je w siatce lub na liście, filtruj według okresu, gatunku, roku lub jadalności, grupuj zdjęcia tego samego grzyba, stawiaj znaczniki (samochód, źródło wody, szałas, wyjątkowe drzewo, punkt widokowy) i dodawaj zdjęcia z biblioteki, z albumu lub z innego iPhone'a. Każde zdjęcie zachowuje swoje miejsce, datę, pogodę z poprzednich dni i orientacyjny wskaźnik warunków wzrostu.

@@ -104,6 +104,18 @@ qué muestra la capa en ese lugar.
 <figure><img src="../images/carte-lune.jpg" alt="La fase de la luna (aquí el primer creciente) y las próximas lunas, a título orientativo" loading="lazy"><figcaption>La fase de la luna (aquí el primer creciente) y las próximas lunas, a título orientativo.</figcaption></figure>
 </div>
 
+## ¿Es buen momento para ir a buscar setas?
+
+SnapSpot analiza la meteorología de los días pasados y próximos en el lugar: lluvia, humedad y temperatura del suelo, estación, hábitat. De ahí sale un **índice de condiciones de crecimiento** y, en los iPhone compatibles, **Apple Intelligence redacta una interpretación en lenguaje claro**: si las condiciones son propicias, por qué y cuándo volver a salir.
+
+- **Redactado en tu iPhone**: el texto lo escribe el propio iPhone, no se envía nada. Solo se descargan datos meteorológicos públicos.
+- **Regenerar, escuchar, lectura automática**: otra formulación con un toque, o lectura en voz alta.
+- **Orientativo, nunca una promesa**: una ayuda para elegir dónde y cuándo buscar, sin decir jamás si una seta es comestible.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="El índice de crecimiento y su interpretación redactada por Apple Intelligence: «La recolección es prometedora hoy… espera la ventana ideal prevista dentro de 7 días»." loading="lazy"><figcaption>El índice de crecimiento y su interpretación redactada por Apple Intelligence: «La recolección es prometedora hoy… espera la ventana ideal prevista dentro de 7 días».</figcaption></figure>
+</div>
+
 ## Memorizar tus hallazgos
 
 Cada foto con ubicación se convierte en un spot. Recórrelos en cuadrícula o en lista, filtra por periodo, especie, año o comestibilidad, agrupa las fotos de una misma seta, coloca marcas (coche, punto de agua, cabaña, árbol singular, mirador) y añade fotos desde tu fototeca, un álbum u otro iPhone. Cada foto conserva su lugar, su fecha, el tiempo de los días anteriores y un índice orientativo de condiciones de crecimiento.

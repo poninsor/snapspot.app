@@ -104,6 +104,18 @@ montre la couche à cet endroit.
 <figure><img src="images/carte-lune.jpg" alt="La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif" loading="lazy"><figcaption>La phase de la lune (ici le premier croissant) et les prochaines lunes, à titre indicatif.</figcaption></figure>
 </div>
 
+## Est-ce le bon moment pour cueillir ?
+
+SnapSpot analyse la météo des jours passés et à venir à l'endroit de la cueillette : pluie, humidité et température du sol, saison, milieu. Il en tire un **indice de conditions de pousse**, puis, sur les iPhone compatibles, **Apple Intelligence rédige une interprétation en français courant** : les conditions sont-elles propices, pourquoi, et quand ressortir.
+
+- **Écrit sur votre iPhone** : le texte est rédigé par l'iPhone lui-même, rien n'est envoyé nulle part. Seules les données météo publiques sont téléchargées.
+- **Relancer, écouter, lecture auto** : une autre formulation d'un appui, ou lecture à voix haute.
+- **Indicatif, jamais une promesse** : une aide pour choisir où et quand chercher, sans jamais dire si un champignon se mange.
+
+<div class="shots one">
+<figure><img src="images/indice-pousse-ia.jpg" alt="L'indice de pousse et son interprétation rédigée par Apple Intelligence : « La récolte est prometteuse aujourd'hui… attendre la fenêtre idéale prévue dans 7 jours »." loading="lazy"><figcaption>L'indice de pousse et son interprétation rédigée par Apple Intelligence : « La récolte est prometteuse aujourd'hui… attendre la fenêtre idéale prévue dans 7 jours ».</figcaption></figure>
+</div>
+
 ## Mémoriser vos cueillettes
 
 Chaque photo géolocalisée devient un spot. Parcourez-les en grille ou en liste, filtrez par période, espèce, année ou comestibilité, regroupez les photos d'un même champignon, posez des repères (voiture, point d'eau, cabane, arbre remarquable, panorama) et ajoutez des photos depuis votre photothèque, un album ou un autre iPhone. Chaque photo garde son lieu, sa date, la météo des jours précédents et un indice indicatif de conditions de pousse.

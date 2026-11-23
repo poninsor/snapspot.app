@@ -104,6 +104,18 @@ que a camada mostra nesse local.
 <figure><img src="../images/carte-lune.jpg" alt="A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo" loading="lazy"><figcaption>A fase da lua (aqui o primeiro crescente) e as próximas luas, a título indicativo.</figcaption></figure>
 </div>
 
+## É boa altura para ir apanhar cogumelos?
+
+O SnapSpot analisa o tempo dos dias passados e seguintes no local: chuva, humidade e temperatura do solo, estação, habitat. Daí sai um **índice de condições de crescimento** e, nos iPhone compatíveis, **a Apple Intelligence escreve uma interpretação em linguagem simples**: as condições são favoráveis, porquê, e quando voltar a sair.
+
+- **Escrito no seu iPhone**: o texto é escrito pelo próprio iPhone, nada é enviado. Só se descarregam dados meteorológicos públicos.
+- **Regenerar, ouvir, leitura automática**: outra formulação com um toque, ou leitura em voz alta.
+- **Indicativo, nunca uma promessa**: uma ajuda para escolher onde e quando procurar, sem nunca dizer se um cogumelo é comestível.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="O índice de crescimento e a sua interpretação escrita pela Apple Intelligence: «A colheita é promissora hoje… espere pela janela ideal prevista dentro de 7 dias»." loading="lazy"><figcaption>O índice de crescimento e a sua interpretação escrita pela Apple Intelligence: «A colheita é promissora hoje… espere pela janela ideal prevista dentro de 7 dias».</figcaption></figure>
+</div>
+
 ## Memorizar os seus achados
 
 Cada fotografia com localização torna-se um spot. Percorra-os em grelha ou em lista, filtre por período, espécie, ano ou comestibilidade, agrupe as fotografias do mesmo cogumelo, coloque marcadores (carro, ponto de água, cabana, árvore notável, miradouro) e junte fotografias da sua fototeca, de um álbum ou de outro iPhone. Cada fotografia guarda o seu local, a sua data, o tempo dos dias anteriores e um índice indicativo das condições de crescimento.

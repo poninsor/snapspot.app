@@ -106,6 +106,18 @@ toont.
 <figure><img src="../images/carte-lune.jpg" alt="De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie" loading="lazy"><figcaption>De maanfase (hier de eerste sikkel) en de komende manen, uitsluitend ter informatie.</figcaption></figure>
 </div>
 
+## Is het een goed moment om te plukken?
+
+SnapSpot analyseert het weer van de afgelopen en komende dagen op de plek: regen, bodemvocht en -temperatuur, seizoen, leefgebied. Daaruit komt een **groeiomstandighedenindex** en op compatibele iPhones **schrijft Apple Intelligence een begrijpelijke duiding**: zijn de omstandigheden gunstig, waarom, en wanneer je er weer op uit kunt.
+
+- **Geschreven op je iPhone**: de tekst wordt door de iPhone zelf geschreven, er wordt niets verstuurd. Alleen openbare weergegevens worden gedownload.
+- **Opnieuw, voorlezen, automatisch voorlezen**: een andere formulering met één tik, of hardop voorlezen.
+- **Indicatief, nooit een belofte**: een hulp om te kiezen waar en wanneer je zoekt, zonder ooit te zeggen of een paddenstoel eetbaar is.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="De groei-index en de door Apple Intelligence geschreven duiding: „Plukken ziet er vandaag veelbelovend uit… wacht op het ideale venster dat over 7 dagen wordt verwacht”." loading="lazy"><figcaption>De groei-index en de door Apple Intelligence geschreven duiding: „Plukken ziet er vandaag veelbelovend uit… wacht op het ideale venster dat over 7 dagen wordt verwacht”.</figcaption></figure>
+</div>
+
 ## Je vondsten onthouden
 
 Elke foto met locatie wordt een spot. Blader erdoorheen als raster of lijst, filter op periode, soort, jaar of eetbaarheid, groepeer de foto's van dezelfde paddenstoel, zet markeringen (auto, waterpunt, hut, opvallende boom, uitkijkpunt) en voeg foto's toe uit je bibliotheek, een album of een andere iPhone. Elke foto bewaart zijn plaats, zijn datum, het weer van de voorgaande dagen en een indicatieve index van de groeiomstandigheden.

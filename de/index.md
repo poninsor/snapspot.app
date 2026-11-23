@@ -104,6 +104,18 @@ dieser Stelle darstellt.
 <figure><img src="../images/carte-lune.jpg" alt="Die Mondphase (hier die erste Sichel) und die nächsten Monde, nur zur Information" loading="lazy"><figcaption>Die Mondphase (hier die erste Sichel) und die nächsten Monde, nur zur Information.</figcaption></figure>
 </div>
 
+## Ist jetzt ein guter Zeitpunkt zum Sammeln?
+
+SnapSpot wertet das Wetter der vergangenen und kommenden Tage am Fundort aus: Regen, Bodenfeuchte und -temperatur, Jahreszeit, Lebensraum. Daraus entsteht ein **Wachstumsindex**, und auf kompatiblen iPhones **verfasst Apple Intelligence eine verständliche Einschätzung**: Sind die Bedingungen günstig, warum, und wann lohnt sich der nächste Ausflug.
+
+- **Auf Ihrem iPhone geschrieben**: Der Text entsteht auf dem iPhone selbst, nichts wird irgendwohin gesendet. Nur öffentliche Wetterdaten werden geladen.
+- **Neu formulieren, vorlesen, automatisch vorlesen**: eine andere Formulierung mit einem Tipp oder Vorlesen.
+- **Unverbindlich, nie ein Versprechen**: eine Hilfe, um zu entscheiden, wo und wann man sucht – ohne je zu sagen, ob ein Pilz essbar ist.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="Der Wachstumsindex und die von Apple Intelligence verfasste Einschätzung: „Die Ernte ist heute vielversprechend … warten Sie auf das in 7 Tagen vorhergesagte ideale Fenster“." loading="lazy"><figcaption>Der Wachstumsindex und die von Apple Intelligence verfasste Einschätzung: „Die Ernte ist heute vielversprechend … warten Sie auf das in 7 Tagen vorhergesagte ideale Fenster“.</figcaption></figure>
+</div>
+
 ## Ihre Funde festhalten
 
 Jedes Foto mit Standort wird zu einem Spot. Blättern Sie im Raster oder in der Liste, filtern Sie nach Zeitraum, Art, Jahr oder Essbarkeit, fassen Sie die Fotos desselben Pilzes zusammen, setzen Sie Markierungen (Auto, Wasserstelle, Hütte, markanter Baum, Aussichtspunkt) und fügen Sie Fotos aus Ihrer Mediathek, einem Album oder von einem anderen iPhone hinzu. Jedes Foto behält seinen Ort, sein Datum, das Wetter der Vortage und einen unverbindlichen Index der Wuchsbedingungen.

@@ -104,6 +104,18 @@ spot.
 <figure><img src="../images/carte-lune.jpg" alt="The moon phase (here the first crescent) and the coming moons, for information only" loading="lazy"><figcaption>The moon phase (here the first crescent) and the coming moons, for information only.</figcaption></figure>
 </div>
 
+## Is it a good time to go picking?
+
+SnapSpot analyses the weather of the past and coming days at the spot: rain, soil moisture and temperature, season, habitat. From it comes a **growth-conditions index** and, on compatible iPhones, **Apple Intelligence writes a plain-language interpretation**: are conditions favourable, why, and when to go back out.
+
+- **Written on your iPhone**: the text is written by the iPhone itself, nothing is sent anywhere. Only public weather data is downloaded.
+- **Regenerate, listen, auto-read**: another wording in one tap, or read aloud.
+- **Indicative, never a promise**: a help to choose where and when to look, never a statement that a mushroom is edible.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="The growth index and its Apple Intelligence interpretation: “Picking looks promising today… wait for the ideal window forecast in 7 days”." loading="lazy"><figcaption>The growth index and its Apple Intelligence interpretation: “Picking looks promising today… wait for the ideal window forecast in 7 days”.</figcaption></figure>
+</div>
+
 ## Remember your finds
 
 Every geotagged photo becomes a spot. Browse them as a grid or a list, filter by period, species, year or edibility, group the photos of the same mushroom, drop markers (car, water point, hut, remarkable tree, viewpoint) and add photos from your library, an album or another iPhone. Each photo keeps its place, its date, the weather of the previous days and an indicative growing-conditions index.

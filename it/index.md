@@ -104,6 +104,18 @@ cosa mostra il livello in quel punto.
 <figure><img src="../images/carte-lune.jpg" alt="La fase lunare (qui il primo crescente) e le prossime lune, a titolo indicativo" loading="lazy"><figcaption>La fase lunare (qui il primo crescente) e le prossime lune, a titolo indicativo.</figcaption></figure>
 </div>
 
+## È il momento giusto per andare a funghi?
+
+SnapSpot analizza il meteo dei giorni passati e prossimi nel luogo: pioggia, umidità e temperatura del suolo, stagione, habitat. Ne ricava un **indice delle condizioni di crescita** e, sugli iPhone compatibili, **Apple Intelligence scrive un'interpretazione in linguaggio semplice**: le condizioni sono favorevoli, perché, e quando tornare.
+
+- **Scritto sul tuo iPhone**: il testo è scritto dall'iPhone stesso, nulla viene inviato altrove. Si scaricano solo dati meteo pubblici.
+- **Rigenera, ascolta, lettura automatica**: un'altra formulazione con un tocco, o lettura ad alta voce.
+- **Indicativo, mai una promessa**: un aiuto per scegliere dove e quando cercare, senza mai dire se un fungo è commestibile.
+
+<div class="shots one">
+<figure><img src="../images/indice-pousse-ia.jpg" alt="L'indice di crescita e la sua interpretazione scritta da Apple Intelligence: «La raccolta è promettente oggi… aspetta la finestra ideale prevista tra 7 giorni»." loading="lazy"><figcaption>L'indice di crescita e la sua interpretazione scritta da Apple Intelligence: «La raccolta è promettente oggi… aspetta la finestra ideale prevista tra 7 giorni».</figcaption></figure>
+</div>
+
 ## Memorizzare i tuoi ritrovamenti
 
 Ogni foto con posizione diventa uno spot. Scorrili in griglia o in elenco, filtra per periodo, specie, anno o commestibilità, raggruppa le foto dello stesso fungo, posiziona segnaposto (auto, punto d'acqua, capanna, albero notevole, punto panoramico) e aggiungi foto dalla tua libreria, da un album o da un altro iPhone. Ogni foto conserva il suo luogo, la sua data, il meteo dei giorni precedenti e un indice indicativo delle condizioni di crescita.
