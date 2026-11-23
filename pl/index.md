@@ -5,7 +5,7 @@ title: "SnapSpot: Grzyby i Szlaki"
 ---
 {% include langs.html %}
 
-# SnapSpot: Grzyby i Szlaki
+# <img class="app-icon" src="../images/app-icon.png" alt=""> SnapSpot: Grzyby i Szlaki
 {:.no_toc}
 
 <p class="hero">Twoje miejsca. Twoje zbiory.<br>Tylko dla Ciebie.</p>

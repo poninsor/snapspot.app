@@ -5,7 +5,7 @@ title: "SnapSpot : Champis & Randos"
 ---
 {% include langs.html %}
 
-# SnapSpot : Champis & Randos
+# <img class="app-icon" src="images/app-icon.png" alt=""> SnapSpot : Champis & Randos
 {:.no_toc}
 
 <p class="hero">Vos coins. Vos cueillettes.<br>À vous seuls.</p>

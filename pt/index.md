@@ -5,7 +5,7 @@ title: "SnapSpot: Cogumelos e Trilhos"
 ---
 {% include langs.html %}
 
-# SnapSpot: Cogumelos e Trilhos
+# <img class="app-icon" src="../images/app-icon.png" alt=""> SnapSpot: Cogumelos e Trilhos
 {:.no_toc}
 
 <p class="hero">Os seus cantinhos. As suas colheitas.<br>Só seus.</p>

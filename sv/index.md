@@ -5,7 +5,7 @@ title: "SnapSpot: Svamp & Vandring"
 ---
 {% include langs.html %}
 
-# SnapSpot: Svamp & Vandring
+# <img class="app-icon" src="../images/app-icon.png" alt=""> SnapSpot: Svamp & Vandring
 {:.no_toc}
 
 <p class="hero">Dina ställen. Dina fynd.<br>Bara dina.</p>

@@ -5,7 +5,7 @@ title: "SnapSpot: Setas y Rutas"
 ---
 {% include langs.html %}
 
-# SnapSpot: Setas y Rutas
+# <img class="app-icon" src="../images/app-icon.png" alt=""> SnapSpot: Setas y Rutas
 {:.no_toc}
 
 <p class="hero">Tus rincones. Tus hallazgos.<br>Solo tuyos.</p>

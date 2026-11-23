@@ -5,7 +5,7 @@ title: "SnapSpot: Paddenstoelen"
 ---
 {% include langs.html %}
 
-# SnapSpot: Paddenstoelen
+# <img class="app-icon" src="../images/app-icon.png" alt=""> SnapSpot: Paddenstoelen
 {:.no_toc}
 
 <p class="hero">Jouw plekjes. Jouw vondsten.<br>Alleen van jou.</p>

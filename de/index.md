@@ -5,7 +5,7 @@ title: "SnapSpot: Pilze & Wandern"
 ---
 {% include langs.html %}
 
-# SnapSpot: Pilze & Wandern
+# <img class="app-icon" src="../images/app-icon.png" alt=""> SnapSpot: Pilze & Wandern
 {:.no_toc}
 
 <p class="hero">Ihre Plätze. Ihre Funde.<br>Nur für Sie.</p>
